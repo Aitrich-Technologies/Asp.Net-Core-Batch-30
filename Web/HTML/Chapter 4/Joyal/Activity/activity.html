@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html chapter 4 activity</title>
+</head>
+<body>
+    <h2>HTML form that collects the user's name, email address, and a message. Include appropriate labels for each field and a "Submit" button.   </h2>
+    <form align="center">
+        <label>Username:</label>
+        <input type="text" name="user"><br><br>
+        <label>E-mail : </label> &nbsp; &nbsp;
+        <input type="email" name="mail"><br><br>
+        <label >Message :</label>
+        <textarea name="message" rows="3px" cols="20px"></textarea><br><br>
+        <button type="submit" name="submit">submit</button>
+    </form>
+    <br>
+    <h2>HTML form that allows users to select their preferred programming languages using checkboxes and their preferred operating system using radio buttons</h2>
+    <form align="center">
+        <input type="checkbox" name="html">HTML &nbsp; <input type="radio" name="windows">Windows <br><br>
+        <input type="checkbox" name="css">CSS &nbsp; &nbsp; <input type="radio" name="linux">Linux <br><br>
+    </form>
+    <br>
+    <br>
+    <h2>HTML form that allows users to order a pizza. Provide dropdown menus for selecting pizza size, crust type, and toppings</h2>
+    <form align="center">
+        <label>Select Pizza size : </label>
+        <select name="pizza_size">
+            <option>--Select--</option>
+            <option value="small">Small</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+        </select>
+        <br>
+        <br>
+        <label>Select Crust type : </label>
+        <select name="crust_type">
+            <option>--Select--</option>
+            <option value="thin">Thin crust</option>
+            <option value="thick">Thick crust</option>
+        </select>
+        <br>
+        <br>
+        <label>Select Toppings : </label>
+        <select name="toppings">
+            <option>--Select--</option>
+            <option value="mushroom">Mushroom</option>
+            <option value="cheese">Cheese</option>
+        </select>
+        <br><br>
+        <button type="submit" value="Place_order">Place order</button>
+
+    </form>
+</body>
+</html>
