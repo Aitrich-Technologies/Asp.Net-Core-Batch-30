@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking</title>
+</head>
+<body>
+    
+        <h1 align="center">Travel Registration Form </h1>
+        <hr>
+    <form>
+        <fieldset>
+            <b>Travel information</b>
+            <table>
+        <br>
+        <br>
+        Name:<br>        
+        <input type="text" name="text">  
+        <br>
+        <br>
+        Email:<br>
+        <input type="email" name="email">
+        <hr>
+        <b>Details</b>
+        <br>
+        <br>
+        <select name="Travel">
+            <option value="TravelDestination" selected>Travel</option>
+        </select>
+        <br>
+        <br>
+        Date:<br>
+        <input type="date" name="date">
+        <br>
+        <br>
+        Number of Travels: <br>
+        <input type="number" name="number">
+        <br>
+        <br>
+        Preferred Class:<br>
+        <input type="radio" name="Preferred Class">Economy    <input type="radio" name="Preferred Class">Buisness   <input type="radio" name="Preferred Class">First class
+        <br>
+        <br>
+        Special Request:
+        <textarea rows="5" cols="50" name="Special Request"></textarea>
+        <hr>
+
+         <tr>
+                    <td><input type="checkbox" name="agree" required></td>
+                    <td>I agree to the terms and conditions.</td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="Submit">
+                        <input type="reset" value="Reset">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+
+
+    </form>
+</body>
+</html>
