@@ -1,0 +1,180 @@
+.sidebar{
+    height: 1000px;
+    width: 15%;
+    background-color: #34a4e4;
+    color: white;
+    float: left;
+}
+.sidebar-menu{
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    display: block;
+}
+.sidebar-menu li:hover{
+    background-color: rgb(14, 10, 5);
+    border-radius: 5px;
+}
+.sidebar-down{
+    margin-left: 25px;
+    margin-top: 180px;
+}
+.sidebar-text-1{
+    margin-left: 45px;
+    margin-top: -40px;
+}
+.sidebar-text-2{
+    margin-left: 45px;
+    margin-top: -15px;
+    color: black;
+}
+.sidebar-down button{
+    width: 150px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.header table{
+    font-size: 20px;
+    font-weight: bold;
+}
+.td1{
+    color: grey;
+    font-weight: lighter;
+}
+.main{
+    position: relative;
+}
+.profile{
+    border: 1px solid rgb(206, 206, 206);
+    height: 450px;
+    width: 20%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.b1{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: #117ebd;
+    background-color: #aad2e8;
+}
+.b1:hover{
+    background-color: #97c4de;
+}
+button:hover{
+      background-color: #a5bfce;
+    }
+    
+.about{
+    border: 1px solid rgb(206, 206, 206);
+    height: 220px;
+    width: 20%;
+    position: absolute;left: 246px;
+    top: 500px;
+    float: left;
+}
+button:hover{
+      background-color: #777;
+    }
+.skills{
+    border: 1px solid rgb(206, 206, 206);
+    height: 260px;
+    width: 60%;
+    position: absolute; left: 580px;
+    margin-top: 20px;
+    margin-left: px;
+    float: right;
+}
+button:hover{
+      background-color: #777;
+    }
+.education{
+    border: 1px solid rgb(206, 206, 206);
+    height: 260px;
+    width: 60%;
+    position: absolute; left: 580px;
+    top: 260px;
+    margin-top: 40px;
+}
+button:hover{
+      background-color: #777;
+    }
+.experience{
+
+    border: 1px solid rgb(206, 206, 206);
+    height: 220px;
+    width: 100%;
+    position: absolute; 
+    top: 280px;
+}
+button:hover{
+      background-color: #777;
+    }
+.footer-banner{
+    padding: 10px;
+    height: 240px;
+    margin-top: 140px;
+    margin-left: -582px;
+    background-color: #34a4e4;
+    color: white;
+}
+.footer-banner input{
+    margin-left: 482px;
+    width: 600px;
+    border-radius: 5px;
+    border: none;
+    padding: 20px;
+}
+.footer-banner button{
+    margin-left: -120px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #34a4e4;
+    cursor: pointer;
+}
+button:hover{
+      background-color: #70b3c7;
+    }
+.footer{
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    position:absolute;left: -420px;
+}
+.footer img{
+    justify-content: space-between;
+    flex: 1;
+    
+}
+.footer-section{
+    flex: 1;
+    min-width: 150px;
+}
+.footer-section h4{
+   color: #333;
+}
+.footer-section p, .footer-section li{
+    color: #777;
+}
+.footer-bottom{
+    text-align: center;
+    padding: 10px;
+    margin-left: -800px;
+}
+.footer-section hr{
+    margin-left: -1060px;
+    margin-top: 40px
+}
+.lef{
+    margin-left: -1180px;
+    color: #777;
+}
+.rig{
+    margin-right: -650px;
+    margin-top: -15px;
+    color: #777;
+}
