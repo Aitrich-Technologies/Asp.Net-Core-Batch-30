@@ -1,0 +1,39 @@
+.h1{
+font-size: 18px;
+color: white;
+background-color: blue;
+width: 250px;
+
+text-align: center;
+padding: 3px;
+}
+.h2{
+font-size: 18px;
+color: blue;
+background-color: white;
+width: 250px;
+
+text-align: center;
+padding: 3px;
+}
+
+.box{
+    width: 256px;
+    height: 900px;
+    background-color: blue;
+}
+
+body{
+    background-color: grey;
+}
+.p{
+    position: absolute;
+    font-size: 50px;
+    color: brown;
+    left: 700px;
+    top: 30px;
+    border: 1px solid white;
+    padding: 20px;
+ 
+   text-align: center;
+}
