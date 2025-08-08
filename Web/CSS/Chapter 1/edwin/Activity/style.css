@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.layout-table {
+  width: 600px;
+  height: 200px;
+  background-color: #ccc;
+  border-collapse: collapse;
+}
+
+.left-column {
+  width: 150px;
+  vertical-align: top;
+}
+
+.inner-table {
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+}
+
+.jobs {
+  background-color: white;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.application {
+  background-color: #0074d9;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  height: 100%;
+}
+
+.right-column {
+  text-align: center;
+}
+
+.right-text {
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  color: red;
+  font-weight: bold;
+}

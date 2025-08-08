@@ -1,0 +1,99 @@
+.body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.sidebar {
+  width: 250px;
+  height: 100%;
+  background-color: #20a6fc;
+  position: absolute;
+  font-family: serif;
+  
+
+
+}
+
+.welcome {
+  position: absolute;
+  width: 100%;
+  background-color: white;
+  font-family: serif;
+
+}
+.profile {
+  position: absolute;
+  width: 400px;
+  height: 800px;
+  margin-left: 250px;
+  margin-top: 70px;
+  /* background-color: black; */
+}
+
+.about{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 460px;
+  /* background-color: #f0f0f0; */
+}
+.skills {
+  position: absolute;
+  width: 400px;
+  height: 600px;
+  margin-left: 250px;
+  margin-top: 900px;
+  /* background-color: #f0f0f0; */
+}
+.education {
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 1250px;
+  /* background-color: #f0f0f0; */
+}
+.experience{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 1600px;
+  /* background-color: white; */
+}
+ .footer{
+            height:200px;
+            width:100%;
+            background-repeat: repeat;
+            background-color: #20a6fc;
+            margin-top: 700px;
+            position: absolute;
+
+          }
+.Hire {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 20px;
+  color: white;
+}
+.us {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 20px;
+  color: white;
+}
+.terms {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 20px;
+  color: white;
+}
