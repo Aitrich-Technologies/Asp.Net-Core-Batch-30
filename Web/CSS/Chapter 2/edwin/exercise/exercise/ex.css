@@ -1,0 +1,40 @@
+.body{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.image{
+    width: 100px;
+    height: 100px;
+   
+   
+    
+}
+.form{
+    width: 1500px;
+    height: 100px;
+   
+    padding: 20px;
+    border-radius: 50px;
+   margin-top: 200px;
+   margin-left: 750px;
+
+}
+
+.inputema{
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+.inputpass{
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+}

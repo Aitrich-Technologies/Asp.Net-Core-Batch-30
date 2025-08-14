@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Decorative Borders</title>
+  <style>
+    .decorative-box {
+      border: 4px solid #007BFF;
+      border-radius: 15px;
+      padding: 20px;
+      width: 400px;
+      margin: 50px auto;
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+    }
+
+    .decorative-box h2 {
+      margin-top: 0;
+      color: #007BFF;
+    }
+
+    .decorative-line {
+      border-top: 2px solid #007BFF;
+      width: 100%;
+      margin: 10px 0;
+      position: relative;
+    }
+
+    .decorative-line::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: -10px;
+      color: #007BFF;
+      font-size: 18px;
+    }
+
+    .decorative-box p {
+      margin: 0;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="decorative-box">
+    <h2>Decorative Borders</h2>
+    <div class="decorative-line"></div>
+    <p>This is an example of using decorative borders.</p>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  margin: 20px;
+}
+
+.job-list {
+  max-width: 800px;
+  margin: auto;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.job-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.job-item:last-child {
+  border-bottom: none;
+}
+
+.job-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.job-logo img {
+  width: 40px;
+  height: 40px;
+}
+
+.job-info h3 {
+  margin: 0;
+  color: #0a88c2;
+  font-size: 18px;
+}
+
+.job-info p {
+  margin: 3px 0 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.job-tags {
+  display: flex;
+  gap: 6px;
+  margin-top: 5px;
+}
+
+.tag {
+  border: 1px solid #999;
+  border-radius: 20px;
+  padding: 3px 10px;
+  font-size: 12px;
+}
+
+.tag.green { border-color: #4CAF50; color: #4CAF50; }
+.tag.orange { border-color: #ff9800; color: #ff9800; }
+.tag.blue { border-color: #2196f3; color: #2196f3; }
+
+.apply-btn {
+  border: 1px solid #2196f3;
+  background: none;
+  padding: 5px 15px;
+  color: #2196f3;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.apply-btn:hover {
+  background: #e3f2fd;
+}
+</style>
+</head>
+<body>
+
+<div class="job-list">
+
+  <div class="job-item">
+    <div class="job-left">
+      <div class="job-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"></div>
+      <div>
+        <div class="job-info">
+          <h3>Social Media Assistant</h3>
+          <p>Agency · Paris, France</p>
+        </div>
+        <div class="job-tags">
+          <span class="tag green">Full Time</span>
+          <span class="tag orange">Marketing</span>
+          <span class="tag blue">Design</span>
+        </div>
+      </div>
+    </div>
+    <button class="apply-btn">Apply</button>
+  </div>
+
+  <div class="job-item">
+    <div class="job-left">
+      <div class="job-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"></div>
+      <div>
+        <div class="job-info">
+          <h3>Brand Designer</h3>
+          <p>Agency · San Francisco, USA</p>
+        </div>
+        <div class="job-tags">
+          <span class="tag green">Full Time</span>
+          <span class="tag orange">Marketing</span>
+          <span class="tag blue">Design</span>
+        </div>
+      </div>
+    </div>
+    <button class="apply-btn">Apply</button>
+  </div>
+
+  <div class="job-item">
+    <div class="job-left">
+      <div class="job-logo"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"></div>
+      <div>
+        <div class="job-info">
+          <h3>Interactive Developer</h3>
+          <p>Agency · Hamburg, Germany</p>
+        </div>
+        <div class="job-tags">
+          <span class="tag green">Full Time</span>
+          <span class="tag orange">Marketing</span>
+          <span class="tag blue">Design</span>
+        </div>
+      </div>
+    </div>
+    <button class="apply-btn">Apply</button>
+  </div>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
