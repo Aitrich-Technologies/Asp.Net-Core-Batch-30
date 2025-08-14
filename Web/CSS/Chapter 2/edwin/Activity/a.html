@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .tasklist {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .tasklist li {
+        background-color: rgb(64, 7, 7);
+        margin: 5px;
+        padding: 10px;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+    }
+
+    .a:link {
+        text-decoration: none;
+        
+    }
+
+    .a:visited {
+        text-decoration: none;
+    }
+
+
+
+
+
+
+    .box {
+  position: relative;
+  padding: 20px;
+  width: 400px;
+  font-family: Georgia, serif;
+  border: 2px solid #2196f3;       /* Blue main border */
+  border-radius: 8px;              /* Rounded corners */
+}
+
+/* Decorative cut border inside */
+.box::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: calc(100% - 16px);
+  height: calc(100% - 16px);
+  border: 2px solid #2196f3;
+  border-top: none;   /* Removes top line */
+  border-left: none;  /* Removes left line */
+  border-radius: 6px;
+}
+
+</style>
+
+<body>
+    <h2>Task List</h2>
+
+
+    <ul type="none" class="tasklist" style="color: white;">
+        <li>complete css activity</li>
+        <li>Read a book</li>
+        <li>Go for a walk</li>
+        <li>Practice coding</li>
+    </ul>
+    <div style="border: 1; display: flex; gap: 10px; padding: 10px; margin-top: 20px; ">
+
+
+        <div style="border: 1px solid black; padding: 10px; margin-bottom: 20px;">
+            <h1>Welcome to My Website</h1>
+            <p>This is a site for Educational Training Institution <a href="https://aitrich.com/" target="_blank"
+                    style="text-decoration: none;">aitrich</a>
+                for styling</p>
+        </div>
+
+        <div style="border: 1px solid black; padding: 10px; margin-bottom: 20px;">
+            <h1>Welcome to My Website</h1>
+            <p>This is a site for Educational Training Institution <a href="https://aitrich.com/" target="_blank"
+                    style="text-decoration: none; background-color: yellow;">aitrich</a>
+                for styling</p>
+        </div>
+    </div>
+    <table  style="border: 1px solid black;" >
+        <tr>
+            <td><h1>Student Scores</h1>
+
+    <table  cellspacing="10">
+        <tr>
+            <th style="background-color: lightgray; border-radius: 5px;">Name</th>
+            <th style="background-color: lightgray; border-radius: 5px;">Math</th>
+            <th style="background-color: lightgray; border-radius: 5px;">Science</th>
+            <th style="background-color: lightgray; border-radius: 5px;">English</th>
+        </tr>
+        <tr>
+            <td style="color: blue; border-left: 1px solid gray;border-right: 1px solid gray;">John </td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">85</td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">92</td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">78</td>
+       
+        </tr>
+        <tr>    
+            <td  style="color: blue;border-left: 1px solid gray;border-right: 1px solid gray;">Alice</td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">75</td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">88</td>
+            <td style="border-left: 1px solid gray;border-right: 1px solid gray;">95</td>
+        </tr>
+            <tr>
+                <td style="color: blue;border-left: 1px solid gray;border-right: 1px solid gray; border-bottom: 5px solid blue;">Michael</td>
+                <td style="border-left: 1px solid gray; border-right: 1px;border-right: 1px solid gray; border-bottom: 5px solid blue;">90</td>
+                <td style="border-left: 1px solid gray; border-right: 1px;border-right: 1px solid gray; border-bottom: 5px solid blue;">85</td>
+                <td style="border-left: 1px solid gray;border-right: 1px solid gray;border-bottom: 5px solid blue;">88</td>
+            </tr>
+    </table></td>
+        </tr>
+    </table><br><br>
+
+    <table style="border: 2px solid blue;">
+        <tr>
+            <td>
+                <table  cellspacing="50">
+                    <tr>
+                        <td>This is a box</td>
+                    </tr>
+                </table>
+                
+            </td>
+        </tr>
+    </table><br><br>
+
+    <table style="border: 3px solid blue;">
+        <tr>
+            <td>
+                <table cellspacing="20">
+                    <tr>
+                        <td><img src="img/m.jpg" width="100" height="100" alt="Image"></td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table> <br><br>
+
+
+
+  <!-- <h2>Decorative Borders</h2>
+  <table style="border: 2px solid blue; margin-top: 20px; col;">
+    <tr>
+        <td>
+            <table cellspacing="20">
+                <tr>
+                    <td> <p>This is an example of using decorative borders.</p></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+  </table>
+ 
+</div> -->
+
+
+
+
+<div class="box">
+  <h2>Decorative Borders</h2>
+  <p>This is an example of using decorative borders.</p>
+</div>
+
+
+
+
+</body>
+
+</html>

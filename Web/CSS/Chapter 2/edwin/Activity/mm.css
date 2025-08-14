@@ -1,0 +1,33 @@
+.decorative-border {
+  position: relative;
+  padding: 20px;
+  border: 2px solid transparent; /* Keep spacing for the effect */
+  font-family: Georgia, serif;
+}
+
+/* Outer full border */
+.decorative-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 2px solid #2196f3; /* Blue border */
+  border-radius: 6px;
+  pointer-events: none;
+}
+
+/* Inner decorative lines */
+.decorative-border::after {
+  content: "";
+  position: absolute;
+  top: 10px;    /* Start slightly lower */
+  left: 10px;   /* Start slightly inward */
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
+  border: 2px solid #2196f3;
+  border-top: none; /* Remove top for open effect */
+  border-left: none; /* Remove left for open effect */
+  pointer-events: none;
+}

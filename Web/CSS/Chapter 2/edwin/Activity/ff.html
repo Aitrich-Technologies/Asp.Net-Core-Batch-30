@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form-box {
+            border: 2px solid #ccc;
+            padding: 20px 40px;
+            width: 500px;
+            background-color: #fdfdfd;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 12px;
+            margin-top: 8px;
+            border: none;
+            border-radius: 5px;
+            background-color: #e8edf0;
+            font-size: 14px;
+        }
+        textarea {
+            height: 70px;
+            resize: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="form-box">
+        <label for="jobTitle">Job Title</label>
+        <input type="text" id="jobTitle" placeholder="Enter job title">
+
+        <label for="description">Description</label>
+        <textarea id="description" placeholder="Enter Description"></textarea>
+
+        <label for="salary">Salary</label>
+        <input type="text" id="salary" placeholder="Enter salary">
+    </div>
+
+</body>
+</html>
