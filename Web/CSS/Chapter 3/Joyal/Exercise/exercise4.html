@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Chapter 3 exercise</title>
+    <style>
+        .sidebar{
+            border: 1px solid black;
+            border: none;
+            width: 20%;
+            height: 1000px;
+            background-color: rgb(66, 164, 226);
+        }
+        .profile{
+            height: 100px;
+            margin-left: 100px;
+            margin-top: 74px;
+            position: relative;
+        }
+        .circle{
+            background-color: white;
+            border-radius: 50%;
+            height: 160px;
+            margin-left: 70px;
+            margin-top: -160px;
+        }
+        .name{
+            color: white;
+            margin-left: 86px;
+            margin-top: 5px;
+        }
+        .footer{
+            border: 1px solid black;
+            border: none;
+            height: 400px;
+            width: 100%;
+            background-color: rgb(66, 164, 226);
+        }
+        .main{
+            border: 2px solid black;
+            border: none;
+            width: 80%;
+            height: 900px;
+            margin-left: 300px;
+            margin-top: -1000px;
+        }
+        .main2{
+            border: 2px solid black;
+            border: none;
+            width: 100%;
+            height: 820px;
+            background-color: rgb(238, 237, 237);
+        }
+        .main input{
+            margin-left: 30px;
+            padding: 15px 340px;
+            border-radius: 20px;
+        }
+        .m3{
+            border: 2px solid black;
+            border: none;
+            width: 50%;
+            height: 30px;
+            margin-top: 60px;
+            margin-left: 60px;
+        }
+        .b1{
+            border: 2px solid black;
+            border: none;
+            width: 46%;
+            height: 180px;
+            margin-left: 80px;
+            margin-top: 40px;
+        }
+        .b1:hover{
+            background-color: lightskyblue;
+            padding: 25px 44px;
+            border-radius: 25px;
+        }
+        .photo{
+            border: 2px solid black;
+            border: none;
+            border: none;
+            width: 35%;
+            height: 700px;
+            margin-left: 750px;
+            margin-top: -700px;
+        }
+        .sidebar li:hover{
+            background-color: orange;
+            border-radius: 20px;
+            padding: 10px 15px;
+            width: 200px;
+            cursor: pointer;
+        }
+        .footer-img{
+            animation: slide 6s infinite;
+        }
+        @keyframes slide{
+            0%{transform: translateX(0px);}
+            50%{transform: translateX(-50px);}
+            100%{transform: translateX(0px);}
+        }
+        @media only screen and (max-width:600px){
+            body{
+                background-color: brown;
+            }
+        }
+        .main-top{
+           display: flex;
+           column-gap: 40px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <img class="profile" src="images/girl.png">
+        <img class="circle" src="images/Ellipse 1848.png">
+        <div class="name">
+            <div style="margin-left:44px;">Olivia</div>Olivia@gmail.com
+        </div><br><br>
+        <ul type="none">
+            <li><img src="images/dashboard 1.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Dashboard</div></li><br>
+            <li><img src="images/suitcase 2.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Jobs</div></li><br>
+            <li><img src="images/application (1) 1.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Applications</div></li><br>
+            <li><img src="images/question (1) 1.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Interviews</div></li><br>
+            <li><img src="images/message 1.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Messages</div></li><br>
+            <li><img src="images/settings 1.png"><div style="margin-left: 35px; margin-top: -30px; font-size: 24px; color: white; font-family:'Courier New', Courier, monospace;">Settings</div></li><br><br><br><br>
+            <li style="margin-left: 50px;"><img src="images/add-group (1) 1.png"><br><div style="font-size: 24px; font-family:'Courier New', Courier, monospace; color: white;">Add New</div> </li>
+        </ul>
+    </div>
+    <div class="main">
+        <div class="main-top">
+        <div style="margin-left: 260px; margin-top: 30px; font-size: 20px; font-family: 'Courier New', Courier, monospace;">List Jobs</div>
+        <div style="margin-top: 30px; font-size: 20px; font-family: 'Courier New', Courier, monospace;">Post Jobs</div>
+        <div style="margin-top: 30px; font-size: 20px; font-family: 'Courier New', Courier, monospace;">Update Jobs</div>
+        <img style="margin-left: 280px; margin-top: 24px;" src="images/notification-bing.png">
+        <img style="margin-top: 14px;" src="images/logout (2).png" height="55px">
+        </div>
+        <div style="margin-left: 40px; font-size: 25px; margin-top: -16px;">
+            <strong>Find Jobs</strong>
+        </div>
+        <div class="main2">
+            <input type="text" placeholder="Search by Job title,Qualification,Industry">
+            <div class="m3">
+                <strong>Showing 106 Jobs</strong>
+                <div style="margin-left: 440px; margin-top: -14px;"><strong><font color="grey">Sort By</font> : Newest Jobs</strong></div>
+            </div>
+            <div class="b1">
+                <img src="images/shopee.png"><div style="margin-left: 60px; margin-top: -50px;"><b>UI/UX Designer</b></div>
+                <div style="margin-left: 60px;"><font color="blue">Shopee</font> . Location</div>
+                <div style="margin-left: 550px; margin-top: -40px;"><img src="images/Group 5696.png"></div>
+                <div style="margin-left: 20px; margin-top: 20px; font-size: 18px;">We are Looking for a UI/UX Designer to turn our software into ease-to-use products for our clients</div>
+                <div style="margin-left: 18px; margin-top: 30px;">
+                    <button style="border-radius: 15px; background-color:bisque;">Full-Time</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Mid Level</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">$3500-5000</button>
+                    <button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Indonesia</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Onsite</button>
+                </div>
+            </div>
+            <div class="b1">
+                <img src="images/amazon3.png"><div style="margin-left: 60px; margin-top: -50px;"><b>Product Designer</b></div>
+                <div style="margin-left: 60px;"><font color="blue">Amazon</font> . Location</div>
+                <div style="margin-left: 550px; margin-top: -40px;"><img src="images/Group 5696.png"></div>
+                <div style="margin-left: 20px; margin-top: 20px; font-size: 18px;">Product Designer responsibilities include ddefining product specifications ,creating digital or print drawings and designes</div>
+                <div style="margin-left: 18px; margin-top: 30px;">
+                    <button style="border-radius: 15px; background-color:bisque;">Full-Time</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Mid Level</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">$3500-5000</button>
+                    <button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Indonesia</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Onsite</button>
+                </div>
+            </div>
+            <div class="b1">
+                <img src="images/laz.png"><div style="margin-left: 60px; margin-top: -50px;"><b>UX Designer</b></div>
+                <div style="margin-left: 60px;"><font color="blue">Lazada</font> . Location</div>
+                <div style="margin-left: 550px; margin-top: -40px;"><img src="images/Group 5696.png"></div>
+                <div style="margin-left: 20px; margin-top: 20px; font-size: 18px;">We are Looking for a UI/UX Designer to turn our software into ease-to-use products for our clients</div>
+                <div style="margin-left: 18px; margin-top: 30px;">
+                    <button style="border-radius: 15px; background-color:bisque;">Full-Time</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Mid Level</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">$3500-5000</button>
+                    <button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Indonesia</button><button style="margin-left: 8px; border-radius: 15px; background-color:bisque;">Onsite</button>
+                </div>
+            </div>
+            <div class="photo">
+                <img src="images/businessgirl.png" height="700px">
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <img src="images/Decoration.png">
+        <div style="margin-left: 300px; font-size: 50px; margin-top: -230px;"><strong>Post your Job now...........</strong></div>
+        <div class="footer-img">
+            <img style="margin-left: 1080px; margin-top: -88px;" src="images/home-button 4.png">
+            <img style="margin-left: 110px; margin-top: -140px;" src="images/calendar (2) 2.png">
+        </div>
+    </div>
+</body>
+</html>
