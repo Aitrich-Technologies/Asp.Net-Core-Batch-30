@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Scale on Hover</title>
+  <style>
+    body {
+      display: grid;
+      place-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f9fafb;
+      font-family: sans-serif;
+    }
+
+    .image-container {
+      overflow: hidden; /* hides extra part when scaled */
+      border-radius: 12px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    }
+
+    .image-container img {
+      width: 300px;
+      height: auto;
+      display: block;
+      transition: transform 0.4s ease; /* smooth animation */
+    }
+
+    .image-container img:hover {
+      transform: scale(1.2); /* enlarge image */
+    }
+  </style>
+</head>
+<body>
+  <div class="image-container">
+    <img src="https://picsum.photos/400/250" alt="Sample Image">
+  </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Skew Button</title>
+  <style>
+    body {
+      display: grid;
+      place-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f3f4f6;
+      font-family: Arial, sans-serif;
+    }
+
+    .skew-btn {
+      padding: 15px 40px;
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+      border-radius: 6px;
+      transition: transform 0.3s ease;
+      /* Apply skew in both X and Y directions */
+      transform: skewX(20deg) skewY(5deg);
+      box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+    }
+
+    .skew-btn:hover {
+      /* On hover, reduce skew and add scale effect */
+      transform: skewX(10deg) skewY(3deg) scale(1.1);
+    }
+  </style>
+</head>
+<body>
+  <button class="skew-btn">Click Me</button>
+</body>
+</html>

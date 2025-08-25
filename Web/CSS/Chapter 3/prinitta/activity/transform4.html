@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Translate Example</title>
+  <style>
+    body {
+      display: grid;
+      place-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f9fafb;
+      font-family: sans-serif;
+    }
+
+    .box {
+      width: 150px;
+      height: 150px;
+      background: #3b82f6;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+
+      /* Move 100px right, 50px down */
+      transform: translate(100px, 50px);
+    }
+  </style>
+</head>
+<body>
+  <div class="box">Moved Box</div>
+</body>
+</html>

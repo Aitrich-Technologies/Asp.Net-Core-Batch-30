@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Fade In and Out Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+  }
+
+  .fade-box {
+    width: 150px;
+    height: 150px;
+    background: #4a90e2;
+    border-radius: 12px;
+    animation: fadeInOut 2s ease-in-out infinite;
+  }
+
+  @keyframes fadeInOut {
+    0%   { opacity: 0; }
+    50%  { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  /* Accessibility: disable for reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .fade-box { animation: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="fade-box"></div>
+</body>
+</html>

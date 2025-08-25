@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Opacity Transition</title>
+<style>
+  .fade-box {
+    width: 200px;
+    height: 120px;
+    background: #3b82f6;
+    border-radius: 12px;
+    margin: 50px auto;
+    transition: opacity 0.6s ease; /* smooth fade */
+    opacity: 1; /* fully visible by default */
+  }
+
+  .fade-box:hover {
+    opacity: 0.2; /* fade out on hover */
+  }
+
+  /* Optional: reduced motion support */
+  @media (prefers-reduced-motion: reduce) {
+    .fade-box { transition: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="fade-box"></div>
+</body>
+</html>

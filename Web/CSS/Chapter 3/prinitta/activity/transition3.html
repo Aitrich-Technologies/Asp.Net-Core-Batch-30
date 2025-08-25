@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Border Animation</title>
+<style>
+  .box {
+    width: 200px;
+    height: 100px;
+    background: #f3f4f6;
+    border: 2px solid #3b82f6;  /* initial border */
+    border-radius: 12px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui, sans-serif;
+    font-weight: 600;
+    color: #111827;
+    transition: border-color 0.5s ease, border-width 0.5s ease;
+  }
+
+  .box:hover {
+    border-color: #ef4444;  /* red border on hover */
+    border-width: 6px;      /* thicker border */
+  }
+
+  /* Reduced motion fallback */
+  @media (prefers-reduced-motion: reduce) {
+    .box { transition: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="box">Hover Me</div>
+</body>
+</html>
