@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Chapter 3 workshop 2</title>
+    <style>
+        .girl{
+            margin-top: 100px;
+            margin-left: 180px;
+            width: 500px;
+            height: 600px;
+            position: relative;
+        }
+        .logo{
+            margin-bottom: 600px;
+            position: absolute;
+            margin-left: 250px;
+        }
+        body input{
+            padding: 10px 124px;
+            border-radius: 8px;
+            border-color: blue;
+        }
+        body input:hover{
+            box-shadow: 3px 3px  black;
+        }
+        .slider{
+            width: 800px;
+            overflow: hidden;
+            display: flex;
+        }
+        .slider img{
+            width: 800px;
+            animation: slide 8s infinite;
+        }
+        @keyframes slide{
+            0% {transform: translateX(0px);}
+            50% {transform: translateX(-650px);}
+            100% {transform: translateX(-1300px);}
+        }
+        .forgot{
+            margin-left: 300px;
+            color: grey;
+            cursor: pointer;
+        }
+        .forgot:hover{
+            transform: translateY(-3px);
+            color: blue;
+        }
+        .sign-in{
+            width: 415px;
+            height: 50px;
+            border-radius: 8px;
+            background-color: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .sign-in:hover{
+            transform: scale(1,1);
+            opacity: 0.5;
+            height: 52px;
+            width: 418px;
+            transition-timing-function: ease-in;
+        }
+    </style>
+</head>
+<body>
+    <img class="logo" src="images/Screenshot_2025-08-19_113553-removebg-preview.png">
+    <div class="slider">
+    <img class="girl" src="images/Group.png">
+    <img class="girl" src="images/Group.png">
+    <img class="girl" src="images/Group.png">
+    </div>
+    <div style="margin-left: 88px; margin-top: 40px;">
+    <h1 style="margin-left: 868px; margin-top:-600px;">Sign in to Admin Dashboard</h1><br>
+    <div style="margin-left: 860px;">
+        <strong>Email</strong><br><br>
+        <input type="email" placeholder="Input your email here"><br><br><br>
+        <strong>Password</strong><br><br>
+        <input type="password" placeholder="Input your password here">
+        <img style="margin-left: -40px; margin-bottom:-8px;" src="images/eye-no.png"> <br><br><br>
+        <div class="forgot">Forgot password?</div><br>
+        <button class="sign-in">Sign In</button>
+
+    </div>
+    </div>
+</body>
+</html>
