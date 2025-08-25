@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Hover Ripple Button</title>
+<style>
+  :root{
+    --btn-bg: #1f6feb;
+    --btn-color: #fff;
+    --ripple-color: rgba(255,255,255,0.35);
+    --btn-padding: 12px 22px;
+    --btn-radius: 10px;
+    --ripple-duration: 650ms;
+  }
+
+  /* Basic page layout */
+  body{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:linear-gradient(180deg,#eef6ff 0%, #ffffff 100%);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  }
+
+  /* Button */
+  .ripple-btn{
+    position: relative;           /* for pseudo-element positioning */
+    overflow: hidden;             /* clip the ripple */
+    display: inline-block;
+    padding: var(--btn-padding);
+    border-radius: var(--btn-radius);
+    border: none;
+    background: var(--btn-bg);
+    color: var(--btn-color);
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 160ms ease, box-shadow 160ms ease;
+    box-shadow: 0 6px 18px rgba(31,111,235,0.14);
+  }
+
+  .ripple-btn:active{
+    transform: translateY(1px) scale(0.997);
+  }
+
+  /* Ripple using ::after */
+  .ripple-btn::after{
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 12px;                 /* start small */
+    height: 12px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    background: var(--ripple-color);
+    pointer-events: none;
+    opacity: 0;
+  }
+
+  /* animation keyframes - expand & fade */
+  @keyframes ripple-expand {
+    0%{
+      transform: translate(-50%, -50%) scale(0);
+      opacity: 0.6;
+    }
+    60%{
+      transform: translate(-50%, -50%) scale(6);
+      opacity: 0.38;
+    }
+    100%{
+      transform: translate(-50%, -50%) scale(10);
+      opacity: 0;
+    }
+  }
+
+  /* trigger the animation when hovered */
+  .ripple-btn:hover::after{
+    animation: ripple-expand var(--ripple-duration) cubic-bezier(.2,.8,.2,1) forwards;
+  }
+
+  /* Respect user preference for reduced motion */
+  @media (prefers-reduced-motion: reduce){
+    .ripple-btn,
+    .ripple-btn::after{
+      transition: none;
+      animation: none !important;
+    }
+  }
+
+  /* A couple of variants */
+  .ripple-btn.ghost{
+    background: transparent;
+    color: #1f6feb;
+    box-shadow: none;
+    border: 2px solid rgba(31,111,235,0.12);
+  }
+</style>
+</head>
+<body>
+
+<button class="ripple-btn" aria-label="Primary action">
+  Hover me
+</button>
+
+<!-- Example ghost variant -->
+<!-- <button class="ripple-btn ghost" aria-label="Secondary action">Hover me (ghost)</button> -->
+
+</body>
+</html>
