@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      display: flex;
+      background: #f2f2f2;
+    }
+
+    
+    .sidebar {
+      width: 220px;
+      background: #4b0082; 
+      min-height: 100vh;
+      color: #fff;
+      padding: 20px 0;
+    }
+
+    .sidebar h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .sidebar ul {
+      list-style: none;
+    }
+
+    .sidebar ul li {
+      padding: 15px 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+    }
+
+    .sidebar ul li:hover {
+      background: #37205c;
+    }
+
+    .sidebar ul li i {
+      margin-right: 10px;
+    }
+
+    
+    .main {
+      flex: 1;
+      padding: 20px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+
+    .search-box input {
+      padding: 8px;
+      border: none;
+      border-radius: 20px;
+      width: 250px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .card {
+      padding: 30px;
+      color: #fff;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    }
+
+    .green { background: #28a745; }
+    .blue { background: #17a2b8; }
+    .purple { background: #6f42c1; }
+
+    .card h3 {
+      font-size: 22px;
+      margin-bottom: 10px;
+    }
+
+    .card p {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    
+    .cards.small {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>Jobie</h2>
+    <ul>
+      <li>🏠 Dashboard</li>
+      <li>👤 Job Providers</li>
+      <li>📝 New Registrations</li>
+      <li>💼 Job Seekers</li>
+      <li>📋 Jobs</li>
+      <li>🙍 My Profile</li>
+      <li>✉️ Messages</li>
+      <li>⚙️ Settings</li>
+      <li>🔒 Log Out</li>
+    </ul>
+  </div>
+
+  <!-- Main -->
+  <div class="main">
+    <div class="topbar">
+      <div class="search-box">
+        <input type="text" placeholder="Search something here...">
+      </div>
+      <div class="user-info">
+        <span>👤 Admin</span>
+      </div>
+    </div>
+
+    <!-- Top Cards -->
+    <div class="cards">
+      <div class="card green">
+        <h3>Total Jobs Posted</h3>
+        <p>45,673</p>
+      </div>
+      <div class="card blue">
+        <h3>Total Job Seekers</h3>
+        <p>5673</p>
+      </div>
+      <div class="card purple">
+        <h3>Total Companies</h3>
+        <p>700</p>
+      </div>
+    </div>
+
+    <br>
+
+    <!-- Bottom Cards -->
+    <div class="cards small">
+      <div class="card purple">
+        <h3>New Jobs</h3>
+        <p>45</p>
+      </div>
+      <div class="card blue">
+        <h3>New Job Seekers</h3>
+        <p>67</p>
+      </div>
+      <div class="card green">
+        <h3>New Companies</h3>
+        <p>70</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
