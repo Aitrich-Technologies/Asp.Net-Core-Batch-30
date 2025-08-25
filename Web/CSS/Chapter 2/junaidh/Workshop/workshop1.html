@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop</title>
+    <style>
+        .navbar{
+            background-color: whitesmoke;
+            border-radius: 30px;
+        }
+        .navbar li {
+            float: left;
+            list-style: none;
+        }
+        .navbar ul {
+            overflow: auto;
+        }
+        .navbar li a{
+            padding: 3px;
+            text-decoration: none;
+            color: #3487bf;
+            font-size: larger;
+        }
+        .navbar li .selected {
+            text-decoration: underline;
+            text-decoration-color: #3487bf;
+            text-decoration-thickness: 4px;
+        }
+        .navbar li:hover{
+            background-color: #3487bf;
+            color: white;
+        }
+        .navbar li:hover a{
+            color: white;
+        }
+        .navbar li:hover .selected{
+            text-decoration-color: white;
+        }
+        .navitem{
+            height: 25px;
+            padding: 10px;
+        }
+        .row{
+            display: flex;
+        }
+        .container{
+            display: flex;
+            align-items: flex-start;
+            justify-content: left;
+        }
+
+.fulltime {
+    height: 20px;
+    padding-top: 3px;
+    padding-left: 12px;
+    width: 65px;
+    font-size: smaller;
+    font-style: unset;
+    color: #011604;
+    border: 1px solid #07300b;
+    border-color: #0a5808;
+    border-radius: 18px;
+    margin-left: 5px;
+}
+
+.fulltime:hover {
+    color: #ffffff;
+    background-color: #0a5808;
+}
+
+
+.marketing {
+    height: 20px;
+    margin-left: 5px;
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 65px;
+    background-color: rgb(255, 255, 255);
+    font-size: smaller;
+    font-style: unset;
+    color: rgb(203 163 17);
+    border: 1px solid;
+    border-color: #ecc900;
+    border-radius: 18px;
+}
+
+.marketing:hover {
+    color: #ffffff;
+    background-color: #ecc900;
+}
+
+.design {
+    margin-left: 5px;
+    height: 20px;
+    padding-top: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 65px;
+    background-color: rgb(255, 255, 255);
+    font-size: smaller;
+    font-style: unset;
+    color: rgb(10 98 141);
+    border: 1px solid;
+    border-color: #0095ec;
+    border-radius: 18px;
+}
+
+.design:hover {
+    color: #ffffff;
+    background-color: #0095ec;
+}
+
+.btn-apply {
+    height: 22px;
+    text-align: center;
+    padding-bottom: 5px;
+    width: 95px;
+    background-color: white;
+    font-size: larger;
+    font-style: unset;
+    border: 1px solid;
+    border-color: #117aa3;
+}
+
+.btn-apply a {
+    text-decoration: none;
+    color: #2d9cddfc;
+}
+
+.btn-apply:hover {
+    color: white;
+    background-color: #2d9cddfc;
+}
+
+.btn-apply:hover a {
+    color: white;
+}
+
+.end-row {
+    display: inline-grid;
+    row-gap: 20px;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+.pagination a.active {
+    background-color: #2d9cddfc;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.center {
+    text-align: center;
+}
+
+#tbl-all-jobs {
+    box-shadow: 0px 1px 6px 1px #81838bd1;
+    padding: 10px;
+}
+
+.scroll {
+    height: 500px;
+    overflow: scroll;
+}
+
+.scroll::-webkit-scrollbar {
+    display: none;
+}
+.img{
+    margin-top: -635px;
+    margin-left: 58%;
+    
+}
+.img2{
+    margin-top: -35px;
+    margin-left: 75%;
+    border-color: grey;
+}
+.form{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <div class="navbar">
+            <ul>
+                <li>
+                    <div class="navitem"><b>
+                        <font size="5px">Hire Me Now</font>
+                    </b>
+                    </div>
+                </li>
+                <li class="menu-item">
+                    <div class="navitem">
+                        <a href="#" class="selected">Find Jobs</a>
+                    </div>
+                </li>
+                <li class="menu-item">
+                    <div class="navitem">
+                        <a href="#">Browse Companies</a>
+                    </div>
+                </li>
+                <li class="menu-item" style="float: right;">
+                    <div class="navitem"><a href="#">Login</a></div>
+                </li>
+                <li class="menu-item" style="float: right;">
+                    <div class="navitem"><a href="#">Sign Up</a></div>
+                </li>
+            </ul>
+        </div>
+        <h1 align="center">
+            <font face="arial" color="#3487bf">Find Your Dream Job</font>
+        </h1>
+        <p align="center">
+            <font face="arial">Find your next career at Companies like Hubspot,Nike and Dropbox</font>
+        </p>
+        <h2 align="center">
+            <font face="arial">All Jobs</font>
+        </h2>
+        <div class="container">
+
+            <div class="left">
+
+                <div class="scroll">
+                    <table id="tbl-all-jobs" align="left" cellpadding="10px" cellspacing="0">
+                        <div>
+                          <tr width="50%">
+                                <td rowspan="3" width="70px" align="left">
+                                    <img src="images/google.png" width="50px" alt="Google" title="Google">
+                                </td>
+                                <td width="500px">
+                                    <b>
+                                        <font size="5px" color="#3487bf">Social Media Assistant </font><br>
+                                    </b>
+                                </td>
+                                <td rowspan="3">
+                                    <div class="btn-apply">
+                                        <a href=""> Apply </a>
+
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> <b>Agency .</b> Paris, France </td>
+
+                            </tr>
+                            <tr class="end-row">
+                                <td>
+                                    <div class="row">
+                                        <div class="fulltime"> Full Time </div>
+                                        <div class="marketing"> <b>Marketing</b> </div>
+                                        <div class="design"> Designing </div>
+                                    </div>
+                                </td>
+                                <!-- <td></td> -->
+                            </tr>
+
+                        </div>
+                        <!-- detatils of second job -->
+                        <tr width="100%">
+                            <td rowspan="3" width="70px" align="center">
+                                <img src="images/MicrosoftIcon.png" width="50px" alt="Microsoft" title="Microsoft">
+                            </td>
+                            <td width="500px">
+
+                                <b>
+                                    <font size="5px" color="#3487bf"> Brand Designer </font><br>
+                                </b>
+                            </td>
+                            <td rowspan="3">
+
+                                <div class="btn-apply">
+                                    <a href=""> Apply </a>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> <b>Agency .</b> San Fransisco, USA </td>
+
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="row">
+                                    <div class="fulltime"> Full Time </div>
+                                    <div class="marketing"> <b>Marketing</b> </div>
+                                    <!-- <div class="design"> Designing </div> -->
+                                </div>
+                            </td>
+
+                        </tr>
+
+
+                        <!-- detatils of third job -->
+                        <tr width="100%">
+                            <td rowspan="3" width="70px" align="center">
+                                <img src="images/AccentureIcon.png" width="50px" alt="Accenture" title="Accenture">
+                            </td>
+                            <td width="500px">
+
+                                <b>
+                                    <font size="5px" color="#3487bf"> Interactive Developer </font><br>
+                                </b>
+                            </td>
+                            <td rowspan="3">
+
+                                <div class="btn-apply">
+                                    <a href=""> Apply </a>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> <b>Agency .</b> Hamburg, Germany </td>
+
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="row">
+                                    <div class="fulltime"> Full Time </div>
+                                    <div class="marketing"> <b>Marketing</b> </div>
+                                    <div class="design"> Designing </div>
+                                </div>
+                            </td>
+
+                        </tr>
+
+                        <!-- detatils of 4th job -->
+                        <tr width="100%">
+                            <td rowspan="3" width="70px" align="center">
+                                <img src="images/MicrosoftIcon.png" width="50px" alt="Microsoft" title="Microsoft">
+                            </td>
+                            <td width="500px">
+
+                                <b>
+                                    <font size="5px" color="#3487bf"> Brand Designer </font><br>
+                                </b>
+                            </td>
+                            <td rowspan="3">
+
+                                <div class="btn-apply">
+                                    <a href=""> Apply </a>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> <b>Agency .</b> San Fransisco, USA </td>
+
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="row">
+                                    <div class="fulltime"> Full Time </div>
+                                    <div class="marketing"> <b>Marketing</b> </div>
+                                    <!-- <div class="design"> Designing </div> -->
+                                </div>
+                            </td>
+
+                        </tr>
+
+                         <!-- detatils of 5th job -->
+                         <tr width="100%">
+                            <td rowspan="3" width="70px" align="center">
+                                <img src="images/AccentureIcon.png" width="50px" alt="Accenture" title="Accenture">
+                            </td>
+                            <td width="500px">
+
+                                <b>
+                                    <font size="5px" color="#3487bf"> Front-End Developer </font><br>
+                                </b>
+                            </td>
+                            <td rowspan="3">
+
+                                <div class="btn-apply">
+                                    <a href=""> Apply </a>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> <b>Agency .</b> Hamburg, Germany </td>
+
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="row">
+                                    <div class="fulltime"> Full Time </div>
+                                    <div class="marketing"> <b>Marketing</b> </div>
+                                    <div class="design"> Designing </div>
+                                </div>
+                            </td>
+
+                        </tr>
+                    </table>
+                </div>
+                <div class="center">
+
+                    <div class="pagination">
+                        <a href="#">&laquo;</a>
+                        <a href="#" class="active">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                        <a href="#">6</a>
+                        <a href="#">&raquo;</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+     <br><br>
+        <p align="center"><img src="images/linkedin.gif" width="30px">
+            <img src="images/instagram.gif" width="30px">
+        </p>
+        <div class="box">
+    </div>
+    <div class="img">
+        <img src="images/googleCover.jpg" style="width: 100%; align-content: right; height: 100px;">
+    </div>   
+    <div class="img2">
+        <img src="images/google.png" style="height: 60px; width: 60px;">
+        <h3 style="margin-left: 10px; margin-top: 0px;"> <b> Google  </b></h3>
+        <br><br>
+        <h2 style="color: #0095ec; margin-top: -50px; margin-left: -55px;">Social Media Assistant</h2>
+    </div>
+    <div class="form">
+        <button style="height: 50px; width: 200px; border-radius: 10px; background-color: white;">Type of Employment<br><b>Full Time Job</b></button>
+        <button style="height: 50px; width: 200px; margin-left: 60px; border-radius: 10px; background-color: white;">Location<br><b>indonesia</b></button>
+        <button style="height: 50px; width: 200px; margin-top: 20px; border-radius: 10px; background-color: white;">Experience level<br><b>All level</b></button>
+        <button style="height: 50px; width: 200px; margin-left: 60px; border-radius: 10px; background-color: white;">Onsite/Remote<br><b>Onsite</b></button>
+        <button style="height: 50px; width: 200px; margin-left: 130px; margin-top: 20px; border-radius: 10px; background-color: white;">Salary Range<br><b>$2000-$3000</b></button>
+    </div>
+
+    <h4 style="margin-left: 75%;">company</h4>
+    <p style="margin-left: 800px;">Google LLC is an American multinational technology company focusing on online advertising.search engine technology,cloud computing,computer software quantum computing e-commerce, artificial Intelligence and consumer electronics </p>
+    
+    </div>
+    </div>
+</body>
+</html>
