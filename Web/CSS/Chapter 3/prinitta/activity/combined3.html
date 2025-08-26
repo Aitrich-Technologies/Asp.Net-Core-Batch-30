@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>3D Rotating Cube (@keyframes + transform)</title>
+<style>
+  :root{
+    --cube-size: 240px;         /* overall cube size */
+    --face-color-1: #ff6b6b;
+    --face-color-2: #ffd166;
+    --face-color-3: #06d6a0;
+    --face-color-4: #4d96ff;
+    --face-color-5: #9d4edd;
+    --face-color-6: #ff8fe5;
+    --duration: 8s;            /* rotation duration */
+    --timing: linear;
+    --shadow: 0 18px 40px rgba(10,20,40,0.15);
+  }
+
+  /* Layout */
+  html,body{height:100%;margin:0;font-family:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:#f3f6fb;display:grid;place-items:center;padding:32px;}
+  .stage{
+    width: calc(var(--cube-size) * 1.5);
+    height: calc(var(--cube-size) * 1.5);
+    display:grid;
+    place-items:center;
+    perspective: 1200px; /* controls depth */
+    -webkit-perspective:1200px;
+  }
+
+  /* Animator holds the cube and animates it in 3D space */
+   .animator{
+    width: var(--cube-size);
+    height: var(--cube-size);
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin var(--duration) var(--timing) infinite;
+    transition: transform .3s ease;
+    box-shadow: var(--shadow);
+    border-radius: 8px;
+  }
+
+  /* Pause on hover/focus for easier viewing */
+  .animator:hover,
+  .animator:focus-within,
+  .animator.is-paused {
+    animation-play-state: paused;
+    cursor: grab;
+  }
+
+  /* Cube container (preserve 3d children) */
+  .cube{
+    width:100%;
+    height:100%;
+    position: absolute;
+    inset:0;
+    transform-style: preserve-3d;
+  }
+
+  /* Each face */
+  .face{
+    position:absolute;
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    color: white;
+    font-size: 1.05rem;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  /* Position faces using translateZ / rotate */
+  .face.front  { transform: rotateY(  0deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-1); }
+  .face.back   { transform: rotateY(180deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-2); }
+  .face.right  { transform: rotateY( 90deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-3); }
+  .face.left   { transform: rotateY(-90deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-4); }
+  .face.top    { transform: rotateX( 90deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-5); }
+  .face.bottom { transform: rotateX(-90deg) translateZ(calc(var(--cube-size) / 2)); background: var(--face-color-6); }
+
+  /* subtle face styling */
+  .face::after{
+    content: "";
+    position: absolute;
+    inset:0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.06), rgba(255,255,255,0.03));
+    pointer-events: none;
+  }
+
+  /* Spin animation: combines X and Y rotation for a pleasant orbit */
+  @keyframes spin {
+    0%   { transform: rotateX(20deg) rotateY(0deg) rotateZ(0deg); }
+    25%  { transform: rotateX(20deg) rotateY(90deg) rotateZ(0deg); }
+    50%  { transform: rotateX(-10deg) rotateY(180deg) rotateZ(0deg); }
+    75%  { transform: rotateX(-10deg) rotateY(270deg) rotateZ(0deg); }
+    100% { transform: rotateX(20deg) rotateY(360deg) rotateZ(0deg); }
+  }
+
+  /* Controls & caption */
+  .controls{
+    margin-top: 18px;
+    display:flex;
+    gap:10px;
+    align-items:center;
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  .btn {
+    background:#fff;
+    border:1px solid rgba(10,20,40,0.06);
+    padding:8px 12px;
+    border-radius:8px;
+    font-size:0.95rem;
+    cursor:pointer;
+    box-shadow:0 6px 14px rgba(10,20,40,0.06);
+  }
+
+  /* Responsive: scale cube on small screens */
+  @media (max-width:480px){
+    :root { --cube-size: 180px; }
+    .animator { border-radius: 6px; }
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce){
+    .animator { animation: none; transform: rotateX(20deg) rotateY(20deg); }
+  }
+</style>
+</head>
+<body>
+  <main style="text-align:center;">
+    <div class="stage" aria-hidden="false">
+      <div class="animator" id="animator" tabindex="0" aria-label="3D rotating cube. Hover or focus to pause.">
+        <div class="cube" role="group" aria-label="Cube faces">
+          <div class="face front">Front</div>
+          <div class="face back">Back</div>
+          <div class="face right">Right</div>
+          <div class="face left">Left</div>
+          <div class="face top">Top</div>
+          <div class="face bottom">Bottom</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls" aria-hidden="false">
+      <button class="btn" id="toggle">Pause</button>
+      <button class="btn" id="reset">Reset orientation</button>
+    </div>
+    <p style="color:#445; margin-top:10px; font-size:0.95rem;">Tip: hover or focus the cube to pause. On small screens use the Pause button.</p>
+  </main>
+
+<script>
+  // Small JS to toggle animation on touch devices and to reset orientation
+  (function(){
+    const animator = document.getElementById('animator');
+    const toggle = document.getElementById('toggle');
+    const reset = document.getElementById('reset');
+
+    let paused = false;
+    toggle.addEventListener('click', () => {
+      paused = !paused;
+      animator.classList.toggle('is-paused', paused);
+      toggle.textContent = paused ? 'Play' : 'Pause';
+      // for accessibility announce state
+      toggle.setAttribute('aria-pressed', paused ? 'true' : 'false');
+    });
+
+    reset.addEventListener('click', () => {
+      // briefly remove animation and re-add to restart from 0
+      animator.style.animation = 'none';
+      // Force reflow then restore
+      void animator.offsetWidth;
+      animator.style.animation = '';
+      // ensure playing
+      animator.classList.remove('is-paused');
+      paused = false;
+      toggle.textContent = 'Pause';
+      toggle.setAttribute('aria-pressed', 'false');
+    });
+
+    // make keyboard Enter/Space toggle pause (when animator focused)
+    animator.addEventListener('keydown', (e) => {
+      if (e.key === ' ' || e.key === 'Enter') {
+        e.preventDefault();
+        toggle.click();
+      }
+      if (e.key === 'Escape') {
+        animator.classList.remove('is-paused');
+        paused = false;
+        toggle.textContent = 'Pause';
+        toggle.setAttribute('aria-pressed', 'false');
+      }
+    });
+  })();
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basic Carousel Slider</title>
+<style>
+  :root {
+    --slide-width: 80vw;
+    --slide-height: 300px;
+    --duration: 4s; /* time per slide */
+  }
+
+  body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background: #f5f6fa;
+    font-family: system-ui, sans-serif;
+  }
+
+  .slider {
+    position: relative;
+    width: var(--slide-width);
+    height: var(--slide-height);
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  }
+
+  .slides {
+    display: flex;
+    width: calc(3 * var(--slide-width)); /* #slides * width */
+    height: 100%;
+    animation: slideShow calc(3 * var(--duration)) linear infinite;
+  }
+
+  .slider:hover .slides {
+    animation-play-state: paused;
+  }
+
+  .slide {
+    flex: 0 0 var(--slide-width);
+    height: 100%;
+    position: relative;
+  }
+
+  .slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Slide animation (from right to left) */
+  @keyframes slideShow {
+    0%   { transform: translateX(0); }
+    33.333% { transform: translateX(-100%); }
+    66.666% { transform: translateX(-200%); }
+    100% { transform: translateX(0); }
+  }
+
+  /* Responsive tweak */
+  @media (max-width: 600px) {
+    :root { --slide-height: 200px; }
+  }
+</style>
+</head>
+<body>
+  <div class="slider">
+    <div class="slides">
+      <div class="slide">
+        <img src="https://picsum.photos/id/1015/800/400" alt="Slide 1">
+      </div>
+      <div class="slide">
+        <img src="https://picsum.photos/id/1016/800/400" alt="Slide 2">
+      </div>
+      <div class="slide">
+        <img src="https://picsum.photos/id/1025/800/400" alt="Slide 3">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Animated Navigation Menu</title>
+<style>
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #f4f6fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  nav {
+    background: #1e293b; /* dark navy */
+    padding: 12px 32px;
+    border-radius: 10px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.2);
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    position: relative;
+    overflow: hidden;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.05rem;
+    position: relative;
+    display: inline-block;
+    padding: 6px 2px;
+  }
+
+  /* Duplicate text for sliding effect */
+  a::before,
+  a::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    transition: transform 0.35s ease;
+  }
+
+  a::before {
+    top: 0;
+    transform: translateY(0); /* initial visible */
+  }
+
+  a::after {
+    top: 100%;
+    transform: translateY(0);
+    color: #38bdf8; /* highlight color */
+  }
+
+  /* On hover → slide text up, new text slides in */
+  li:hover a::before {
+    transform: translateY(-100%);
+  }
+
+  li:hover a::after {
+    transform: translateY(-100%);
+  }
+
+  /* Keyboard focus also triggers animation */
+  a:focus-visible::before {
+    transform: translateY(-100%);
+  }
+  a:focus-visible::after {
+    transform: translateY(-100%);
+  }
+</style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#" data-text="Home">Home</a></li>
+      <li><a href="#" data-text="About">About</a></li>
+      <li><a href="#" data-text="Services">Services</a></li>
+      <li><a href="#" data-text="Portfolio">Portfolio</a></li>
+      <li><a href="#" data-text="Contact">Contact</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
