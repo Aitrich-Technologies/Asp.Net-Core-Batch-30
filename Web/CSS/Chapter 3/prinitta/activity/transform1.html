@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Rotate a Box</title>
+  <style>
+    /* Page centering */
+    html, body {
+      height: 100%;
+      margin: 0;
+      display: grid;
+      place-items: center; /* centers the box vertically & horizontally */
+      background: #f3f4f6;
+      font-family: system-ui, sans-serif;
+    }
+
+    /* The square box */
+    .box {
+      width: 150px;
+      height: 150px;
+      background: linear-gradient(135deg, #60a5fa, #7c3aed);
+      display: grid;
+      place-items: center;
+      color: white;
+      font-weight: 600;
+      border-radius: 8px;
+      /* rotate 45 degrees */
+      transform: rotate(45deg);
+      /* keep the rotation origin at the center (default) */
+      transform-origin: center;
+      /* optional: a little shadow so rotated shape reads clearly */
+      box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+    }
+  </style>
+</head>
+<body>
+  <div class="box">45°</div>
+</body>
+</html>

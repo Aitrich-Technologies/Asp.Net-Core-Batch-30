@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Image Flip Card (rotateY)</title>
+<style>
+  :root{
+    --card-w: 320px;
+    --card-h: 200px;
+    --gap: 16px;
+    --duration: 700ms;
+    --timing: cubic-bezier(.2,.9,.3,1);
+    --radius: 10px;
+  }
+
+  body{
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 40px;
+    background: linear-gradient(180deg,#f6f8fa,#e9eef6);
+  }
+
+  /* Card wrapper - provides perspective */
+  .flip-card{
+    width: var(--card-w);
+    height: var(--card-h);
+    perspective: 1200px; /* depth of 3D space */
+  }
+
+  /* Inner element that actually flips */
+  .flip-card-inner{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d; /* keep 3D children */
+    transition: transform var(--duration) var(--timing);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 20px rgba(18, 30, 60, 0.12);
+    cursor: pointer;
+     overflow: visible;
+  }
+
+  /* Hover and programmatic flip state */
+  .flip-card:hover .flip-card-inner,
+  .flip-card:focus-within .flip-card-inner,
+  .flip-card.is-flipped .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+
+  /* Faces (front/back) */
+  .flip-face{
+    position: absolute;
+    inset: 0; /* top:0; right:0; bottom:0; left:0; */
+    backface-visibility: hidden; /* hides mirrored face */
+    -webkit-backface-visibility: hidden;
+    border-radius: var(--radius);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Front face content */
+  .flip-front{
+    background: #111; /* fallback */
+  }
+
+  /* Back face rotated so it shows correctly after rotation */
+  .flip-back{
+    transform: rotateY(180deg);
+    background: #fff;
+  }
+
+  /* Images fill the face */
+  .flip-face img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Optional overlay text on back */
+  .flip-back .info{
+    position: absolute;
+    inset: 0;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: #fff;
+    background: linear-gradient(180deg, rgba(0,0,0,0) 40%, rgba(0,0,0,0.45) 100%);
+    box-sizing: border-box;
+  }
+  .flip-back h3{
+    margin: 0 0 6px;
+    font-size: 1.05rem;
+    line-height: 1.1;
+  }
+  .flip-back p{
+    margin: 0;
+    font-size: .9rem;
+    opacity: .92;
+  }
+
+  /* Small responsive tweak */
+  @media (max-width: 420px){
+    :root{ --card-w: 92vw; --card-h: 56vw; }
+  }
+</style>
+</head>
+<body>
+
+<!--
+  Accessibility notes:
+  - tabindex="0" makes the wrapper focusable so keyboard users can trigger :focus-within flip.
+  - JavaScript below toggles .is-flipped on click/touch for mobile (hover doesn't exist there).
+-->
+<figure class="flip-card" tabindex="0" aria-label="Flippable image card">
+  <div class="flip-card-inner" role="group" aria-hidden="false">
+    <!-- FRONT -->
+    <div class="flip-face flip-front" aria-hidden="false">
+      <!-- Replace the src below with your front image URL -->
+      <img src="data:image/svg+xml;utf8,
+        <svg xmlns='http://www.w3.org/2000/svg' width='800' height='500'>
+          <defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%234fa3ff'/><stop offset='1' stop-color='%235ac8ff'/></linearGradient></defs>
+          <rect width='100%' height='100%' fill='url(%23g)'/>
+          <text x='50%' y='50%' font-size='36' fill='white' text-anchor='middle' dominant-baseline='middle' font-family='Arial'>Front Image</text>
+        </svg>"
+        alt="Front image">
+    </div>
+
+    <!-- BACK -->
+    <div class="flip-face flip-back" aria-hidden="true">
+      <!-- Replace the src below with your back image URL or keep as background+text -->
+      <img src="data:image/svg+xml;utf8,
+        <svg xmlns='http://www.w3.org/2000/svg' width='800' height='500'>
+          <rect width='100%' height='100%' fill='%23ff7a7a'/>
+          <text x='50%' y='50%' font-size='36' fill='white' text-anchor='middle' dominant-baseline='middle' font-family='Arial'>Back Image</text>
+        </svg>" alt="Back image">
+      <figcaption class="info" aria-hidden="true">
+        <h3>Card Title</h3>
+        <p>Short description — replace with your content or remove the overlay if you prefer full-image back.</p>
+      </figcaption>
+    </div>
+  </div>
+</figure>
+
+<script>
+  // Tiny JS: toggle 'is-flipped' on click for touch devices / explicit click
+  (function(){
+    const card = document.querySelector('.flip-card');
+    const inner = card.querySelector('.flip-card-inner');
+
+    // Toggle on click/tap
+    card.addEventListener('click', (e) => {
+      // If keyboard interaction (Enter/Space) will be handled by default focus + :focus-within,
+      // but for touch/click we toggle a class so users can tap to flip.
+      card.classList.toggle('is-flipped');
+    });
+
+    // Allow Escape to close the flipped state
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') card.classList.remove('is-flipped');
+      if (e.key === 'Enter' || e.key === ' ') {
+        // prevent scrolling on space
+        e.preventDefault();
+        card.classList.toggle('is-flipped');
+      }
+    });
+
+    // Optional: if click outside the card, close it
+    document.addEventListener('click', (e) => {
+      if (!card.contains(e.target)) card.classList.remove('is-flipped');
+    });
+  })();
+</script>
+</body>
+</html>
