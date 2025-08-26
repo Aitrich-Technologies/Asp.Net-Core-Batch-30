@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Machine test</title>
+    <style>
+        .top{
+            border: 1px solid black;
+            width: 100%;
+            height: 130px;
+            background-color: rgb(255, 196, 87);
+        }
+        .top h1{
+            animation: bounce 3s infinite;
+        }
+        @keyframes bounce{
+            0%{transform: scale(1,1);}
+            50% {transform: scale(1,2) ;}
+            100%{transform: scale(1,1);}
+        }
+        .top ul{
+            display: flex;
+            column-gap:40px;
+            margin-left: 550px;
+            color: white;
+            font-size: 20px;
+        }
+        .top li:hover{
+            color: black;
+            cursor: pointer;
+        }
+        .box{
+            border: 3px solid orange;
+            border-radius: 15px;
+            width: 60%;
+            height: 150px;
+            margin-top: 40px;
+            margin-left: 330px;
+            background-color:rgb(250, 230, 205);
+            cursor: pointer;
+        }
+        .box:hover{
+            padding: 8px 8px;
+        }
+        .box2{
+            border: 3px solid orange;
+            border-radius: 15px;
+            width: 18%;
+            height: 280px;
+            margin-top: 60px;
+            margin-left: 175px;
+            background-color:rgb(250, 230, 205);
+        }
+        .box2:hover{
+            padding: 8px 8px;
+        }
+        .box3{
+            border: 3px solid orange;
+            border-radius: 15px;
+            width: 18%;
+            height: 280px;
+            margin-top: -290px;
+            margin-left: 480px;
+            background-color:rgb(250, 230, 205);
+        }
+        .box3:hover{
+            padding: 8px 8px;
+        }
+        .box4{
+            border: 3px solid orange;
+            border-radius: 15px;
+            width: 18%;
+            height: 280px;
+            margin-top: -290px;
+            margin-left: 785px;
+            background-color:rgb(250, 230, 205);
+        }
+        .box4:hover{
+            padding: 8px 8px;
+        }
+        .box5{
+            border: 3px solid orange;
+            border-radius: 15px;
+            width: 18%;
+            height: 280px;
+            margin-top: -290px;
+            margin-left: 1090px;
+            background-color:rgb(250, 230, 205);
+        }.box5:hover{
+            padding: 8px 8px;
+        }
+        .rec{
+            border: 3px solid orange;
+            border-radius: 10px;
+            width: 100%;
+            height: 44px;
+            background-color: rgb(251, 214, 169);
+        }
+        .rec:hover{
+            padding: 4px 8px;
+        }
+        .rec2{
+            border: 3px solid orange;
+            border-radius: 10px;
+            margin-top: 12px;
+            width: 100%;
+            height: 44px;
+            background-color: rgb(251, 214, 169);
+        }
+        .rec2:hover{
+            padding: 4px 8px;
+        }
+        .rec3{
+            border: 3px solid orange;
+            border-radius: 10px;
+            margin-top: 12px;
+            width: 100%;
+            height: 44px;
+            background-color: rgb(251, 214, 169);
+        }
+        .rec3:hover{
+            padding: 4px 8px;
+        }
+        .rec4{
+            border: 3px solid orange;
+            border-radius: 10px;
+            margin-top: 12px;
+            width: 100%;
+            height: 44px;
+            background-color: rgb(251, 214, 169);
+        }
+        .rec4:hover{
+            padding: 4px 8px;
+        }
+        .form input{
+            width: 100%;
+            height: 28px;
+            border-radius: 10px;
+        }
+        .form button{
+            padding: 8px 24px;
+            border-radius: 10px;
+            background-color: lightskyblue;
+        }
+        .form button:hover{
+            padding: 10px 26px;
+            background-color: blueviolet;
+        }
+        .footer{
+            border: 1px solid black;
+            margin-top: 20px;
+            width: 100%;
+            height: 90px;
+            background-color: rgb(255, 196, 87);
+        }
+    </style>
+</head>
+<body>
+    <div class="top">
+        <h1 style="margin-left: 530px; margin-top: 30px; color: white;">Celebrate the Joy of Kerala Onam !</h1>
+        <nav>
+            <ul type="none">
+                <li>About</li>
+                <li>Gallery</li>
+                <li>Activities</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </div>
+    <div class="box">
+        <h1 style="margin-left: 330px; color: brown; margin-top: 30px;">About Onam</h1>
+        <p style="margin-left: 30px; font-size: 20px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Onam is kerala grand harvest festival celebrated with Joy and Unity. Homes are decorated wtih pookalam (Floral carpets), feasts are prepared
+            ,and Cultural events bring Communities together.
+        </p>
+    </div>
+    <div class="box2">
+        <img style="width: 96%; margin-left: 6px; margin-top: 12px; border-radius: 10px;" src="images/pookalam.png">
+        <b style="margin-left: 50px; font-size: 20px;">Colourfull pookalam</b>
+    </div>
+    <div class="box3">
+        <img style="width: 96%; height: 55%; margin-left: 6px; margin-top: 12px; border-radius: 10px;" src="images/food.png">
+        <b style="margin-left: 50px; font-size: 20px;">Traditional Onam Sadya</b>
+    </div>
+    <div class="box4">
+        <img style="width: 96%; height: 55%; margin-left: 6px; margin-top: 12px; border-radius: 10px;" src="images/vanchi.png">
+        <b style="margin-left: 50px; font-size: 20px;">Snake Boat Race</b>
+    </div>
+    <div class="box5">
+        <img style="width: 96%; height: 55%; margin-left: 6px; margin-top: 12px; border-radius: 10px;" src="images/dance.png">
+        <b style="margin-left: 50px; font-size: 20px;">Thiruvathira Dance</b>
+    </div>
+    <h2 style="margin-top: 50px; margin-left: 680px; color: brown;">Onam Activities</h2>
+    <div class="rec">
+        <h3 style="margin-left: 12px; margin-top: 10px;">Making Flower Carpet(Pookalam)</h3>
+    </div>
+    <div class="rec2">
+        <h3 style="margin-left: 12px; margin-top: 10px;">Traditional Dance Performance</h3>
+    </div>
+    <div class="rec3">
+        <h3 style="margin-left: 12px; margin-top: 10px;">Snake Boat Race(Vallam Kali)</h3>
+    </div>
+    <div class="rec4">
+        <h3 style="margin-left: 12px; margin-top: 10px;">Grand Onam Fest(Sadya)</h3>
+    </div>
+    <h1>Contact Us</h1>
+    <div class="form">
+    <label>Name:</label><br>
+    <input type="text"><br><br>
+    <label>Email:</label><br>
+    <input type="email"><br><br>
+    <label>Message:</label><br>
+    <input type="text" style="height: 80px;"><br><br>
+    <button>Send Message</button>
+    </div>
+    <div class="footer">
+        <h3 style="margin-left: 576px; margin-top: 35px; color: white;">&copy; 2025 Kerala Onam Festival . All Rights Reserved</h3>
+    </div>
+</body>
+</html>
