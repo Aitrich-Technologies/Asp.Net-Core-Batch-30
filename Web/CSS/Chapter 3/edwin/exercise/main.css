@@ -1,0 +1,168 @@
+
+.body {
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+
+    padding: 0px;
+}
+
+.sidebar {
+    width: 170px;
+    height: 1200px;
+    background-color: #20a6fc;
+    position: absolute;
+    color: white;
+    padding: 20px;
+
+
+}
+#color{
+    animation: slide 5s linear infinite;
+    background: linear-gradient(to right, red , orange, yellow, green, blue, indigo, violet);
+    background-clip: text;
+    color: transparent;
+    
+}
+@keyframes slide {
+    from { background-position: 0px center;   }
+    to{ background-position: 200px center; }
+}
+
+.sidebar li {
+    list-style: none;
+    display: flex;
+    margin-bottom: 32px;
+
+
+}
+
+.sidebar img {
+    width: 30px;
+    height: 24px;
+    align-items: flex-start;
+    margin-right: 10px;
+    ;
+}
+.open{
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 90px;
+    margin-top: 47px;
+    margin-left: 39px;
+    text-align: center;
+    height: 20px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+}
+
+
+.topheader {
+    width: 100%;
+    background-color: gray;
+
+    position: absolute;
+    font-family: serif;
+    padding: 10px;
+    display: flex;
+}
+
+.companyforms {
+    width: 1145px;
+    height: 150px;
+    background-color: gray;
+    position: absolute;
+    top: 150px;
+    left: 270px;
+    padding: 35px;
+    border: gray 1px solid;
+    font-size: 15px;
+    font-family: serif;
+
+    
+}
+.companyforms:hover{
+     box-shadow: rgba(46, 175, 240, 0.4) -5px 5px, rgba(46, 175, 240, 0.3) -10px 10px, rgba(46, 175, 240, 0.2) -15px 15px, rgba(46, 175, 240, 0.1) -20px 20px, rgba(46, 175, 240, 0.05) -25px 25px; 
+    
+}
+
+.companyforms li {
+    display: flex;
+    margin-right: 10px;
+    align-items: flex-start;
+    margin-bottom: 15px
+}
+
+.companyforms img {
+    width: 80px;
+    height: 80px;
+    
+}
+
+.companyforms button {
+    width: 130px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    text-align: left;
+    font-family: serif;
+    font-size: 15px;
+    top: 160px;
+    display: flex;
+
+}
+
+.companyforms .button-gold {
+    background-color: #d2c59d;
+}
+
+.submit {
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: #20a6fc;
+    color: white;
+    border: none;
+    padding: 5px;
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.footer{
+    width: 1700px;
+    height: 250px;
+    position: absolute;
+    margin-top: 860px;
+    background-color: #20a6fc;
+    margin-left: -150px;
+    
+}
+
+.final-footer {
+        position: absolute;
+        margin-top: 1050px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: normal;
+        padding: 100px;
+}
+.content{
+    position: absolute;
+    margin-top: -190px;
+    width: 150px;
+
+}
+.saved{
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -100px;
+    width: 60px;
+    height: 60px;
+}

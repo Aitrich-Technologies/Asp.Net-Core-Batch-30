@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sliding Text Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f7f7fb;
+    overflow: hidden;
+  }
+
+  .slide-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4a90e2;
+    animation: slideIn 1.5s ease-out forwards;
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  /* Accessibility: respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .slide-text { animation: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="slide-text">Hello, I just slid in!</div>
+</body>
+</html>

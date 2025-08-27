@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bouncing Ball with @keyframes</title>
+<style>
+  /* Page setup: center the ball */
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .stage {
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background: #f7f7fb;
+    overflow: hidden;
+  }
+
+  /* The ball */
+  .ball {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #fff, #ff6b6b 50%, #c73838 90%);
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+    animation: bounce 1.2s cubic-bezier(.28,.84,.42,1) infinite;
+    will-change: transform;
+  }
+
+  /* Optional shadow squash to sell the bounce */
+  .shadow {
+    width: 90px;
+    height: 14px;
+    border-radius: 50%;
+    background: rgba(0,0,0,.15);
+    filter: blur(2px);
+    transform: translateY(60px) scaleX(.9);
+    animation: shadowBounce 1.2s cubic-bezier(.28,.84,.42,1) infinite;
+    will-change: transform, opacity;
+    margin-top: -30px; /* pull shadow under the ball */
+  }
+
+  @keyframes bounce {
+    0%, 100%   { transform: translateY(0); }
+    15%        { transform: translateY(-140px); }  /* peak */
+    30%        { transform: translateY(0); }       /* ground */
+    45%        { transform: translateY(-90px); }   /* smaller bounce */
+    60%        { transform: translateY(0); }
+    75%        { transform: translateY(-50px); }
+    90%        { transform: translateY(0); }
+  }
+
+  @keyframes shadowBounce {
+    0%, 100%   { transform: translateY(60px) scaleX(.9); opacity: .5; }
+    15%        { transform: translateY(60px) scaleX(1.05); opacity: .35; }
+    30%        { transform: translateY(60px) scaleX(.85); opacity: .55; }
+    45%        { transform: translateY(60px) scaleX(1.02); opacity: .4; }
+    60%        { transform: translateY(60px) scaleX(.9);  opacity: .5; }
+    75%        { transform: translateY(60px) scaleX(.98); opacity: .45; }
+   90%        { transform: translateY(60px) scaleX(.9);  opacity: .5; }
+  }
+
+  /* Respect reduced motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    .ball, .shadow { animation: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="stage">
+    <div>
+      <div class="ball"></div>
+      <div class="shadow"></div>
+    </div>
+  </div>
+</body>
+</html>
