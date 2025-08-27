@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Onam Celebration</title>
+  <style>
+    
+    header {
+      text-align: center;
+      background: linear-gradient(to right, #f9a825, #f57c00);
+      padding: 20px;
+      color: white;
+    }
+
+     h1 {
+      font-size: 2.5em;
+      font-weight: bold;
+      animation: fadeZoom 2.5s infinite alternate;
+    }
+
+    @keyframes fadeZoom {
+      0% {
+        opacity: 0;
+        transform: scale(0.5);
+      }
+      50% {
+        opacity: 0.7;
+        transform: scale(1.1);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+    
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+   
+    .about {
+      text-align: center;
+      margin: 30px auto;
+      padding: 20px;
+      max-width: 800px;
+      background: #fff3e0;
+      border: 2px solid #fbc02d;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .about h2 {
+      color: #d84315;
+      margin-bottom: 15px;
+    }
+
+    .about p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    
+    .gallery {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .card {
+      width: 220px;
+      background: #fff8e1;
+      border: 2px solid #fbc02d;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      text-align: center;
+      padding: 10px;
+    }
+
+    .card img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .card h3 {
+      margin-top: 10px;
+      font-size: 1.1rem;
+      color: #4e342e;
+    }
+
+    h2{
+      color: #d24120;
+      text-align: center;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+
+     .accordion {
+      background-color: #f9c97b;
+      color: #333;
+      cursor: pointer;
+      padding: 15px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 18px;
+      transition: background-color 0.3s ease;
+      border-radius: 10px;
+      margin-bottom: 8px;
+    }
+
+    .accordion :hover{
+      background-color: #f9a825;
+    
+    }
+
+    .active, .accordion :focus{
+      background-color: #f9a825;
+      color: black;
+    }
+
+     .panel {
+      padding: 0 18px;
+      display: none;
+      background-color: #fff5e1;
+      overflow: hidden;
+      border-radius: 0 0 10px 10px;
+      margin-top: -8px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      font-weight: bold;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+
+    textarea {
+      height: 120px;
+      resize: none;
+    }
+
+    button {
+      background-color: #f7dc0f;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #f7dc0f;
+    }
+      
+    
+  </style>
+</head>
+<body>
+
+  
+  <header>
+    <h1>Celebrate the Joy of Kerala Onam!</h1>
+    <nav>
+      <a href="#">About</a>
+      <a href="#">Gallery</a>
+      <a href="#">Activities</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  
+  <div class="about">
+    <h2>About Onam</h2>
+    <p>
+      Onam is Kerala's grand harvest festival celebrated with joy and unity. 
+      Homes are decorated with <b>Pookalam</b> (floral carpets), 
+      feasts are prepared, and cultural events bring communities together.
+    </p>
+  </div>
+
+  
+  <div class="gallery">
+    <div class="card">
+      <img src="images/Onam.jpg" alt="Pookalam">
+      <h3>Colorful Pookalam</h3>
+    </div>
+
+    <div class="card">
+      <img src="images/Kerala Sadya_ Ona Sadhya.jpg" alt="Onam Sadya">
+      <h3>Onam Sadya</h3>
+    </div>
+
+    <div class="card">
+      <img src="images/Happy Onam.jpg" alt="Snake Boat Race">
+      <h3>Snake Boat Race</h3>
+    </div>
+
+    <div class="card">
+      <img src="images/Happy onam celebration _ Premium AI-generated image.jpg" alt="Thiruvathira Dance">
+      <h3>Thiruvathira Dance</h3>
+    </div>
+  </div>
+
+  <h2>Onam Activities</h2>
+
+  <button class="accordion"> Making Flower Carpet (Pookalam)</button>
+  <div class="panel">
+    <p>Beautiful floral patterns made with fresh flowers during Onam.</p>
+  </div>
+
+  <button class="accordion"> Traditional Dance Performances</button>
+  <div class="panel">
+    <p>Performances like Thiruvathira, Kathakali, and Pulikali are showcased.</p>
+  </div>
+
+  <button class="accordion"> Snake Boat Race (Vallam Kali)</button>
+  <div class="panel">
+    <p>A thrilling race of long snake boats rowed in rhythm, famous in Kerala.</p>
+  </div>
+
+  <button class="accordion"> Grand Onam Feast (Sadya)</button>
+  <div class="panel">
+    <p>A tra
+      </p>
+    </div>
+
+      <h2>Contact Us</h2>
+      <form action="#" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" required></textarea>
+    
+    <button type="submit">Send Message</button>
+  </form>
+
+</body>
+</html>
