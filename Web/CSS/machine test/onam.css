@@ -1,0 +1,153 @@
+.header {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+#nav {
+    width: 100%;
+    text-align: center;
+    color: white;
+
+}
+
+#nav:hover {
+
+    color: black;
+    cursor: pointer;
+
+}
+
+.About {
+    background-color: bisque;
+    text-align: center;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    margin-left: 350px;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: brown;
+    border-style: solid;
+
+
+}
+.About:hover{
+    width: 50%;
+    height: 100px;
+    background-color: bisque;
+}
+
+.Pookalam {
+    background-color: bisque;
+    text-align: center;
+    color: black;
+    width: 20%;
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 100px;
+    margin-top: 90px;
+   
+}
+.Pookalam:hover{
+    width: 20%;
+    height: 250px;
+
+    background-color: bisque;
+   
+}
+
+.sadya {
+    background-color: bisque;
+    text-align: center;
+    color: black;
+    width: 20%;
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 400px;
+    margin-top: -225px;
+}
+.sadya:hover{
+    width: 20%;
+    height: 250px;
+
+    background-color: bisque;
+   
+}
+.boat{
+ background-color: bisque;
+    text-align: center;
+    color: black;
+    width: 20%;
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 700px;
+    margin-top: -225px;
+}
+
+.boat:hover{
+    width: 20%;
+    height: 250px;
+
+    background-color: bisque;
+   
+}
+.Dance{
+     background-color: bisque;
+    text-align: center;
+    color: black;
+    width: 20%;
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 1000px;
+    margin-top: -225px;
+}
+.Dance:hover{
+     width: 20%;
+    height: 250px;
+
+    background-color: bisque;
+}
+.Activities{
+background-color:bisque;
+width: 120%;
+height: 30px;
+border-radius: 5px;
+margin-left: -40px;
+}
+.Activities:hover{
+       width: 120%;
+    height: 40px;
+
+    background-color: bisque;
+}
+.color{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.color:hover{
+    background-color: blue;
+    transition: 1s;
+}
+
+.footer{
+   background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    height: 100%; 
+}
