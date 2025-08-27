@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HireMe Now - Job Portal</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      display: flex;
+      background: #f5f5f5;
+    }
+
+    
+    .sidebar {
+      width: 250px;
+      background: #1e90ff;
+      color: white;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .sidebar h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 30px;
+      color: #fff;
+    }
+
+    .profile {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .profile img {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    .profile p {
+      margin: 5px 0;
+    }
+
+    .menu a {
+      display: block;
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 8px;
+    }
+
+    .menu a:hover,
+    .menu .active {
+      background: #007acc;
+    }
+
+    /* Main Content */
+    .main {
+      flex: 1;
+      padding: 20px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .search-bar {
+      display: flex;
+      gap: 10px;
+    }
+
+    .search-bar input {
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    .job-card {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .job-card h3 {
+      margin-bottom: 5px;
+    }
+
+    .tags span {
+      display: inline-block;
+      background: #8a8a6a;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 20px;
+      margin: 5px 5px 0 0;
+      font-size: 12px;
+    }
+
+    .apply-btn {
+      background: #00aaff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      float: right;
+    }
+
+    .apply-btn:hover {
+      background: #008ecc;
+    }
+  </style>
+</head>
+<body>
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>HireMe Now!</h2>
+    <div class="profile">
+      <img src="https://via.placeholder.com/80" alt="Profile">
+      <p><strong>Leslie Alexander</strong></p>
+      <p>alexanderleslie@mail.com</p>
+    </div>
+    <div class="menu">
+      <a href="#" class="active">All Jobs</a>
+      <a href="#">My Applications</a>
+      <a href="#">Messages</a>
+      <a href="#">My Profile</a>
+      <a href="#">Settings</a>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main">
+    <div class="header">
+      <div class="search-bar">
+        <input type="text" placeholder="Search for jobs">
+        <input type="text" placeholder="Location">
+      </div>
+      <div>
+        <span>Leslie Alexander</span>
+      </div>
+    </div>
+
+    <!-- Job Card 1 -->
+    <div class="job-card">
+      <h3>Trainee Software Developer</h3>
+      <p><strong>Cyber Infrastructure</strong> • Location</p>
+      <p>We are looking for a UI/UX Designer to turn our software into easy-to-use products for our clients</p>
+      <div class="tags">
+        <span>Full-Time</span>
+        <span>Mid Level</span>
+        <span>$3000-$5000</span>
+        <span>Indonesia</span>
+        <span>Onsite</span>
+      </div>
+      <button class="apply-btn">Apply Job</button>
+    </div>
+
+    <!-- Job Card 2 -->
+    <div class="job-card">
+      <h3>Java Developer</h3>
+      <p><strong>Regal Consulting</strong> • Location</p>
+      <p>Product Designer responsibilities include defining product specifications, creating digital or print drawings and designing fully-functional products.</p>
+      <div class="tags">
+        <span>Full-Time</span>
+        <span>Mid Level</span>
+        <span>$3000-$5000</span>
+        <span>Indonesia</span>
+        <span>Onsite</span>
+      </div>
+      <button class="apply-btn">Apply Job</button>
+    </div>
+  </div>
+</body>
+</html>

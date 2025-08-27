@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Hover Ripple Button (CSS @keyframes + scale)</title>
+<style>
+  :root{
+    --btn-bg: #1e88e5;
+    --btn-color: #fff;
+    --btn-padding: 12px 22px;
+    --btn-radius: 12px;
+    --ripple-size: 260%;      /* how large the ripple grows relative to button */
+    --ripple-duration: 700ms; /* animation duration */
+    --ripple-ease: cubic-bezier(.2,.9,.3,1);
+  }
+
+  body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    background: #f5f7fb;
+  }
+
+  /* Basic button */
+  .ripple-btn{
+    position: relative;                /* container for pseudo-element */
+    display: inline-block;
+    padding: var(--btn-padding);
+    background: var(--btn-bg);
+    color: var(--btn-color);
+    border: none;
+    border-radius: var(--btn-radius);
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    overflow: hidden;                  /* clip the ripple */
+    -webkit-tap-highlight-color: transparent;
+    box-shadow: 0 6px 18px rgba(17,24,39,0.12);
+    transition: transform 160ms ease, box-shadow 160ms ease;
+  }
+
+  .ripple-btn:active{ transform: translateY(1px) scale(.997); }
+
+  /* The ripple using pseudo-element */
+  .ripple-btn::after{
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 0;
+    height: 0;
+    background: rgba(255,255,255,0.35); /* visible ripple color */
+    border-radius: 50%;
+    transform: translate(-50%,-50%) scale(0);
+    pointer-events: none;
+    /* invisible until hovered */
+    opacity: 0;
+  }
+
+  /* Keyframes: scale + fade out */
+  @keyframes rippleExpand {
+    0% {
+      transform: translate(-50%,-50%) scale(0);
+      opacity: 0.65;
+    }
+    100% {
+      transform: translate(-50%,-50%) scale(var(--ripple-size));
+      opacity: 0;
+    }
+  }
+
+  /* Trigger the ripple animation on hover and focus */
+  .ripple-btn:hover::after,
+  .ripple-btn:focus::after,
+  .ripple-btn:focus-visible::after {
+    width: 40%;
+    height: 40%;
+    /* width/height initial values are small; scale handles expansion */
+    opacity: 1;
+    animation: rippleExpand var(--ripple-duration) var(--ripple-ease) forwards;
+  }
+
+  /* Keep focus visible for keyboard users */
+  .ripple-btn:focus-visible{
+    outline: 3px solid rgba(30,136,229,0.22);
+    outline-offset: 4px;
+  }
+
+  /* Respect reduced motion preference */
+  @media (prefers-reduced-motion: reduce){
+    .ripple-btn::after,
+    .ripple-btn:hover::after,
+    .ripple-btn:focus::after {
+      animation: none;
+      opacity: 0;
+    }
+    .ripple-btn{ transition: none; }
+  }
+
+  /* small demo layout */
+  .demo { display: flex; gap: 16px; align-items:center; flex-wrap:wrap; }
+  .ghost { background: transparent; color: #1e88e5; box-shadow: none; border: 1px solid rgba(30,136,229,0.12); }
+</style>
+</head>
+<body>
+  <div class="demo" aria-hidden="false">
+    <button class="ripple-btn">Hover me</button>
+    <button class="ripple-btn ghost">Hover ghost</button>
+  </div>
+
+  <!--
+    Optional: If you want the ripple to originate from the cursor (click/tap), you can
+    add a small JS snippet to set the pseudo-element's position per event.
+    The CSS-only version above centers the ripple on the button (good for hover effects).
+  -->
+  <script>
+    // Optional JS — uncomment to enable cursor-origin ripples on click.
+    /*
+    document.querySelectorAll('.ripple-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const rect = btn.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        // set custom CSS properties used by the ::after pseudo element
+        btn.style.setProperty('--px', x + 'px');
+        btn.style.setProperty('--py', y + 'px');
+        // change the pseudo-element to use those coords (requires adjusting CSS)
+        // Note: To use cursor-origin with pseudo-element, the CSS must use var(--px) & var(--py)
+      });
+    });
+    */
+  </script>
+</body>
+</html>
