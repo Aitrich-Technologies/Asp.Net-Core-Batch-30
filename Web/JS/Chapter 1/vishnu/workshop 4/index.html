@@ -21,18 +21,26 @@
            y.style.display="none";
            z.style.display="none";
            }
-            else
+            else if(id=="photo2")
            {
             var x= document.getElementById("message");
            var y= document.getElementById("message2");
            var z= document.getElementById("message3");
+           
            x.style.display="none";
            y.style.display="block";
            z.style.display="none";
            }
+           else{
+             var x= document.getElementById("message");
+           var y= document.getElementById("message2");
+           var z= document.getElementById("message3");
            
+           x.style.display="none";
+           y.style.display="none";
+           z.style.display="block";
         }
-
+    }
 
 
     </script>
@@ -89,7 +97,7 @@
                 <div style="float: right;">10:56 AM</div>
             </div>
            </div>
-           <div class="photo1">
+           <div class=  " photo1" onClick="showMessage(this.id)" id="photo3">
             <img src="images/young-attractive-teenage-girl-wearing-striped-casual-t-shirt-posing-against-pink-wall-with-charming-smile-looks-happy 1 (1).png">
             <div >
                 <div>

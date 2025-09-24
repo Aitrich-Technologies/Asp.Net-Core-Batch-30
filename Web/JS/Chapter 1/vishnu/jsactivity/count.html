@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<center>
+<body>
+    <div id="box" style=" background-color: rgb(232, 242, 91); padding: 20px; width: 50px; border-radius: 10px;">0</div><br>
+    <button id="increment" onclick="increment()" style="height: 40px; width: 80px; border-radius: 10px; background-color: rgb(255, 61, 61);" >Increment</button>&nbsp;
+    <button id="decrement" onclick="decrement()" style="height: 40px; width: 80px; border-radius: 10px; background-color: rgb(61, 194, 255);" >Decrement</button>&nbsp;
+    <button id="reset" onclick="reset() "style="height: 40px; width: 80px; border-radius: 10px; background-color: rgb(61, 255, 67);">Reset</button>
+
+
+
+    <script>
+
+        let count=0;
+        const box=document.getElementById("box");
+
+        function increment(){
+            count++;
+            box.textContent=count;
+        }
+
+        function decrement(){
+            count--;
+            box.textContent=count;
+        }
+
+        function reset(){
+            count=0;
+            box.textContent=count;
+        }
+    </script>
+
+</body>
+</center>
+
+
+</html>
