@@ -31,8 +31,6 @@ a{
   color:white;
 }
 .content{
-   
-    
     position: absolute;
     margin-top: 70px;
 }
@@ -151,7 +149,7 @@ a{
     top: 6px;
   }
   input[type="text"] {
-    color: #fcf9f9;
+    color: #000000;
     background-color: #fff;
     font-size: 16px;
     border: 2px solid #f7ecec;
@@ -164,7 +162,7 @@ a{
     padding-right: 40px;
   }
   input::placeholder {
-    color: #999;
+    color: #000000;
     
     font-size: 14px;
   }
@@ -172,4 +170,64 @@ a{
     position: relative;
     align-items: center;
   }
+.banner {
+    width: 600px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #fff;
+    position: relative;
+}
+
+/* Messages area */
+.chat-container {
+  margin-top: 300px;
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    background: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; /* <-- Aligns all messages to right */
+}
+
+/* Input fixed at bottom */
+.chat-input {
+    position:absolute;
+    display: flex;
+    border-top: 1px solid #ddd;
+    padding: 8px;
+    background: #fff;
+    /* margin-left: 200px; */
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+}
+
+.chat-input button {
+    margin-left: 8px;
+    background: #007BBD;
+    color: #000000;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
  
+/* Each chat message */
+.message {
+    background: #dcf8c6;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    max-width: 60%;
+    text-align: right; /* Align text to the right */
+}
