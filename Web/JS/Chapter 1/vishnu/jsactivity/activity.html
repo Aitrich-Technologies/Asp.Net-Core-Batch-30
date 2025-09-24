@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="alert('button clicked')">Click me</button>
+    <br><br>
+
+
+    <button onclick="document.body.style.backgroundColor='blue'">Change background</button>
+
+    <br><br>
+
+    <button id="btn">click me</button>
+    <br><br>
+
+    <button id="btn2">Hide Me</button>
+
+    <br><br>
+
+    <p id="para1">Hover over me!</p>
+
+    <br><br>
+
+    <input type="text" id="myInput" placeholder="Type something...">
+    <p id="output"></p>
+
+    <br><br>
+
+    <h1 id="heading">Hello World</h1>
+    <button onclick="changeHeading()">Change Heading</button>
+
+
+    <br><br>
+
+    <ul id="myList">
+    <li>Item 1</li>
+    </ul>
+    <button onclick="addItem()">Add Item</button>
+
+
+    <br><br>
+
+<p id="para2">This is a paragraph.</p>
+<button onclick="deletePara()">Delete Paragraph</button>
+
+
+<br><br>
+
+
+<p id="para3">Highlight me with the button!</p>
+<button id="toggleBtn">Highlight</button>
+
+<br><br>
+
+<p id="p1">Hello World</p>
+<button onclick="addClass()">Add Class</button>
+
+<br><br>
+
+<p id="p2" class="highlight">This is highlighted</p>
+<button onclick="removeClass()">Remove Class</button>
+
+
+<br><br>
+
+<p id="p3" class="highlight">Check my class</p>
+<button onclick="checkClass()">Check Class</button>
+
+
+<br><br>
+
+<input id="myInput" placeholder="Type here...">
+<button onclick="changePlaceholder()">Change Placeholder</button>
+
+
+<br><br>
+
+
+
+<div id="myDiv">
+  <p>One</p>
+  <p>Two</p>
+</div>
+<button onclick="countChildren()">Count Children</button>
+
+
+
+<br><br>
+
+
+
+<div id="clearDiv">
+  <p>Child 1</p>
+  <p>Child 2</p>
+</div>
+<button onclick="clearChildren()">Clear</button>
+
+
+<br><br>
+
+<p id="wrapPara">Hello World</p>
+<button onclick="wrapWord()">Wrap Word</button>
+
+
+<br><br>
+
+
+<div id="childDiv">
+  <p>First</p>
+  <p>Middle</p>
+  <p>Last</p>
+</div>
+<button onclick="showChildren()">Show First & Last</button>
+
+
+
+
+
+
+
+
+
+<style>
+
+
+    .highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+</style>
+    <script>
+        document.getElementById("btn").addEventListener("click", function(){
+            alert("Button clicked with addevent listener");
+        });
+
+
+
+
+        document.getElementById("btn2").addEventListener("click",function(){
+            this.style.display="none";
+        });
+
+
+        let p=document.getElementById("para1");
+        p.addEventListener("mouseover",function(){
+            p.style.color="red";
+        });
+
+        p.addEventListener("mouseout",function(){
+            p.style.color="black";
+        });
+
+
+
+
+        let input = document.getElementById("myInput");
+        let output = document.getElementById("output");
+        input.addEventListener("input", function(){
+            output.textContent = input.value;
+        });
+        input.addEventListener("dblclick", function(){
+            input.value = "";
+            output.textContent = "";
+
+        });
+
+        
+
+
+        function changeHeading(){
+            let h=document.getElementById("heading");
+            h.textContent="New heading";
+            h.style.color="blue";
+            
+        }
+
+
+
+        function addItem(){
+    let item = prompt("Enter new item:");
+    if(item){
+        let li = document.createElement("li");
+        li.textContent = item;
+        document.getElementById("myList").appendChild(li);
+    }
+}
+
+
+
+
+    function deletePara(){
+        let p=document.getElementById("para2");
+        p.textContent="deleted";
+    }
+
+
+
+    let btn = document.getElementById("toggleBtn");
+let para = document.getElementById("para3");
+
+btn.addEventListener("click", function(){
+    para.classList.toggle("highlight");
+    btn.textContent = para.classList.contains("highlight") ? "Remove Highlight" : "Highlight";
+});
+
+
+
+function addClass() {
+  document.getElementById("p1").classList.add("highlight");
+}
+
+
+
+
+function removeClass() {
+  document.getElementById("p2").classList.remove("highlight");
+}
+
+
+
+function checkClass() {
+  let para = document.getElementById("p3");
+  console.log(para.classList.contains("highlight")); 
+}
+
+
+
+
+function changePlaceholder() {
+  document.getElementById("myInput").setAttribute("placeholder", "New Placeholder!");
+}
+
+
+
+
+function countChildren() {
+  let div = document.getElementById("myDiv");
+  alert("Children count: " + div.children.length);
+}
+
+
+function clearChildren() {
+  document.getElementById("clearDiv").innerHTML = "";
+}
+
+
+
+
+function wrapWord() {
+  let para = document.getElementById("wrapPara");
+  para.innerHTML = "Hello <span style='color:blue;'>World</span>";
+}
+
+
+
+
+function showChildren() {
+  let div = document.getElementById("childDiv");
+  console.log("First Child:", div.firstElementChild.textContent);
+  console.log("Last Child:", div.lastElementChild.textContent);
+}
+
+
+
+
+
+    </script>
+</body>
+</html>
