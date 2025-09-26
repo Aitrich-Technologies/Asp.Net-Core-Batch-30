@@ -3,52 +3,195 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Interview Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+    }
+
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      width: 20%;
+      background: #117ebd;
+      color: white;
+      padding-top: 50px;
+    }
+    .sidebar h2 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .sidebar-menu ul {
+      list-style: none;
+      padding: 0;
+    }
+    .sidebar-menu li {
+      padding: 15px 20px;
+      font-size: 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .sidebar-menu li:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    .sidebar-menu img {
+      width: 20px;
+      height: 20px;
+    }
+    .sidebar .addnew {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+
+    .navbar {
+      margin-left: 20%;
+      background: #fff;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .navbar img {
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+    }
+
+    .contentarea {
+      margin-left: 20%;
+      padding: 30px;
+      display: flex;
+      gap: 40px;
+    }
+
+    .column {
+      flex: 1;
+    }
+    .card {
+      background: white;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+      width: 250px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .card img {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+    .card b {
+      display: block;
+      font-size: 16px;
+      margin: 5px 0;
+    }
+    .card p {
+      margin: 3px 0;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .interview {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .interview img {
+      width: 100%;
+      max-width: 500px;
+      height: auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+  </style>
 </head>
-<style>
-  .sidebar{
-    height:990px;
-    width:20%;
-    background:#117ebd;
-    float: left;
-
-}
-.sidebar-menu{
-
-        padding: 10px 10px 10px 20px;
-        font-size: 20px;
-        display: block;
-      }
-      .navbar{
-        margin-left: 1100px;
-        margin-top: 30px;
-      }
-</style>
 <body>
-    <div class="parent">
-      <div class="sidebar">
-          <h2 style="text-align: center;margin-top:80px;color:white;">HireMe Now!</h2>
-          <div class="sidebar-menu">
-              <ul type="none">
-                  <li> <img src="images/dashboard 1.png" align="center">Dash Board</p></li>
-                  <li> <img src="images/suitcase 2.png" align="center">Jobs</li><br>
-                  <li> <img src="images/application (1) 1.png" align="center">Applications</li><br>
-                  <li><img src="images/question (1) 1.png" align="center">Interviews</li><br>
-                  <li><img src="images/message 1.png" align="center">Messages</li><br>
-                  <li><img src="images/settings 1.png" align="center">Settings</li><br>
-              </ul>
-              <div style="text-align: center;">
-                <img src="images/add-group (1) 1.png"><br>AddNew
-              </div>
-          </div>
+
+  <div class="sidebar">
+    <h2>HireMe Now!</h2>
+    <div class="sidebar-menu">
+      <ul>
+        <li><img src="images/dashboard 1.png"> Dashboard</li>
+        <li><img src="images/suitcase 2.png"> Jobs</li>
+        <li><img src="images/application (1) 1.png"> Applications</li>
+        <li><img src="images/question (1) 1.png"> Interviews</li>
+        <li><img src="images/message 1.png"> Messages</li>
+        <li><img src="images/settings 1.png"> Settings</li>
+      </ul>
+      <div class="addnew">
+        <img src="images/add-group (1) 1.png" style="width: 50px; height: 50px;"><br>Add New
       </div>
-      <div class="navbar">
-        <img src="images/notification-bing.png">
-        <img src="images/girl.png">
-        <img src="images/exit 1.png">
-      </div>
-      <div class="contentarea">
-        <img src="images/Image (2).png" style="width: 350px; height: 600px; margin-left: 500px; margin-top: 100px;">
-      </div>
+    </div>
+  </div>
+
+  <div class="navbar">
+    <img src="images/notification-bing.png" alt="Notification">
+    <img src="images/girl.png" alt="Profile">
+    <img src="images/exit 1.png" alt="Logout">
+  </div>
+
+  <div class="contentarea">
+    <div class="column" id="card"></div>
+
+    <div class="interview">
+      <img src="images/m1 (2).png" alt="Interview Illustration">
+    </div>
+  </div>
+
+  <script>
+    var applicantList = [
+      { name: "Social Media Assistant", image: "./images/m2 (2).png",  location: "Online", date: "16-06-23", time: "10:00 AM" },
+      { name: "Brand Designer", image: "./images/m3.png",  location: "Offline", date: "19-06-23", time: "12:00 PM" },
+      { name: "Customer Manager", image: "./images/m4.png",  location: "Online", date: "20-06-23", time: "12:00 PM" },
+    ];
+
+    listApplicants();
+
+    function listApplicants() {
+      var contentDiv = document.getElementById('card');
+
+      applicantList.forEach(applicant => {
+        var cardDiv = document.createElement('div');
+        cardDiv.classList.add("card");
+
+        var image = document.createElement('img');
+        image.src = applicant.image;
+
+        var name = document.createElement('b');
+        name.textContent = applicant.name;
+
+        var location = document.createElement('p');
+        location.textContent = "Location: " + applicant.location;
+
+        var date = document.createElement('p');
+        date.textContent = "Date: " + applicant.date;
+
+        var time = document.createElement('p');
+        time.textContent = "Time: " + applicant.time;
+
+        cardDiv.appendChild(image);
+        cardDiv.appendChild(name);
+        cardDiv.appendChild(location);
+        cardDiv.appendChild(date);
+        cardDiv.appendChild(time);
+
+        contentDiv.appendChild(cardDiv);
+      });
+    }
+  </script>
+
 </body>
 </html>
