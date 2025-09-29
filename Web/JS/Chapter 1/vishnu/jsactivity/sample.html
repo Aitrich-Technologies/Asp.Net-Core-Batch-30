@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="h1">Good Morning</h1>
+    <h1 id="h2">Morning</h1>
+    <h1 id="h3">hello</h1>
+    <h1 class="h4">Welcome</h1>
+    <h1 class="h4">Welcome</h1>
+    <h1 class="h5">heading</h1>
+
+
+
+
+    <input type="button" id="b1" value="click">
+    <button id="btn11" >Change background</button>
+
+
+    <script>
+    document.getElementById("h1").innerHTML="Hello";
+    document.getElementById("h2").innerText="hi";
+    document.getElementById("h3").textContent="Welcome";
+    document.getElementsByClassName("h4")[0].innerHTML="hello";
+    document.getElementsByClassName("h4")[1].innerHTML="hello";
+
+    document.getElementsByClassName("h5")[0].innerHTML="hello";
+
+        document.getElementsByTagName("h1")[0].innerHTML="tagName";
+
+
+
+
+
+        const text = document.createElement('p');
+        document.body.appendChild(text);
+        text.innerHTML="helloworld";
+
+
+       var btn= document.getElementById("b1");
+       btn.setAttribute("type", "text")
+
+        var btn111= document.getElementById("btn11");
+        btn111.addEventListener("click",function(){
+            document.body.style.backgroundColor='blue';
+        });
+
+
+        
+        
+    </script>
+
+</body>
+</html>
