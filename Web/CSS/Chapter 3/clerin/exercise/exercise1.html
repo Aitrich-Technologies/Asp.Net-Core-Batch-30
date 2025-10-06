@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box1 {
+            background-color: blue;
+            width: 250px;
+            height: 1000px;
+        }
+
+        .job-text {
+            color: white;
+            margin-left: 80px;
+        }
+
+        /* .job title{
+        color: white;
+        margin-left: 80px;
+        
+       } */
+        .box2 {
+            width: 1100px;
+            height: 900px;
+            display: flex;
+            color: black;
+            /* border: 1px solid black; */
+            margin-top: -680px;
+            margin-left: 260px;
+            position: absolute;
+            gap: 40px;
+
+        }
+
+        .applications {
+            margin-top: -600px;
+            margin-left: 300px;
+            display: flex;
+            position: absolute;
+        }
+
+        .box3 {
+            width: 700px;
+            height: 200px;
+            border: 1px solid black;
+            margin-top: -550px;
+            margin-left: 300px;
+            border-radius: 10px;
+        }
+
+        .badge,
+        .small,
+        .big {
+            display: inline-block;
+            border-radius: 50px;
+            background-color: #d6d1bb;
+            color: white;
+            font-size: 14px;
+            margin-left: 25px;
+            gap: 10px;
+            padding: 8px 20px;
+            position: relative;
+            animation-name: exampleofbadge;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+            /* makes it loop forever */
+            animation-timing-function: ease-in-out;
+
+        }
+
+        @keyframes exampleofbadge {
+            0% {
+                margin-left: 25px;
+            }
+
+
+            50% {
+
+                margin-left: 35px;
+
+            }
+
+
+            100% {
+
+                margin-left: 25px;
+            }
+        }
+
+        .box4 {
+            width: 700px;
+            height: 200px;
+            border: 1px solid black;
+            margin-top: 50px;
+            margin-left: 5px;
+            border-radius: 10px;
+
+        }
+
+        .box5 {
+            width: 700px;
+            height: 200px;
+            border: 1px solid black;
+            margin-top: 50px;
+            margin-left: 5px;
+            border-radius: 10px;
+        }
+
+
+        .status {
+            margin-left: 800px;
+            display: flex;
+            margin-top: -700px;
+            position: absolute;
+        }
+
+        .timeline {
+            position: relative;
+            margin: 20px;
+            padding: 0;
+            list-style: none;
+            margin-top: 120px;
+            margin-left: -200px;
+        }
+
+        .timeline::before {
+            content: "";
+            position: absolute;
+            left: 15px;
+            top: 0;
+            bottom: -60px;
+            width: 3px;
+            background: #4CAF50;
+        }
+
+        .timeline-item {
+            position: relative;
+            margin: 60px 0;
+            padding-left: 40px;
+        }
+
+        .timeline-item::before {
+            content: "";
+            position: absolute;
+            left: 2px;
+            top: 5px;
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background: #4CAF50;
+        }
+
+        .timeline-item.checked::before {
+            content: "✔";
+            color: white;
+            font-size: 12px;
+            text-align: center;
+            line-height: 15px;
+            background: #4CAF50;
+        }
+
+        .timeline-item p {
+            margin: 0;
+            font-weight: bold;
+        }
+
+        .box6 {
+            width: 1500px;
+            height: 200px;
+            /* border: 1px solid black; */
+            margin-left: -313px;
+            margin-top: 100px;
+            background-color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div class="box1">
+            <p style="color: white; font-size: 30px;margin-left: 29px;margin-top: 1px;">HireMe Now!</p>
+            <img src="images/Ellipse 1.png" width="80px" height="80px" style="margin-left: 70px;">
+            <button style="background-color: green; color: white; margin-left: -90px;">open to work</button>
+            <p style="color: white; margin-left: 60px;">Leslie Alexander</p>
+            <p style="color: white; margin-left: 30px;">alexanderleslie@gmail.com</p>
+            <br>
+            <br>
+            <div style="display: flex; color: white; margin-left: 60px;"><img src="images/images/dashboard 1.png"
+                    width="20px" height="20px">&nbsp; &nbsp; All Jobs</div><br>
+            <div style="display: flex; color: white; margin-left: 60px;"><img src="images/images/suitcase 2.png"
+                    width="20px" height="20px">&nbsp; &nbsp; My Applications</div><br>
+            <div style="display: flex; color: white; margin-left: 60px;"><img src="images/images/message 1.png"
+                    width="20px" height="20px">&nbsp; &nbsp; Messages</div><br>
+            <div style="display: flex; color: white; margin-left: 60px;"><img src="images/profile.png" width="20px"
+                    height="20px">&nbsp; &nbsp; My profile</div><br>
+            <div style="display: flex; color: white; margin-left: 60px;"><img src="images/images/settings 1.png"
+                    width="20px" height="20px">&nbsp; &nbsp; settings</div><br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="job title" style="margin-left: 30px; color: white;"><img src="images/Group 1 (14).png"
+                    width="40px" height="30px">&nbsp;&nbsp;<b>Type of Employment</b></div>
+            <div class="job-text">fulltime Jobs</div>
+
+            <div class="job title" style="margin-left: 30px; color: white;"><img src="images/Group 1 (7).png"
+                    width="40px" height="30px">&nbsp;&nbsp;<b>Experience level</b></div>
+            <div class="job-text">Mid level</div>
+
+            <div class="job title" style="margin-left: 30px; color: white;"><img src="images/Group 1 (10).png"
+                    width="40px" height="30px">&nbsp;&nbsp;<b>salary Range</b></div>
+            <div class="job-text">3000-5000</div>
+
+            <div class="box2">
+                <p>All jobs</p>
+                <p> Saved jobs</p>
+                <p style="margin-left: 340px;">&nbsp;&nbsp;&nbsp;<img src="images/notification-bing.png"></p>
+                <p style="margin-left: 300px;"><img src="images/Ellipse 1.png" width="30px"><span>Leslie
+                        Alexander</span></p>
+            </div>
+            <br>
+            <br>
+            <h2 class="applications">My Applications</h2>
+            <div class="box3">
+                <p style="color: black; font-size: 25px; font-weight: bold; display: flex; position: absolute;"><img
+                        src="images/image2.png" width="85px" height="85px"><span>Mern Stack Intern</span></p>
+                <p style="margin-top: 50px;  margin-left:  90px;color: blue;">Aitrich Technologies</p>
+                <p style="color: gray; margin-top: -30px; margin-left: 250px; ">. Location</p>
+                <h4 style="margin-left: 90px; color: grey; font-size: 17px;">We are looking for a UI/UX Designer to turn
+                    our software intoeasy-to-use products for our clients.</h4>
+                <div class="button">
+                    <span class="badge">Full Time</span>
+                    <span class="badge">Mid Level</span>
+                    <span class="badge">$3000-$5000</span>
+                    <span class="badge">indonasia</span>
+                    <span class="badge">Onsite</span>
+                </div>
+                <div class="box4">
+                    <p style="color: black; font-size: 25px; font-weight: bold; display: flex; position: absolute;"><img
+                            src="images/image1.png" width="85px" height="85px"><span>Python Developer</span></p>
+                    <p style="margin-top: 50px; margin-left: 90px; color: blue;">Applexus Technologies</p>
+                    <p style="color: grey; margin-top: -30px;margin-left: 250px;">. Location</p>
+                    <h4 style="margin-left: 90px; color: grey; font-size: 17px;">Product Designer Responsibilities
+                        includedefining product specifications,creating digital or print drawings and designing
+                        fully-functional products.</h4>
+
+                    <div class="button">
+                        <span class="small">Full Time</span>
+                        <span class="small">Mid Level</span>
+                        <span class="small">$3000-$5000</span>
+                        <span class="small">indonasia</span>
+                        <span class="small">Onsite</span>
+                    </div>
+                    <div class="box5">
+                        <p style="color: black; font-size: 25px; font-weight: bold; display: flex; position: absolute;">
+                            <img src="images/Rectangle 11.png" width="85px" height="85px"><span>Junior Software
+                                Engineer</span>
+                        </p>
+                        <p style="margin-top: 50px; margin-left: 90px; color: blue;">Excellence Technologies</p>
+                        <p style="color: grey; margin-top: -30px;margin-left: 250px;">. Location</p>
+                        <h4 style="margin-left: 90px; color: grey; font-size: 17px;">We are Looking for A talented UI
+                            Designer to create amazing user experiences.The candidate should
+                            have an eye for clean and artful design possess superior UI skills.</h4>
+                        <div class="button">
+                            <span class="big">Full Time</span>
+                            <span class="big">Mid Level</span>
+                            <span class="big">$3000-$5000</span>
+                            <span class="big">indonasia</span>
+                            <span class="big">Onsite</span>
+                        </div>
+                        <div class="status">
+                            <h2><span>Application status</span></h2>
+                            <ul class="timeline">
+                                <li class="timeline-item">
+                                    <p>Applied</p>
+                                </li>
+                                <li class="timeline-item checked">
+                                    <p>Application Sent</p>
+                                </li>
+                                <li class="timeline-item checked">
+                                    <p>Accepted</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="box6">
+                            <p
+                                style=" text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold; font-size: 25px;">
+                                Get Notified Every New Job Now</p>
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+
+
+
+
+
+            </div>
+
+</body>
+
+</html>
