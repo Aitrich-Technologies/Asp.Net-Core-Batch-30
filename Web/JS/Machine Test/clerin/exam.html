@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Online Food Order</title>
+</head>
+<body>
+  <h1>Order Your Food</h1>
+
+  <ul>
+    <li>Pizza <button onclick="placeOrder('Pizza')">Order</button></li>
+    <br>
+    <li>Burger <button onclick="placeOrder('Burger')">Order</button></li>
+    <br>
+    <li>Pasta <button onclick="placeOrder('Pasta')">Order</button></li>
+    <br>
+    <li>Sandwich <button onclick="placeOrder('Sandwich')">Order</button></li>
+    <br>
+    <li>Ice Cream <button onclick="placeOrder('Ice Cream')">Order</button></li>
+  </ul>
+
+  <p id="message"></p>
+
+  <script>
+    function placeOrder(foodName) {
+      const userConfirmed = confirm(`Do you want to place the order for ${foodName}?`);
+
+      if (userConfirmed) {
+        document.getElementById("message").textContent = foodName + " order placed!";
+      } else {
+        document.getElementById("message").textContent = foodName + " order cancelled.";
+      }
+    }
+  </script>
+</body>
+</html>

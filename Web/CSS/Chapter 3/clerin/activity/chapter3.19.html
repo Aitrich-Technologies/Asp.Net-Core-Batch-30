@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Simple Sliding Carousel</title>
+<style>
+  :root{
+    --w: 900px;     /* carousel width */
+    --h: 420px;     /* carousel height */
+    --gap: 12px;
+    --accent: #4f46e5;
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    background: linear-gradient(180deg,#0f172a,#071029);
+    color:#fff;
+    padding:40px;
+  }
+
+  .carousel {
+    width:var(--w);
+    max-width:96vw;
+    height:var(--h);
+    position:relative;
+    overflow:hidden;
+    border-radius:12px;
+    box-shadow: 0 8px 30px rgba(2,6,23,0.7);
+    background:#000;
+  }
+
+  /* The track contains slides in a row */
+  .slides {
+    display:flex;
+    height:100%;
+    transition: transform 600ms ease; /* sliding animation */
+    will-change: transform;
+  }
+
+  .slide {
+    min-width:100%;
+    height:100%;
+    flex-shrink:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .slide img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+  }
+
+  /* caption (optional) */
+  .caption {
+    position:absolute;
+    left:var(--gap);
+    bottom:var(--gap);
+    background: linear-gradient(90deg, rgba(0,0,0,0.6), rgba(0,0,0,0.25));
+    padding:10px 14px;
+    border-radius:8px;
+    font-weight:600;
+    backdrop-filter: blur(4px);
+  }
+
+  /* nav buttons */
+  .nav {
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    display:flex;
+    gap:10px;
+    z-index:5;
+  }
+  .nav button{
+    background:rgba(15,23,42,0.6);
+    border:1px solid rgba(255,255,255,0.08);
+    color:#fff;
+    padding:10px;
+    border-radius:8px;
+    cursor:pointer;
+    width:44px;
+    height:44px;
+    display:grid;
+    place-items:center;
+    transition: transform 150ms ease, background 150ms;
+  }
+  .nav button:hover{ transform:translateY(-3px); background:rgba(79,70,229,0.9) }
+  .nav .prev{ left:12px }
+  .nav .next{ right:12px }
+
+  /* place prev on left, next on right */
+  .nav.prev-side{ left:12px; position:absolute; }
+  .nav.next-side{ right:12px; position:absolute; }
+
+  /* dots */
+  .dots {
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    bottom:12px;
+    display:flex;
+    gap:8px;
+    z-index:6;
+  }
+  .dot {
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background:rgba(255,255,255,0.18);
+    border:1px solid rgba(255,255,255,0.06);
+    cursor:pointer;
+  }
+  .dot.active{
+    background:var(--accent);
+    box-shadow: 0 4px 14px rgba(79,70,229,0.32);
+    transform:scale(1.2);
+  }
+
+  /* pause hint */
+  .pause-hint {
+    position:absolute;
+    top:12px;
+    right:12px;
+    background:rgba(0,0,0,0.4);
+    padding:6px 10px;
+    border-radius:8px;
+    font-size:13px;
+    color:#ddd;
+    z-index:6;
+  }
+
+  /* accessibility focus */
+  button:focus, .dot:focus { outline:2px solid rgba(79,70,229,0.6); outline-offset:2px; }
+
+  /* small screens */
+  @media (max-width:520px){
+    :root{ --h: 260px; }
+    .caption{ font-size:13px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="carousel" id="carousel" aria-roledescription="carousel" aria-label="Image slider">
+  <div class="slides" id="slides">
+    <div class="slide" data-caption="Aurora over mountains">
+      <img src="https://picsum.photos/id/1018/1200/600" alt="Aurora over mountains">
+      <div class="caption">Aurora over mountains</div>
+    </div>
+    <div class="slide" data-caption="Coastline cliffs">
+      <img src="https://picsum.photos/id/1015/1200/600" alt="Coastline cliffs">
+      <div class="caption">Coastline cliffs</div>
+    </div>
+    <div class="slide" data-caption="Forest path">
+      <img src="https://picsum.photos/id/1011/1200/600" alt="Forest path">
+      <div class="caption">Forest path</div>
+    </div>
+    <div class="slide" data-caption="City skyline">
+      <img src="https://picsum.photos/id/1016/1200/600" alt="City skyline">
+      <div class="caption">City skyline</div>
+    </div>
+  </div>
+
+  <!-- navigation -->
+  <div class="nav prev-side" aria-hidden="false">
+    <button id="prevBtn" aria-label="Previous slide">‹</button>
+  </div>
+  <div class="nav next-side" aria-hidden="false">
+    <button id="nextBtn" aria-label="Next slide">›</button>
+  </div>
+
+  <div class="dots" id="dots" role="tablist"></div>
+
+  <div class="pause-hint">Hover to pause</div>
+</div>
+
+<script>
+  (function(){
+    const carousel = document.getElementById('carousel');
+    const slidesEl = document.getElementById('slides');
+    const slides = Array.from(slidesEl.children);
+    const dotsEl = document.getElementById('dots');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+
+    let index = 0;                      // current slide index
+    const total = slides.length;
+    const intervalTime = 3500;         // autoplay interval (ms)
+    let timer = null;
+    let isAnimating = false;
+
+    // build dots
+    slides.forEach((s, i) => {
+      const d = document.createElement('button');
+      d.className = 'dot';
+      d.setAttribute('aria-label', 'Show slide ' + (i+1));
+      d.setAttribute('role','tab');
+      d.addEventListener('click', ()=> goTo(i));
+      dotsEl.appendChild(d);
+    });
+
+    const dots = Array.from(dotsEl.children);
+
+    function updateUI(){
+      // move track - sliding animation: slide in from right when going forward
+      slidesEl.style.transform = `translateX(${-index * 100}%)`;
+
+      // update dots
+      dots.forEach((d, i) => d.classList.toggle('active', i === index));
+    }
+
+    function goTo(i){
+      if(isAnimating) return;
+      index = (i + total) % total;
+      updateUI();
+      resetTimer();
+    }
+
+    function next(){
+      if(isAnimating) return;
+      index = (index + 1) % total;
+      updateUI();
+    }
+    function prev(){
+      if(isAnimating) return;
+      index = (index - 1 + total) % total;
+      updateUI();
+    }
+
+    // autoplay
+    function startTimer(){
+      stopTimer();
+      timer = setInterval(next, intervalTime);
+    }
+    function stopTimer(){
+      if(timer) { clearInterval(timer); timer = null; }
+    }
+    function resetTimer(){ startTimer(); }
+
+    // Pause on hover
+    carousel.addEventListener('mouseenter', stopTimer);
+    carousel.addEventListener('focusin', stopTimer); // when interacted via keyboard
+    carousel.addEventListener('mouseleave', startTimer);
+    carousel.addEventListener('focusout', startTimer);
+
+    // wire buttons
+    nextBtn.addEventListener('click', ()=> { next(); resetTimer(); });
+    prevBtn.addEventListener('click', ()=> { prev(); resetTimer(); });
+
+    // keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if(e.key === 'ArrowRight') { next(); resetTimer(); }
+      if(e.key === 'ArrowLeft')  { prev(); resetTimer(); }
+    });
+
+    // init
+    updateUI();
+    startTimer();
+
+    // Optional: prevent rapid clicks while transitioning
+    slidesEl.addEventListener('transitionstart', ()=> isAnimating = true);
+    slidesEl.addEventListener('transitionend',   ()=> isAnimating = false);
+
+    // Make carousel swipeable on touch
+    let startX = 0;
+    let dx = 0;
+    let touching = false;
+    slidesEl.addEventListener('touchstart', (e) => {
+      stopTimer();
+      touching = true;
+      startX = e.touches[0].clientX;
+      slidesEl.style.transition = 'none';
+    }, {passive:true});
+
+    slidesEl.addEventListener('touchmove', (e) => {
+      if(!touching) return;
+      dx = e.touches[0].clientX - startX;
+      slidesEl.style.transform = `translateX(${ -index * 100 + (dx / carousel.clientWidth) * 100 }%)`;
+    }, {passive:true});
+
+    slidesEl.addEventListener('touchend', (e) => {
+      touching = false;
+      slidesEl.style.transition = 'transform 600ms ease';
+      if(Math.abs(dx) > carousel.clientWidth * 0.18){
+        if(dx < 0) next(); else prev();
+      } else {
+        updateUI();
+      }
+      dx = 0;
+      startTimer();
+    }, {passive:true});
+
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pulse Effect</title>
+<style>
+  body {
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    background: #f7f7f8;
+  }
+
+  .pulse {
+    width: 120px;
+    height: 120px;
+    background: #c81ace;
+    border-radius: 50%;  /* makes it circular */
+    animation: pulseAnim 1.5s ease-in-out infinite;
+  }
+
+  @keyframes pulseAnim {
+    0%, 100% {
+      transform: scale(1);   /* normal size */
+    }
+    50% {
+      transform: scale(1.2); /* grow bigger */
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="pulse"></div>
+</body>
+</html>
