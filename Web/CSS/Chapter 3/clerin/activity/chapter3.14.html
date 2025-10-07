@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Sliding Text</title>
+<style>
+  body {
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    font-family: system-ui, sans-serif;
+    background: #f7f7f8;
+  }
+
+  .slide-in {
+    font-size: 2rem;
+    font-weight: 700;
+    opacity: 0;
+    transform: translateX(-40px);
+    animation: slideInLeft 700ms ease-out forwards;
+    will-change: transform, opacity;
+  }
+
+  @keyframes slideInLeft {
+    0%   { opacity: 0; transform: translateX(-40px); }
+    100% { opacity: 1; transform: translateX(0); }
+  }
+
+  /* Accessibility: respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .slide-in {
+      animation: none;
+      opacity: 1;
+      transform: none;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="slide-in">Welcome to my youtube channel</div>
+</body>
+</html>
+
