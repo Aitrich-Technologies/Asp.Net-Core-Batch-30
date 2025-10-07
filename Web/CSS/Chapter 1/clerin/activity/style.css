@@ -1,0 +1,12 @@
+#heading{
+    text-align:center ;
+    color:brown;
+    border:1px solid white;
+    font-size: xx-large;
+    width:250px;
+    height:70px;
+    right:520px;
+    top:40px;
+    position: absolute;
+    font-weight: bold;
+}

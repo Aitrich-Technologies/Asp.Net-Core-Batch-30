@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Admin Login</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+        }
+
+        .main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            width: 400px;
+        }
+
+        .login h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-family: Mulish, sans-serif;
+        }
+
+        .login input[type="email"],
+        .login input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        .login input[type="submit"] {
+            width: 100%;
+            padding: 12px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .login input[type="submit"]:hover {
+            background: #0056b3;
+        }
+
+        .error {
+            color: red;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .forgot {
+            float: right;
+            font-size: 14px;
+            color: #007bff;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="login">
+            <h2>Sign in to Admin Dashboard</h2>
+            <form onsubmit="return validateform()">
+                <label>Email</label>
+                <input type="email" placeholder="Enter your email" id="email">
+                <p id="errorEmail" class="error"></p>
+
+                <label>Password</label>
+                <input type="password" placeholder="Enter your password" id="password">
+                <p id="errorPass" class="error"></p>
+
+                <span class="forgot">Forgot password?</span>
+                <br><br>
+                <input type="submit" value="Sign In" id="submit" class="button">
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function validateform() {
+            const email = document.getElementById("email").value.trim();
+            const pass = document.getElementById("password").value.trim();
+            const erroremail = document.getElementById("errorEmail");
+            const errorpass = document.getElementById("errorPass");
+
+            erroremail.innerText = "";
+            errorpass.innerText = "";
+
+            const emailRegx = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            // Email validation
+            if (email === "") {
+                erroremail.innerText = "**** Email cannot be empty ****";
+                return false;
+            } else if (!emailRegx.test(email)) {
+                erroremail.innerText = "**** Not a valid email address ****";
+                return false;
+            }
+
+            // Password validation
+            if (pass === "") {
+                errorpass.innerText = "**** Password cannot be empty ****";
+                return false;
+            } else if (pass.length < 6) {
+                errorpass.innerText = "**** Password must be at least 6 characters ****";
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</body>
+
+</html>

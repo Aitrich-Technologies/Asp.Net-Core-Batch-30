@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fade In & Out</title>
+<style>
+  body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: #f7f7f8;
+    font-family: system-ui, sans-serif;
+  }
+
+  .fade-box {
+    width: 150px;
+    height: 150px;
+    background: #d36a6a;
+    border-radius: 12px;
+    animation: fadeInOut 3s ease-in-out infinite;
+  }
+
+  @keyframes fadeInOut {
+    0%, 100% { opacity: 0; }  /* invisible */
+    50%      { opacity: 1; }  /* fully visible */
+  }
+</style>
+</head>
+<body>
+  <div class="fade-box"></div>
+</body>
+</html>

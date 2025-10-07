@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Navigation Menu</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    /* Navbar container */
+    nav {
+      background: #1e293b;
+      padding: 14px 50px;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.45);
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      gap: 40px;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      position: relative;
+      height: 28px; /* lock height for sliding effect */
+      overflow: hidden;
+      cursor: pointer;
+    }
+
+    a {
+      text-decoration: none;
+      color: #e2e8f0;
+      font-size: 18px;
+      font-weight: 600;
+      display: inline-block;
+      transition: transform 0.3s ease;
+      padding: 4px 0;
+    }
+
+    /* Duplicate text in ::after for slide effect */
+    li::after {
+      content: attr(data-text);
+      position: absolute;
+      left: 0;
+      top: 100%;
+      width: 100%;
+      color: #38bdf8; /* accent color */
+      font-size: 18px;
+      font-weight: 600;
+      padding: 4px 0;
+      transition: top 0.3s ease;
+    }
+
+    /* Hover animation */
+    li:hover a {
+      transform: translateY(-120%);
+    }
+
+    li:hover::after {
+      top: 0;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li data-text="Home"><a href="#">Home</a></li>
+      <li data-text="About"><a href="#">About</a></li>
+      <li data-text="Services"><a href="#">Services</a></li>
+      <li data-text="Portfolio"><a href="#">Portfolio</a></li>
+      <li data-text="Contact"><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
