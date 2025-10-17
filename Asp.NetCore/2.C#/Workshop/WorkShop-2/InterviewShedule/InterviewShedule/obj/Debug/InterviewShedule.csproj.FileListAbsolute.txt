@@ -1,0 +1,14 @@
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb

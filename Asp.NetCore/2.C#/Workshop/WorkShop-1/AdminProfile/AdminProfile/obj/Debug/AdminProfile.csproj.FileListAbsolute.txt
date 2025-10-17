@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
+=======
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
+>>>>>>> ccf0b50bda47b0d8d8899eb5dd2cefddc525ce98
