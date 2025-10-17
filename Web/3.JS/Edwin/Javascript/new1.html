@@ -1,0 +1,263 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Add CSS Class</title>
+  <style>
+    .highlight {
+      background-color: lightgreen;
+      font-weight: bold;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="myHeading">Hello, World!</h2>
+  <button onclick="addHighlight()">Add Highlight Class</button>
+
+  <script>
+    function addHighlight() {
+      let heading = document.getElementById("myHeading");
+      
+      heading.classList.add("highlight");
+    }
+  </script>
+</body>
+</html> -->
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Remove CSS Class</title>
+  <style>
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+      padding: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="myHeading" class="highlight">Hello, World!</h2>
+  <button onclick="removeHighlight()">Remove Highlight Class</button>
+
+  <script>
+    function removeHighlight() {
+      let heading = document.getElementById("myHeading");
+     
+      heading.classList.remove("highlight");
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Check CSS Class</title>
+  <style>
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2 id="myHeading" class="highlight">Hello, World!</h2>
+  <button onclick="checkClass()">Check Highlight Class</button>
+
+  <script>
+    function checkClass() {
+      let heading = document.getElementById("myHeading");
+      
+      
+      if (heading.classList.contains("highlight")) {
+        console.log("The element HAS the 'highlight' class.");
+      } else {
+        console.log("The element does NOT have the 'highlight' class.");
+      }
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Change Placeholder</title>
+</head>
+<body>
+  <h2>Input Example</h2>
+  <input type="text" id="myInput" placeholder="Enter your name">
+
+  <button id="btn">Click to change placeholder</button>
+
+  <script>
+
+    const btn=document.getElementById("btn");
+    const myInput=document.getElementById("myInput");
+
+    btn.addEventListener("click",function(){
+        myInput.setAttribute('placeholder','this is the updated placeholder');
+    });
+   
+    
+  </script>
+</body>
+</html> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Count Child Elements</title>
+</head>
+<body>
+  <h2>Child Elements Counter</h2>
+
+  <div id="myDiv">
+    <p>Hello </p>
+    <p>GoodMorning</p>
+    <span>Hi</span>
+  </div>
+
+  <button onclick="countChildren()">Count Child Elements</button>
+  <p id="result"></p>
+
+  <script>
+    function countChildren() {
+      let div = document.getElementById("myDiv");
+      
+    
+      let count = div.children.length;
+
+    
+      document.getElementById("result").innerText = "Number of child elements: " + count;
+    }
+  </script>
+</body>
+</html>
+ -->
+
+
+
+ <!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Remove All Child Elements</title>
+</head>
+<body>
+  <h2>Remove All Children Example</h2>
+
+  <div id="myDiv">
+    <p>Hello</p>
+    <p>GoodMorning </p>
+    <span>Hi</span>
+  </div>
+
+  <button onclick="removeAllChildren()">Remove All Child Elements</button>
+
+  <script>
+    function removeAllChildren() {
+      let div = document.getElementById("myDiv");
+      
+      div.innerHTML = "";
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Wrap Word in Span</title>
+  <style>
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <p id="myPara">Click the button to highlight the word "highlight".</p>
+  <button onclick="wrapWord()">Wrap Word</button>
+
+  <script>
+    function wrapWord() {
+      let para = document.getElementById("myPara");
+      
+      
+      let wordToWrap = "highlight";
+
+      para.innerHTML = para.innerHTML.replace(
+        wordToWrap,
+        `<span class="highlight">${wordToWrap}</span>`
+      );
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>First and Last Child</title>
+</head>
+<body>
+  <h2>Div Child Example</h2>
+
+  <div id="myDiv">
+    <p>Helloo</p>
+    <p>Hiii</p>
+    <span>Welcome</span>
+  </div>
+
+  <button onclick="printFirstLastChild()">Print First & Last Child</button>
+
+  <script>
+    function printFirstLastChild() {
+      let div = document.getElementById("myDiv");
+
+      
+      let firstChild = div.firstElementChild;
+      let lastChild = div.lastElementChild;
+
+      console.log("First child:", firstChild);
+      console.log("First child text:", firstChild.innerText);
+
+      console.log("Last child:", lastChild);
+      console.log("Last child text:", lastChild.innerText);
+    }
+  </script>
+</body>
+</html> -->
+
+
+
