@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1 id="hi" >Good Moring</h1>
+    <h1 id="hello">Good Moring</h1>
+    <h1 id="h2">GoodMorning</h1>
+    <h1 class="h2">GoodMorning</h1>
+    <h1 class="h2">GoodMorning</h1>
+    <h1 class="h1">hi</h1>
+
+
+   <script>
+   
+        
+        document.getElementById("hi").innerHTML="Hello";
+        document.getElementById("hello").innerText="Hi";
+        document.getElementById("h2").textContent="hi";
+
+
+        document.getElementsByClassName("h2")[0].innerHTML="Hello";
+        document.getElementsByClassName("h2")[1].innerHTML="hi";
+
+        document.getElementsByClassName("h1")[0].innerHTML="hlo";
+
+        document.getElementsByTagName("h1")[5].innerHTML="Edwin";
+    
+         </script>
+
+
+<script>
+    const p=document.createElement("p");
+    p.textContent="Hi";
+    document.body.appendChild(p);
+
+
+
+    
+
+
+
+
+</script>
+
+<input type="button" class="btn" value="click">
+<script>
+const btn=  document.getElementsByClassName("btn")[0];
+    btn.setAttribute("type","text");
+    btn.setAttribute("value","Enter your name");
+  
+</script>
+
+
+
+
+<button onclick="document.body.style.backgroundColor='lightpink'"></button>
+
+
+
+
+
+
+
+
+</body>
+</html>
