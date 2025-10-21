@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Categories & Skills Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    .sidebar {
+      width: 250px;
+      position: fixed;
+      height: 100vh;
+      background: #0d6efd;
+      color: #fff;
+      padding: 20px;
+    }
+    .sidebar a {
+      color: #fff;
+      margin: 5px 0;
+      display: block;
+      text-decoration: none;
+    }
+    .sidebar a.active {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 5px;
+      padding-left: 10px;
+    }
+    @media (max-width: 991px) {
+      .sidebar { display: none; }
+      #content { margin-left: 0; }
+    }
+    @media (min-width: 992px) {
+      #content { margin-left: 250px; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
+    <div class="container-fluid">
+      <button class="btn btn-primary d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileSidebar">
+        <i class="bi bi-list"></i>
+      </button>
+      <input class="form-control w-50 mx-auto" placeholder="Search users, jobs, companies...">
+      <div class="d-flex align-items-center gap-3">
+        <button class="btn position-relative">
+          <i class="bi bi-bell fs-5"></i>
+          <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">5</span>
+        </button>
+        <span class="fw-semibold">Admin User</span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Sidebar for desktop -->
+  <div class="sidebar d-none d-lg-block">
+    <h5 class="mb-4">Admin Dashboard</h5>
+    <a href="#">Dashboard</a>
+    <a href="#">User Management</a>
+    <a href="#">Job Management</a>
+    <a href="#">Company Management</a>
+    <a href="#">Applications</a>
+    <a href="#" class="active">Categories & Skills</a>
+    <a href="#">Announcements</a>
+  </div>
+
+  <!-- Offcanvas for mobile -->
+  <div class="offcanvas offcanvas-start bg-primary text-white" id="mobileSidebar">
+    <div class="offcanvas-header border-bottom">
+      <h5>Admin Dashboard</h5>
+      <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+    </div>
+    <div class="offcanvas-body">
+      <a href="#" class="nav-link text-white">Dashboard</a>
+      <a href="#" class="nav-link text-white">User Management</a>
+      <a href="#" class="nav-link text-white">Job Management</a>
+      <a href="#" class="nav-link text-white">Company Management</a>
+      <a href="#" class="nav-link text-white">Applications</a>
+      <a href="#" class="nav-link text-white active">Categories & Skills</a>
+      <a href="#" class="nav-link text-white">Announcements</a>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div id="content" class="p-4">
+    <h3 class="fw-bold mb-2">Categories & Skills Management</h3>
+    <p>Organize and manage job categories and required skills</p>
+
+    <div class="row g-3">
+      <!-- Categories Section -->
+      <div class="col-lg-5">
+        <div class="card shadow-sm">
+          <div class="card-header bg-white d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">Categories</h5>
+            <button class="btn btn-primary btn-sm">+ Add Category</button>
+          </div>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div>
+                <strong>Programming Languages</strong><br><small>All programming languages</small>
+              </div>
+              <div>
+                <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+              </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div>
+                <strong>Web Development</strong><br><small>Frontend and backend technologies</small>
+              </div>
+              <div>
+                <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+              </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div>
+            <strong>Design</strong><br><small>UI/UX and Graphic Design</small>
+            </div>
+            <div>
+            <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+            <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+            </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div>
+                <strong>Data Science</strong><br><small>Analytics and Machine Learning</small>
+              </div>
+              <div>
+                <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+              </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div>
+            <strong>DevOps</strong><br><small>Infrastructure and deployment</small>
+            </div>
+            <div>
+            <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+            <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+            </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Skills Section -->
+      <div class="col-lg-7">
+        <div class="card shadow-sm">
+          <div class="card-header bg-white d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">Skills</h5>
+            <button class="btn btn-primary btn-sm">+ Add Skill</button>
+          </div>
+          <div class="table-responsive">
+            <table class="table align-middle mb-0">
+              <thead>
+                <tr>
+                  <th>Skill Name</th>
+                  <th>Category</th>
+                  <th>Level</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>React</td>
+                  <td><span class="badge bg-secondary">Web Development</span></td>
+                  <td><span class="badge bg-success">Expert</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Python</td>
+                  <td><span class="badge bg-secondary">Programming Languages</span></td>
+                  <td><span class="badge bg-success">Expert</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Figma</td>
+                  <td><span class="badge bg-secondary">Design</span></td>
+                  <td><span class="badge bg-warning">Intermediate</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn -sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Machine Learning</td>
+                  <td><span class="badge bg-secondary">Data Science</span></td>
+                  <td><span class="badge bg-primary">Advanced</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Docker</td>
+                  <td><span class="badge bg-secondary">DevOps</span></td>
+                  <td><span class="badge bg-warning">Intermediate</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Node.js</td>
+                  <td><span class="badge bg-secondary">Web Development</span></td>
+                  <td><span class="badge bg-success">Expert</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>TypeScript</td>
+                  <td><span class="badge bg-secondary">Programming Languages</span></td>
+                  <td><span class="badge bg-primary">Advanced</span></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Adobe XD</td>
+                  <td><scan class="badge bg-secondary">Design</scan></td>
+                  <td><scan class="badge bg-warning">Intermediate</scan></td>
+                  <td>
+                    <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                    <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

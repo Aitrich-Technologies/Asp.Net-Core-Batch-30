@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Portal Dashboard</title>
+
+  <!-- ✅ Bootstrap 5.3 CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <style>
+     
+    * {
+  box-sizing: border-box;
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.bg-image {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* ✅ keeps background behind everything */
+}
+
+    .sidebar {
+      background: linear-gradient(180deg, #1b0066, #3a00a3);
+      min-height: 100vh;
+      border-radius: 0 20px 20px 0;
+      padding: 1.5rem;
+    }
+
+    .logo {
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      background: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      color: black;
+      margin: 0 auto;
+    }
+
+    .filter-btn, .apply-btn {
+      width: 100%;
+      border: none;
+      border-radius: 10px;
+      padding: 0.6rem 1rem;
+      color: white;
+      font-weight: 500;
+      margin-bottom: 0.6rem;
+      transition: all 0.3s ease;
+    }
+
+    .filter-btn {
+ background: linear-gradient(
+        4.83deg,
+        rgba(179, 0, 91, 0.5185) 5.88%,
+        rgba(255, 1, 230, 0.2684) 50.13%,
+        rgba(153, 0, 241, 0.3721) 74.73%
+      );
+      color: white;
+    }
+
+    .apply-btn {
+ background: linear-gradient(
+        4.83deg,
+        rgba(179, 0, 91, 0.5185) 5.88%,
+        rgba(255, 1, 230, 0.2684) 50.13%,
+        rgba(153, 0, 241, 0.3721) 74.73%
+      );
+      color: white;
+    }
+
+    .applicant-card {
+height: min(75%, 1400px);
+  background: linear-gradient(rgb(255,255,255,0.15), rgb(255,255,255,0));
+  border-radius: 2rem;
+  box-shadow: inset 1px 1px 30px white;
+  backdrop-filter: blur(10px);
+    }
+
+    .avatar {
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+      overflow: hidden;
+      background: white;
+    }
+
+    .avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .post-btn {
+        background: linear-gradient(rgb(255,255,255,0.15), rgb(255,255,255,0));
+  border-radius: 2rem;
+  box-shadow: inset 1px 1px 30px white;
+  backdrop-filter: blur(10px);
+      border: none;
+      border-radius: 25px;
+      color: white;
+      padding: 0.7rem 1.5rem;
+      font-weight: 400;
+      
+    }
+
+    ::placeholder {
+  color: white !important;
+  opacity: 0.7; /* optional: makes it a bit lighter */
+}
+
+
+  </style>
+</head>
+<body>
+      <img src="img/a7301b247bac32ee2d19f64be0129b20fbe010d0.png" class="bg-image">
+  <div class="container-fluid">
+    <div class="row g-0">
+      <!-- Sidebar -->
+      <aside class="col-12 col-md-3 col-lg-2 sidebar d-flex flex-column align-items-center text-center">
+        <img src="img/mdi-light_bell.png" width="30rem" style=" margin-left: 10rem;">
+        <div class="logo mb-3"><img src="img/8b32013408e8a8e09c7e6559e3aa7abf3d3cfe7d.png" width="50rem" height="50rem"></div>
+        
+        
+        <h6 style="font-size: 1rem; color: white;"><img src="img/solar_user-outline.png" alt="" style="  width: 2rem; height: 2rem; ">USER NAME</h6>
+        <h6 style="font-size: 1rem; color: white; margin-left: 2.3rem;"><img src="img/vaadin_office.png" alt="" style="  width: 2rem; height: 2rem;">COMPANY NAME</h6>
+        <hr class="border-light w-100">
+        <h6 class="text-white">FILTER</h6>
+        <button class="filter-btn">SKILL</button>
+        <button class="filter-btn">EXPERIENCE</button>
+        <button class="filter-btn">LOCATION</button>
+        <button class="filter-btn">COMPANY</button>
+        <button class="filter-btn">REMOTE</button>
+        <button class="filter-btn">SALARY RANGE</button>
+        <button class="apply-btn mt-2">APPLY</button>
+      </aside>
+
+      <!-- Main content -->
+      <main class="col-12 col-md-9 col-lg-10 p-4">
+        <!-- Top bar -->
+<div class="text-end mb-4">
+  <nav class="d-inline-flex flex-wrap gap-3 mb-3">
+    <a href="#" class="text-white text-decoration-none fw-semibold">HOME</a>
+    <a href="#" class="text-white text-decoration-none fw-semibold">ABOUT US</a>
+    <a href="#" class="text-white text-decoration-none fw-semibold">CONTACT US</a>
+    <a href="#" class="text-white text-decoration-none fw-semibold">HELP & SUPPORT</a>
+    
+  </nav>
+
+  <div class="d-flex justify-content-end align-items-center gap-2">
+<div class="position-relative" style="max-width: 250px;">
+  <i class="bi bi-search text-white position-absolute" 
+     style="top: 50%; left: 12px; transform: translateY(-50%); pointer-events: none; z-index: 1;"></i>
+
+  <input 
+    type="text" 
+    class="form-control text-white ps-5" 
+    style="
+      background: linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0));
+      border: none;
+      border-radius: 2rem;
+      box-shadow: inset 1px 1px 30px white;
+      backdrop-filter: blur(10px);
+      color: white;
+    "
+    placeholder="Search..."
+  >
+</div>
+
+
+    <button class="btn btn-outline-light rounded-pill" style="margin-top: 6rem; margin-left: -6.3rem; background: linear-gradient(rgb(255,255,255,0.15), rgb(255,255,255,0)); border-radius: 2rem; box-shadow: inset 1px 1px 30px white; backdrop-filter: blur(10px);">SORT BY</button>
+  </div>
+</div>
+
+
+        <button class="post-btn mb-4">POST A JOB</button>
+
+        <!-- Applicant list -->
+        <div class="vstack gap-3">
+          <div class="applicant-card p-3 d-flex flex-wrap justify-content-between align-items-center">
+            <div class="d-flex align-items-center gap-3">
+              <div class="avatar"><img src="https://i.pravatar.cc/100?img=1" alt=""></div>
+              <div>
+                <h5 class="mb-1 text-white">APPLICANT 1 NAME</h5>
+                <p class="mb-0 small opacity-75 text-white">DESCRIPTION</p>
+              </div>
+            </div>
+            <div class="d-flex gap-2 mt-2 mt-md-0">
+              <button class="btn btn-sm btn-light rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">VIEW C.V.</button>
+              <button class="btn btn-sm btn-primary rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">CHAT</button>
+            </div>
+          </div>
+
+          <div class="applicant-card p-3 d-flex flex-wrap justify-content-between align-items-center">
+            <div class="d-flex align-items-center gap-3">
+              <div class="avatar"><img src="https://i.pravatar.cc/100?img=2" alt=""></div>
+              <div>
+                <h5 class="mb-1 text-white">APPLICANT 2 NAME</h5>
+                <p class="mb-0 small opacity-75 text-white">DESCRIPTION</p>
+              </div>
+            </div>
+            <div class="d-flex gap-2 mt-2 mt-md-0">
+              <button class="btn btn-sm btn-light rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">VIEW C.V.</button>
+              <button class="btn btn-sm btn-primary rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">CHAT</button>
+            </div>
+          </div>
+
+          <div class="applicant-card p-3 d-flex flex-wrap justify-content-between align-items-center">
+            <div class="d-flex align-items-center gap-3">
+              <div class="avatar"><img src="https://i.pravatar.cc/100?img=3" alt=""></div>
+              <div>
+                <h5 class="mb-1 text-white">APPLICANT 3 NAME</h5>
+                <p class="mb-0 small opacity-75 text-white">DESCRIPTION</p>
+              </div>
+            </div>
+            <div class="d-flex gap-2 mt-2 mt-md-0">
+              <button class="btn btn-sm btn-light rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">VIEW C.V.</button>
+              <button class="btn btn-sm btn-primary rounded-3" style=" background: linear-gradient(4.83deg,rgba(179, 0, 91, 0.5185) 5.88%,rgba(255, 1, 230, 0.2684) 50.13%,rgba(153, 0, 241, 0.3721) 74.73%);color: rgb(255, 255, 255); border-color: black;"><img src="img/pepicons-pencil_cv.png" width="20rem" height="20rem">CHAT</button>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</body>
+</html>

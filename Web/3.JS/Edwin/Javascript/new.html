@@ -1,0 +1,454 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="alert('Button Clicked!')">click me</button>
+</body>
+</html> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      <button onclick="document.body.style.backgroundColor='lightblue'">
+    Change Background
+  </button>
+</body>
+</html>
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      <button id="myButton">Click Me</button>
+     <script>
+   
+    let button = document.getElementById("myButton");
+
+   
+    button.addEventListener("click", function() {
+      alert("Button clicked using addEventListener!");
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Hide Button Example</title>
+</head>
+<body>
+ 
+  <button id="myButton">Click Me</button>
+
+  <script>
+   
+    let button = document.getElementById("myButton");
+
+   
+    button.addEventListener("click", function() {
+      button.style.display = "none"; 
+    });
+  </script>
+</body>
+</html> -->
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Paragraph Hover Example</title>
+</head>
+<body>
+  <p id="myHover">Hover over this paragraph to change its color.</p>
+
+  <script>
+    let hover = document.getElementById("myHover");
+
+    
+    hover.addEventListener("mouseover", function() {
+      hover.style.color = "red";
+    });
+
+  
+   
+    
+  </script>
+</body>
+</html>
+ -->
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Paragraph Hover Example</title>
+</head>
+<body>
+  <p id="myHover">Hover over this paragraph to change its color.</p>
+
+  <script>
+    let hover = document.getElementById("myHover");
+
+    
+    hover.addEventListener("mouseover", function() {
+      hover.style.color = "red";
+    });
+
+    hover.addEventListener("mouseout", function() {
+      hover.style.color = "black";
+    });
+
+   </script>
+</body>
+</html>
+
+
+
+ -->
+
+
+
+
+
+<!-- 
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Live Input Example</title>
+</head>
+<body>
+  <h3>Type something:</h3>
+  <input type="text" id="myInput" placeholder="Start typing...">
+  <p id="output"></p>
+
+  <script>
+    let inputBox = document.getElementById("myInput");
+    let output = document.getElementById("output");
+
+    
+    inputBox.addEventListener("input", function() {
+      output.textContent = inputBox.value;
+    });
+  </script>
+</body>
+</html> -->
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Live Input with Clear</title>
+</head>
+<body>
+  <h3>Type something:</h3>
+  <input type="text" id="myInput" placeholder="Start typing...">
+  <p id="output"></p>
+
+  <script>
+    let inputBox = document.getElementById("myInput");
+    let output = document.getElementById("output");
+
+    
+    inputBox.addEventListener("input", function() {
+      output.textContent = inputBox.value;
+    });
+
+    inputBox.addEventListener("dblclick", function() {
+      inputBox.value = "";
+      output.textContent = "";
+    });
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Change Heading Text</title>
+</head>
+<body>
+  <h1 id="myHeading">Original Heading</h1>
+  <button onclick="changeHeading()">Change Heading</button>
+
+  <script>
+    function changeHeading() {
+     
+      let heading = document.getElementById("myHeading");
+    
+      heading.innerText = "Heading Changed!";
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Change Heading Text & Color</title>
+</head>
+<body>
+  <h1 id="myHeading">Original Heading</h1>
+  <button onclick="changeHeading()">Change Heading</button>
+
+  <script>
+    function changeHeading() {
+      
+      let heading = document.getElementById("myHeading");
+      
+   
+      heading.innerText = "Heading Changed!";
+      
+      
+      heading.style.color = "blue";
+    }
+  </script>
+</body>
+</html>
+ -->
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Add List Item</title>
+</head>
+<body>
+  <h2>My List</h2>
+  <ul id="myList">
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+
+  <button onclick="addItem()">Add Item</button>
+
+  <script>
+    function addItem() {
+  
+      let list = document.getElementById("myList");
+      
+     
+      let newItem = document.createElement("li");
+      newItem.innerText = "New Item";
+      
+    
+      list.appendChild(newItem);    
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Add List Item with Prompt</title>
+</head>
+<body>
+  <h2>My List</h2>
+  <ul id="myList">
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+
+  <button onclick="addItem()">Add Item</button>
+
+  <script>
+    function addItem() {
+      
+      let itemName = prompt("Enter the name of the new item:");
+
+      if (itemName) {
+        let list = document.getElementById("myList");
+        let newItem = document.createElement("li");
+        newItem.innerText = itemName;
+        list.appendChild(newItem);
+      }
+    }
+  </script>
+</body>
+</html> -->
+
+
+ 
+<!-- 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Remove Paragraph</title>
+</head>
+<body>
+  <h2>Paragraph</h2>
+  <p id="myPara">This is a paragraph that will be removed when you click the button.</p>
+
+  <button onclick="removePara()">Remove Paragraph</button>
+
+  <script>
+    function removePara() {
+ 
+      let para = document.getElementById("myPara");
+
+     
+      para.remove();
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Change Paragraph Text</title>
+</head>
+<body>
+  <h2>Example Page</h2>
+  <p id="myPara">This is a paragraph that will be modified when you click the button.</p>
+
+  <button onclick="deletePara()">Change to Deleted</button>
+
+  <script>
+    function deletePara() {
+      
+      let para = document.getElementById("myPara");
+
+      para.innerText = "Deleted";
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Toggle Highlight</title>
+  <style>
+    
+    p {
+      font-size: 18px;
+    }
+
+    
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h2>Example Page</h2>
+  <p id="myPara">This is a paragraph that can be highlighted.</p>
+
+  <button onclick="toggleHighlight()">Toggle Highlight</button>
+
+  <script>
+    function toggleHighlight() {
+      let para = document.getElementById("myPara");
+
+      para.classList.toggle("highlight");
+    }
+  </script>
+</body>
+</html> -->
+
+
+
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <title>Toggle Highlight</title>
+  <style>
+    p {
+      font-size: 18px;
+    }
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h2>Example Page</h2>
+  <p id="myPara">This is a paragraph that can be highlighted.</p>
+
+  <button id="toggleBtn" onclick="toggleHighlight()">Highlight</button>
+
+  <script>
+    function toggleHighlight() {
+      let para = document.getElementById("myPara");
+      let btn = document.getElementById("toggleBtn");
+
+    
+      para.classList.toggle("highlight");
+
+     
+      if (para.classList.contains("highlight")) {
+        btn.innerText = "Remove Highlight";
+      } else {
+        btn.innerText = "Highlight";
+      }
+    }
+  </script>
+</body>
+</html>
+
+
+ -->

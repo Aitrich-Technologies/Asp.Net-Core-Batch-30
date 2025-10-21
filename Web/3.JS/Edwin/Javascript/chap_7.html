@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // function greetUser(name) {
+        //     console.log("Hello" + name)
+        // }
+        // let name = prompt("Enter name")
+
+        // greetUser(name);
+
+
+
+        // function printTable(num) {
+        //     for (let i = 1; i <= 10; i++) {
+
+        //         console.log(i + " * " + num + " = " + i * num);
+        //     }
+
+        // }
+        // let num = parseInt(prompt("Enter number"));
+        // printTable(num);
+
+
+
+
+        // function showWeather(city){
+        //     const conditions=["sunny","rainy","cloudy"];
+        //     const randonIndex=Math.floor(Math.random()*conditions.length);
+        //     const weather=conditions[randonIndex];
+
+        //     console.log("Todays weather " + city + "is :"+weather )
+
+        // }
+        // let city=prompt("Enter the city");
+        // showWeather(city);
+
+
+
+    //     function addNumbers(a,b){
+    //         return a+b;
+
+    //     }
+    //       const sum = addNumbers(5, 7);
+    // console.log("The sum is: " + result);
+
+
+
+
+
+    //  function findLargest(a, b, c) {
+    //   if (a >= b && a >= c) {
+    //     return a;
+    //   } else if (b >= a && b >= c) {
+    //     return b;
+    //   } else {
+    //     return c;
+    //   }
+    // }
+
+    // let num1 = parseInt(prompt("Enter the first number:"));
+    // let num2 = parseInt(prompt("Enter the second number:"));
+    // let num3 = parseInt(prompt("Enter the third number:"));
+
+    // let largest = findLargest(num1, num2, num3);
+    // console.log("The largest number is: " + largest);
+
+
+//  function calculateBill(price, quantity) {
+//       return price * quantity;
+//     }
+
+    
+//     let price = parseInt(prompt("Enter the price of the item:"));
+//     let quantity = parseInt(prompt("Enter the quantity:"));
+
+//     let totalBill = calculateBill(price, quantity);
+//     console.log("The total bill is: " + totalBill);
+
+
+
+//   let square = function(num) {
+//       return num * num;
+//     }
+
+//     let number = parseInt(prompt("Enter a number:"));
+
+
+//     let result = square(number);
+//     console.log("The square is: " + result);
+
+
+
+    //      function calculateDiscount(originalPrice, discountPercent) {
+    //   let discountAmount = (originalPrice * discountPercent) / 100;
+    //   return originalPrice - discountAmount;
+    // }
+
+    // let originalPrice = parseInt(prompt("Enter the original price:"));
+    // let discountPercent = parseInt(prompt("Enter the discount percentage:"));
+
+   
+    // let finalPrice = calculateDiscount(originalPrice, discountPercent);
+    // console.log("Final price after discount: " + finalPrice);
+
+
+
+    //   function isEligibleForVote(age) {
+    //   return age >= 18;
+    // }
+
+
+    // let age = parseInt(prompt("Enter your age:"));
+
+    // let eligible = isEligibleForVote(age);
+    // console.log("Eligible to vote? " + eligible);
+
+
+
+    //    function printEvenNumbers(n) {
+    //   for (let i = 1; i <= n; i++) {
+    //     if (i % 2 === 0) {
+    //       console.log(i);
+    //     }
+    //   }
+    // }
+
+    
+    // let n = parseInt(prompt("Enter a number:"));
+
+    // printEvenNumbers(n);
+
+
+
+//      function listPetNames(pets) {
+//   for (let i = 0; i < pets.length; i++) {
+//     console.log("Pet Name: " + pets[i].name + ", Type: " + pets[i].type);
+//   }
+// }
+
+// let numPets = parseInt(prompt("How many pets do you have?"));
+// let pets = [];
+
+// for (let i = 0; i < numPets; i++) {
+//   let petName = prompt("Enter the name of pet " + (i + 1) + ":");
+//   let petType = prompt("Enter the type of " + petName + " (e.g., Dog, Cat, Fish):");
+//   pets.push({ name: petName, type: petType });
+// }
+
+// listPetNames(pets);
+
+
+
+// function countWords(sentence) {
+//   console.log(sentence.split(" ").length);
+// }
+
+// countWords("I  love learning JavaScript");
+
+
+
+// function getfullName(person){
+//   return person.firstName + " " + person.lastName;
+// }
+// let first=prompt("Enter your first name:");
+// let last=prompt("Enter your Last name:");
+
+// let user={firstName:first,lastName:last};
+// console.log("FullName: "+ getfullName(user));
+
+
+// function findAverage(numbers) {
+//   let sum = 0;
+
+//   for (let i = 0; i < numbers.length; i++) {
+//     sum += numbers[i]; 
+//   }
+
+//   return sum / numbers.length;  
+// }
+
+
+// let arr = [10, 20, 30, 40, 50];
+// console.log("Average:", findAverage(arr));
+
+
+
+// let multiplyArray = function(arr) {
+//   let result = [];
+//   for (let i = 0; i < arr.length; i++) {
+//     result.push(arr[i] * 2);
+//   }
+//   return result;
+// };
+
+// let n = parseInt(prompt("Enter how many numbers:"));
+// let numbers = [];
+
+// for (let i = 0; i < n; i++) {
+//   numbers.push(parseInt(prompt("Enter number " + (i + 1) + ":")));
+// }
+
+// let doubled = multiplyArray(numbers);
+
+// console.log("Original Array:", numbers);
+// console.log("Doubled Array:", doubled);
+
+
+
+
+
+
+
+// let filterAdults = function(ages) {
+//   let result = [];
+//   for (let i = 0; i < ages.length; i++) {
+//     if (ages[i] >= 18) {
+//       result.push(ages[i]);
+//     }
+//   }
+//   return result;
+// };
+
+// let n = parseInt(prompt("Enter how many ages:"));
+// let ages = [];
+
+// for (let i = 0; i < n; i++) {
+//   ages.push(parseInt(prompt("Enter age " + (i + 1) + ":")));
+// }
+
+// let adults = filterAdults(ages);
+
+// console.log("All ages:", ages);
+// console.log("Adults (18+):", adults);
+
+
+
+
+
+//  
+
+
+
+// function shoppingCartTotal(cartItems) {
+//                 let totalAmount = 0;
+//                 for (let i = 0; i < cartItems.length; i++) {
+//                     totalAmount += cartItems[i].price * cartItems[i].quantity;
+//                 }
+//                 return "The total amount for your Cart Items is Rs " + totalAmount;
+
+//             }
+//             let cartItems = [{ name: "Buiscuits", price: 25, quantity: 2 }, { name: "T-shirt", price: 290, quantity: 2 }, { name: "Books", price: 135, quantity: 4 }];
+
+//             console.log(shoppingCartTotal(cartItems));
+
+
+
+
+
+
+
+
+function findMostExpensiveProduct(products) {
+                let expensiveProductPrice = products[0].price;
+                let expensiveProduct = products[0].name;
+
+                for (let i = 0; i < products.length; i++) {
+                    if (products[i].price > expensiveProductPrice) {
+                        expensiveProductPrice = products[i].price;
+                        expensiveProduct = products[i].name;
+                    }
+                }
+                return "The expensive product in the cart is: " + expensiveProduct + " with a price of: " + expensiveProductPrice;
+            }
+
+            let products = [{ name: "Books", price: 200 }, { name: "Watch", price: 25000 }, { name: "Pants", price: 1300 }];
+            console.log(findMostExpensiveProduct(products));
+
+
+
+
+
+
+
+
+
+    
+    </script>
+</body>
+
+</html>
