@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity3</title>
+</head>
+
+<body>
+    <h2>Working with Arrays</h2>
+    <script>
+        {
+            let num = [10, 20, 30, 40, 50];
+            document.write("Length of the array <b> " + num + "</b> is   <b>" + num.length + "</b><br>");
+            document.write("Third element of the array is: <b>" + num[2] + "</b><br>");
+            num.push(60);
+            num.push(70);
+            document.write("Array after pushing two elements is : <b>" + num + "</b><br>");
+            num.shift();
+            num.pop();
+            document.write("Array after deleting first and last elements is : <b>" + num + "</b><br>");
+
+
+        }
+    </script>
+    <h2>Task 2</h2>
+    <script>
+        {
+            let numbers = [10, 20, 30, 40, 50];
+            let fruits = ["Apple", "Banana", "Mango", "Orange"];
+            document.write("Array of Numbers: <b>" + numbers + "</b><br>");
+            document.write("Array of Fruits: <b>" + fruits + "</b><br><br>");
+
+
+            numbers.shift();
+            document.write("Array of Numbers after removing the first number: <b>" + numbers + "</b><br>");
+
+            fruits.unshift("Grapes");
+            document.write("Array of Fruits after adding Grapes to the start: <b>" + fruits + "</b><br>");
+
+            fruits.splice(3, 1, "Pineapple");
+            document.write("Array of Fruits after replacing Mango with Pineapple: <b>" + fruits + "</b><br>");
+
+            numbers.reverse();
+            document.write("Array of Numbers after reversing: <b>" + numbers + "</b><br>");
+
+            let combinedArray = numbers.concat(fruits);
+            document.write("Array after combining: <b>" + combinedArray + "</b><br>");
+            numbers.reverse();
+            let result = numbers.find(num => num > 20);
+            document.write("First number in the array greater than 20 is:<b> " + result + "</b><br>");
+
+            let fruitsString = fruits.join("-");
+            document.write("Fruits as a string: <b>" + fruitsString + "</b><br>");
+            fruits.sort();
+            document.write("Array of Fruits after sorting: <b>" + fruits + "</b><br><br>");
+
+        }
+    </script>
+    <script>
+        {
+            let numbers=[1,2,3,4,5];
+            document.write("Original Array: <b>"+numbers+"</b><br>");
+            numbers.shift();
+            document.write("After removing first element: <b>"+numbers+"</b><br>");
+
+            let fruits=["Apple","Banana","Mango"];
+            document.write("Original Array: <b>"+fruits+"</b><br>");
+            fruits.unshift("Orange");
+            document.write("After adding Orange to the start: <b>"+fruits+"</br>");
+
+            let colors=["Red","Green","Blue","Yellow"];
+            document.write("Original Array: <b>"+colors+"</b><br>");
+            colors.splice(2,1,"Purple");
+            document.write("After replacing Blue with Purple: <b>"+colors+"</b><br>");
+        }
+    </script>
+
+</body>
+
+</html>
