@@ -1,0 +1,14 @@
+D:\workshop1\obj\Debug\net8.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfoInputs.cache
+D:\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfo.cs
+D:\workshop1\obj\Debug\net8.0\workshop1.csproj.CoreCompileInputs.cache
+D:\workshop1\bin\Debug\net8.0\workshop1.exe
+D:\workshop1\bin\Debug\net8.0\workshop1.deps.json
+D:\workshop1\bin\Debug\net8.0\workshop1.runtimeconfig.json
+D:\workshop1\bin\Debug\net8.0\workshop1.dll
+D:\workshop1\bin\Debug\net8.0\workshop1.pdb
+D:\workshop1\obj\Debug\net8.0\workshop1.dll
+D:\workshop1\obj\Debug\net8.0\refint\workshop1.dll
+D:\workshop1\obj\Debug\net8.0\workshop1.pdb
+D:\workshop1\obj\Debug\net8.0\workshop1.genruntimeconfig.cache
+D:\workshop1\obj\Debug\net8.0\ref\workshop1.dll
