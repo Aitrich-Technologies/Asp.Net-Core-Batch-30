@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Counter</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: lightblue; /* simple background */
+      font-family: Arial, sans-serif;
+    }
+
+    #counter {
+      text-align: center;
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    p {
+      font-size: 24px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+
+    button {
+      padding: 10px 15px;
+      margin: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="counter">
+    <h1>Counter</h1>
+    <p id="p1">0</p>
+    <button id="btn1">Increment</button>
+    <button id="btn2">Decrement</button>
+    <button id="btn3">Reset</button>
+  </div>
+
+  <script>
+    const btn1 = document.getElementById("btn1");
+    const btn2 = document.getElementById("btn2");
+    const btn3 = document.getElementById("btn3");
+    const p1 = document.getElementById("p1");
+
+    let count = 0;
+
+    btn1.addEventListener("click", () => {
+      count++;
+      p1.innerText = count;
+    });
+
+    btn2.addEventListener("click", () => {
+      count--;
+      p1.innerText = count;
+    });
+
+    btn3.addEventListener("click", () => {
+      count = 0;
+      p1.innerText = count;
+    });
+  </script>
+</body>
+</html>

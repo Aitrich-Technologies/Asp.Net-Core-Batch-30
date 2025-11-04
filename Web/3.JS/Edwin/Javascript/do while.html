@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let snum=5559;
+        let nsum=0;
+        do{
+            let digit=snum%10;
+            nsum=nsum*10+digit;
+           
+            snum=Math.floor(snum /10);
+        }
+        while(snum>0);
+         document.write(nsum,"<br>");
+
+
+
+
+
+
+
+
+let nnum = 1234;
+let reversed = 0;
+let ttemp = nnum;
+
+do {
+    reversed = reversed * 10 + (ttemp % 10);
+    ttemp = Math.floor(ttemp / 10); 
+} while (ttemp > 0)
+
+document.write("Reverse of " + nnum + " is: " + reversed , "<br>");
+
+
+
+
+
+
+
+
+let num = 5;
+let fact = 1;
+let i = num;
+
+do {
+    fact=fact * i;  
+    i--;
+} while (i > 0);    
+
+document.write("Factorial of " + num + " is: " + fact);
+
+
+       
+    </script>
+</body>
+
+</html>
