@@ -1,0 +1,15 @@
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\bin\Debug\net8.0\HiringManagementSystem.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\bin\Debug\net8.0\HiringManagementSystem.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\bin\Debug\net8.0\HiringManagementSystem.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\bin\Debug\net8.0\HiringManagementSystem.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\bin\Debug\net8.0\HiringManagementSystem.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\refint\HiringManagementSystem.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\HiringManagementSystem.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 2\HiringManagementSystem\HiringManagementSystem\obj\Debug\net8.0\ref\HiringManagementSystem.dll
