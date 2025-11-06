@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Announcements and notifications</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
+    <div class="container-fluid">
+      <!-- Sidebar Toggle (on small screens) -->
+      <button class="btn btn-outline-primary d-lg-none me-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebar" aria-controls="sidebar">
+        <i class="bi bi-list"></i>
+      </button>
+
+      <input class="form-control w-50 mx-auto" placeholder="Search users, jobs, companies...">
+
+      <div class="d-flex align-items-center gap-3">
+        <button class="btn position-relative">
+          <i class="bi bi-bell fs-5"></i>
+          <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">5</span>
+        </button>
+        <span class="fw-semibold">Admin User</span>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row">
+      <!-- Sidebar for large screens -->
+      <div class="col-auto col-md-3 col-lg-2 bg-primary text-white min-vh-100 p-3 d-none d-lg-block">
+        <h5 class="mb-3">Admin Dashboard</h5>
+        <ul class="nav nav-pills flex-column">
+          <li class="nav-item"><a class="nav-link text-white" href="#">Dashboard</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="#">User Management</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="#">Job Management</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="#">Company Management</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="#">Applications</a></li>
+          <li class="nav-item"><a class="nav-link text-white" href="#">Categories & Skills</a></li>
+          <li class="nav-item"><a class="nav-link active bg-white text-primary" href="#">Announcements</a></li>
+        </ul>
+      </div>
+
+      <!-- Offcanvas Sidebar (for mobile) -->
+      <div class="offcanvas offcanvas-start text-bg-primary" tabindex="-1" id="sidebar" aria-labelledby="sidebarLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="sidebarLabel">Admin Dashboard</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="nav nav-pills flex-column">
+            <li class="nav-item"><a class="nav-link text-white" href="#">Dashboard</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="#">User Management</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="#">Job Management</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="#">Company Management</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="#">Applications</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="#">Categories & Skills</a></li>
+            <li class="nav-item"><a class="nav-link active bg-white text-primary" href="#">Announcements</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Main Content -->
+      <div class="col px-4 py-3">
+        <div class="d-flex justify-content-between align-items-center flex-wrap">
+          <div>
+            <h4 class="fw-bold mb-0">Announcements & Notifications</h4>
+            <p class="text-muted">Manage platform-wide announcements and company notifications</p>
+          </div>
+          <button class="btn btn-primary mt-2 mt-md-0">
+            <i class="bi bi-plus"></i> Create Announcement
+          </button>
+        </div>
+
+        <!-- Summary Cards -->
+        <div class="row g-3 mb-4">
+          <div class="col-md-4">
+            <div class="card bg-primary bg-opacity-10 border-0">
+              <div class="card-body">
+                <h4 class="text-primary fw-bold">4</h4>
+                <p class="mb-0 text-muted">Total Announcements</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card bg-success bg-opacity-10 border-0">
+              <div class="card-body">
+                <h4 class="text-success fw-bold">3</h4>
+                <p class="mb-0 text-muted">Published</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card bg-warning bg-opacity-10 border-0">
+              <div class="card-body">
+                <h4 class="text-warning fw-bold">1</h4>
+                <p class="mb-0 text-muted">Drafts</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Announcement Cards -->
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="card shadow-sm border-0">
+              <div class="card-body">
+                <div class="d-flex align-items-start">
+                  <i class="bi bi-bell fs-4 text-primary me-2"></i>
+                  <div>
+                    <h6 class="fw-bold mb-1">New Partnership with TechCorp</h6>
+                    <span class="badge bg-primary">Announcement</span>
+                    <span class="badge bg-success">Published</span>
+                    <p class="mt-2 mb-2 text-muted small">
+                      We are excited to announce a new partnership that will bring more opportunities...
+                    </p>
+                    <div class="d-flex justify-content-between text-muted small">
+                      <span><i class="bi bi-building"></i> TechCorp</span>
+                      <span><i class="bi bi-calendar"></i> 2025-10-07</span>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center mt-3">
+                      <button class="btn btn-outline-primary btn-sm">View Details</button>
+                      <div>
+                        <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                        <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <div class="card shadow-sm border-0">
+              <div class="card-body">
+                <div class="d-flex align-items-start">
+                  <i class="bi bi-bell fs-4 text-info me-2"></i>
+                  <div>
+                    <h6 class="fw-bold mb-1">System Maintenance Notice</h6>
+                    <span class="badge bg-info">Notification</span>
+                    <span class="badge bg-success">Published</span>
+                    <p class="mt-2 mb-2 text-muted small">
+                      Scheduled maintenance on October 15th from 2:00 AM to 6:00 AM...
+                    </p>
+                    <div class="d-flex justify-content-between text-muted small">
+                      <span><i class="bi bi-person"></i> Platform Admin</span>
+                      <span><i class="bi bi-calendar"></i> 2025-10-06</span>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center mt-3">
+                      <button class="btn btn-outline-primary btn-sm">View Details</button>
+                      <div>
+                        <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                        <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row g-3">
+  <div class="col-md-6">
+    <div class="card shadow-sm border-0">
+      <div class="card-body">
+        <div class="d-flex align-items-start">
+          <i class="bi bi-bell fs-4 text-primary me-2"></i>
+          <div>
+            <h6 class="fw-bold mb-1">Job Fair Event-November 2025</h6>
+            <span class="badge bg-primary">Announcement</span>
+            <span class="badge bg-warning">Draft</span>
+            <p class="mt-2 mb-2 text-muted small">
+              join us for a virtual job fair featuring top companies in tech industry....
+            </p>
+            <div class="d-flex justify-content-between text-muted small">
+              <span><i class="bi bi-building"></i> Innovatel.ab</span>
+              <span><i class="bi bi-calendar"></i> 2025-10-05</span>
+            </div>
+            <div class="d-flex justify-content-between align-items-center mt-3">
+              <button class="btn btn-outline-primary btn-sm">View Details</button>
+              <div>
+                <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card shadow-sm border-0">
+      <div class="card-body">
+        <div class="d-flex align-items-start">
+          <i class="bi bi-bell fs-4 text-info me-2"></i>
+          <div>
+            <h6 class="fw-bold mb-1">New Feature : video interviews</h6>
+            <span class="badge bg-info">Notification</span>
+            <span class="badge bg-success">Published</span>
+            <p class="mt-2 mb-2 text-muted small">
+              We have launched a new video interview feature to help streamline...
+            </p>
+            <div class="d-flex justify-content-between text-muted small">
+              <span><i class="bi bi-person"></i> Platform Admin</span>
+              <span><i class="bi bi-calendar"></i> 2025-10-04</span>
+            </div>
+            <div class="d-flex justify-content-between align-items-center mt-3">
+              <button class="btn btn-outline-primary btn-sm">View Details</button>
+              <div>
+                <button class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil"></i></button>
+                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

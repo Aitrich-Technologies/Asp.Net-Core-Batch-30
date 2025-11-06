@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:47:26.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\Admin.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\Admin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:47:22.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJob.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IJob.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:47:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Model\\Job.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
+              "RelativeToolTip": "Admin_Job\\Model\\Job.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:47:04.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Model\\User.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
+              "RelativeToolTip": "Admin_Job\\Model\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:46:56.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

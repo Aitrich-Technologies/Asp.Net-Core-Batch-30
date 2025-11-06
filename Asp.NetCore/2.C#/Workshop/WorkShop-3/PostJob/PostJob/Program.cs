@@ -10,6 +10,7 @@ namespace PostJob
             public string Description;
             public double Salary;
             public string Location;
+            
         }
 
         public static void Main(string[] args)
