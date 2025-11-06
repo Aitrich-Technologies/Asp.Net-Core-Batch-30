@@ -28,3 +28,18 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Ch
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 2\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\ref\Provider_App.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\bin\Debug\net8.0\Provider_App.exe
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\bin\Debug\net8.0\Provider_App.deps.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\bin\Debug\net8.0\Provider_App.runtimeconfig.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\bin\Debug\net8.0\Provider_App.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\bin\Debug\net8.0\Provider_App.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.AssemblyInfoInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.AssemblyInfo.cs
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.csproj.CoreCompileInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.sourcelink.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\refint\Provider_App.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\Provider_App.genruntimeconfig.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\obj\Debug\net8.0\ref\Provider_App.dll
