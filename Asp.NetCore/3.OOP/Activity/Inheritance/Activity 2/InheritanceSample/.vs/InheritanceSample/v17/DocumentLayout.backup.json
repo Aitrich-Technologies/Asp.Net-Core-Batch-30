@@ -1,7 +1,17 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
+  "Documents": [],
+=======
+=======
+>>>>>>> bc54dccfa0a4ad5570bb22ce46eca4835bdae4a0
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
+>>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\inheritance\\activity 2\\inheritancesample\\inheritancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -16,15 +26,10 @@
       "RelativeMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
-=======
-  "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
-  "Documents": [],
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -33,6 +38,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceSample\\Program.cs",
@@ -46,6 +52,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+=======
+>>>>>>> bc54dccfa0a4ad5570bb22ce46eca4835bdae4a0
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Employee.cs",
               "RelativeDocumentMoniker": "InheritanceSample\\Employee.cs",
@@ -53,7 +61,7 @@
               "RelativeToolTip": "InheritanceSample\\Employee.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:25:46.164Z",
+              "WhenOpened": "2025-02-06T06:22:45.341Z",
               "EditorCaption": ""
             },
             {
@@ -66,15 +74,24 @@
               "RelativeToolTip": "InheritanceSample\\Person.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:25:30.912Z",
+              "WhenOpened": "2025-02-06T06:22:41.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
+              "RelativeToolTip": "InheritanceSample\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:22:37.466Z",
               "EditorCaption": ""
             }
           ]
         }
       ]
-=======
-      "DocumentGroups": []
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
     }
   ]
 }

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Libray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|d:\\c#\\libray\\workshop\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|solutionrelative:workshop\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|d:\\c#\\libray\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|d:\\c#\\libray\\workshop\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F78EA1E-8BF5-407D-8126-EC9D7DE43CC9}|Workshop\\Workshop.csproj|solutionrelative:workshop\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|d:\\c#\\libray\\hospitalmanagement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|d:\\c#\\libray\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|d:\\c#\\libray\\hospitalmanagement\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|d:\\c#\\libray\\hospitalmanagement\\onlineappointment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\onlineappointment .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|d:\\c#\\libray\\hospitalmanagement\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052D2A2-FDC0-4BBD-86F6-6C4D9DFD2B5C}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\Workshop\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Workshop\\Manager\\Admin.cs",
+              "ToolTip": "D:\\C#\\Libray\\Workshop\\Manager\\Admin.cs",
+              "RelativeToolTip": "Workshop\\Manager\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:02:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\Workshop\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Workshop\\Manager\\JobManager.cs",
+              "ToolTip": "D:\\C#\\Libray\\Workshop\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Workshop\\Manager\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:05:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\Workshop\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop\\Program.cs",
+              "ToolTip": "D:\\C#\\Libray\\Workshop\\Program.cs",
+              "RelativeToolTip": "Workshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T15:50:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineAppointment .cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\HospitalManagement\\OnlineAppointment .cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\OnlineAppointment .cs",
+              "ToolTip": "D:\\C#\\Libray\\HospitalManagement\\OnlineAppointment .cs",
+              "RelativeToolTip": "HospitalManagement\\OnlineAppointment .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:57:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Program.cs",
+              "ToolTip": "D:\\C#\\Libray\\HospitalManagement\\Program.cs",
+              "RelativeToolTip": "HospitalManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:32:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\HospitalManagement\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Appointment.cs",
+              "ToolTip": "D:\\C#\\Libray\\HospitalManagement\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagement\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:33:28.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\HospitalManagement\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Patient.cs",
+              "ToolTip": "D:\\C#\\Libray\\HospitalManagement\\Patient.cs",
+              "RelativeToolTip": "HospitalManagement\\Patient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:32:52.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\C#\\Libray\\HospitalManagement\\Staff.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Staff.cs",
+              "ToolTip": "D:\\C#\\Libray\\HospitalManagement\\Staff.cs",
+              "RelativeToolTip": "HospitalManagement\\Staff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:33:08.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
