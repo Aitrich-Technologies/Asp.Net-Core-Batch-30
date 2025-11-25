@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|d:\\c#\\encapsulation\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|d:\\c#\\encapsulation\\polymorphism\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|d:\\c#\\encapsulation\\polymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|d:\\c#\\encapsulation\\polymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69163A03-E258-4B99-924A-962D4B2E9639}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Encapsulation\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "D:\\C#\\Encapsulation\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:26:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\C#\\Encapsulation\\Polymorphism\\Circle.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Circle.cs",
+              "ToolTip": "D:\\C#\\Encapsulation\\Polymorphism\\Circle.cs",
+              "RelativeToolTip": "Polymorphism\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:25:27.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\C#\\Encapsulation\\Polymorphism\\IShape.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\IShape.cs",
+              "ToolTip": "D:\\C#\\Encapsulation\\Polymorphism\\IShape.cs",
+              "RelativeToolTip": "Polymorphism\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:23:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\C#\\Encapsulation\\Polymorphism\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Rectangle.cs",
+              "ToolTip": "D:\\C#\\Encapsulation\\Polymorphism\\Rectangle.cs",
+              "RelativeToolTip": "Polymorphism\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:23:43.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

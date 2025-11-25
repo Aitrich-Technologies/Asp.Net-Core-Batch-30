@@ -1,0 +1,30 @@
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\refint\InterfaceSample.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\obj\Debug\net8.0\ref\InterfaceSample.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.exe
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.deps.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.runtimeconfig.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\bin\Debug\net8.0\InterfaceSample.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.AssemblyInfoInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.AssemblyInfo.cs
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.csproj.CoreCompileInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.sourcelink.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\refint\InterfaceSample.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\InterfaceSample.genruntimeconfig.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\obj\Debug\net8.0\ref\InterfaceSample.dll

@@ -1,0 +1,14 @@
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.AssemblyInfoInputs.cache
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.AssemblyInfo.cs
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.csproj.CoreCompileInputs.cache
+D:\C#\Exercise oops\Exercise oops\bin\Debug\net9.0\JobProviderApplication.exe
+D:\C#\Exercise oops\Exercise oops\bin\Debug\net9.0\JobProviderApplication.deps.json
+D:\C#\Exercise oops\Exercise oops\bin\Debug\net9.0\JobProviderApplication.runtimeconfig.json
+D:\C#\Exercise oops\Exercise oops\bin\Debug\net9.0\JobProviderApplication.dll
+D:\C#\Exercise oops\Exercise oops\bin\Debug\net9.0\JobProviderApplication.pdb
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.dll
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\refint\JobProviderApplication.dll
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.pdb
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\JobProviderApplication.genruntimeconfig.cache
+D:\C#\Exercise oops\Exercise oops\obj\Debug\net9.0\ref\JobProviderApplication.dll

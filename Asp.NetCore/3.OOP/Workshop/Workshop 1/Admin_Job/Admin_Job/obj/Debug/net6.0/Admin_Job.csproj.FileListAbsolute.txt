@@ -1,0 +1,15 @@
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.exe
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.deps.json
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.runtimeconfig.json
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.dll
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\bin\Debug\net6.0\Admin_Job.pdb
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.AssemblyInfoInputs.cache
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.AssemblyInfo.cs
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.csproj.CoreCompileInputs.cache
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.sourcelink.json
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.dll
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\refint\Admin_Job.dll
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.pdb
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\Admin_Job.genruntimeconfig.cache
+D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\obj\Debug\net6.0\ref\Admin_Job.dll

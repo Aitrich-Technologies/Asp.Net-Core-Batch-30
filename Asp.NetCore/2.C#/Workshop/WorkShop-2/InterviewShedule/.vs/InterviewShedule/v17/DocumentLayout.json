@@ -1,9 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 2\\Workshop\\WorkShop-2\\InterviewShedule\\",
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 2\\workshop\\workshop-2\\interviewshedule\\interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\2.c#\\workshop\\workshop-2\\interviewshedule\\interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\2.c#\\workshop\\workshop-2\\interviewshedule\\interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c6b21767df8c7ed0fc00a0501b3c2bc4201b0d68
       "RelativeMoniker": "D:0:0:{68E03A76-5627-4CE8-A181-965AD4B32B0D}|InterviewShedule\\InterviewShedule.csproj|solutionrelative:interviewshedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,10 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 2\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
               "RelativeDocumentMoniker": "InterviewShedule\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 2\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
               "RelativeToolTip": "InterviewShedule\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwBgAAAApAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewShedule\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\2.C#\\Workshop\\WorkShop-2\\InterviewShedule\\InterviewShedule\\Program.cs",
+              "RelativeToolTip": "InterviewShedule\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAAhAAAAAAAAAA==",
+>>>>>>> c6b21767df8c7ed0fc00a0501b3c2bc4201b0d68
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T05:38:02.41Z",
               "EditorCaption": ""
