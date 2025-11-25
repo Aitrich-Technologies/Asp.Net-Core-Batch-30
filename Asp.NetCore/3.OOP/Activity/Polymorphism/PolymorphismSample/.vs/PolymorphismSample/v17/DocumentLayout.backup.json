@@ -1,38 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\",
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|solutionrelative:polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|solutionrelative:polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\polymorphism\\polymorphismsample\\polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|solutionrelative:polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
-=======
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Students\\Sreeshma\\PolymorphismSample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\.netcorefsonlinebatch-03\\csharp\\csharp-chapter 2\\oops\\students\\sreeshma\\polymorphismsample\\polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|solutionrelative:polymorphismsample\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\.netcorefsonlinebatch-03\\csharp\\csharp-chapter 2\\oops\\students\\sreeshma\\polymorphismsample\\polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-      "RelativeMoniker": "D:0:0:{E237DFFF-6EF8-4DC7-BAB4-8E6F4FF9DB4D}|PolymorphismSample\\PolymorphismSample.csproj|solutionrelative:polymorphismsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
     }
   ],
   "DocumentGroupContainers": [
@@ -42,83 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismSample\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeToolTip": "PolymorphismSample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismSample\\Program.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeToolTip": "PolymorphismSample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
-=======
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Students\\Sreeshma\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismSample\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Students\\Sreeshma\\PolymorphismSample\\PolymorphismSample\\Program.cs",
-              "RelativeToolTip": "PolymorphismSample\\Program.cs",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:22:44.729Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismSample\\Program.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Program.cs",
+              "RelativeToolTip": "PolymorphismSample\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:43:18.879Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Calculate.cs",
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
               "RelativeDocumentMoniker": "PolymorphismSample\\Calculate.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
               "RelativeToolTip": "PolymorphismSample\\Calculate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:22:33.355Z"
-=======
-              "DocumentIndex": 0,
-              "Title": "Calculate.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
-              "RelativeDocumentMoniker": "PolymorphismSample\\Calculate.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
-              "RelativeToolTip": "PolymorphismSample\\Calculate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Students\\Sreeshma\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
-              "RelativeDocumentMoniker": "PolymorphismSample\\Calculate.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Students\\Sreeshma\\PolymorphismSample\\PolymorphismSample\\Calculate.cs",
-              "RelativeToolTip": "PolymorphismSample\\Calculate.cs",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:22:33.355Z",
-              "EditorCaption": ""
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
+              "WhenOpened": "2025-09-03T04:43:18.919Z"
             }
           ]
         }

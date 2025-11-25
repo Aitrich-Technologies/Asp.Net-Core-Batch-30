@@ -1,0 +1,14 @@
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.AssemblyInfoInputs.cache
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.AssemblyInfo.cs
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.csproj.CoreCompileInputs.cache
+D:\OOPS\Ticket OOPS\bin\Debug\net8.0\Ticket OOPS.exe
+D:\OOPS\Ticket OOPS\bin\Debug\net8.0\Ticket OOPS.deps.json
+D:\OOPS\Ticket OOPS\bin\Debug\net8.0\Ticket OOPS.runtimeconfig.json
+D:\OOPS\Ticket OOPS\bin\Debug\net8.0\Ticket OOPS.dll
+D:\OOPS\Ticket OOPS\bin\Debug\net8.0\Ticket OOPS.pdb
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.dll
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\refint\Ticket OOPS.dll
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.pdb
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\Ticket OOPS.genruntimeconfig.cache
+D:\OOPS\Ticket OOPS\obj\Debug\net8.0\ref\Ticket OOPS.dll

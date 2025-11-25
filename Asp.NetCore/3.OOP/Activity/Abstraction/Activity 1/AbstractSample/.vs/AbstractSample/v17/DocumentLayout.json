@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,10 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
               "RelativeDocumentMoniker": "AbstractSample\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
               "RelativeToolTip": "AbstractSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:36:43.004Z",
               "EditorCaption": ""
@@ -44,10 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
               "RelativeDocumentMoniker": "AbstractSample\\Dog.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
               "RelativeToolTip": "AbstractSample\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:36:14.371Z",
               "EditorCaption": ""
@@ -56,10 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
               "RelativeDocumentMoniker": "AbstractSample\\Cat.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
               "RelativeToolTip": "AbstractSample\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:36:11.52Z",
               "EditorCaption": ""
@@ -68,10 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
               "RelativeDocumentMoniker": "AbstractSample\\Animal.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
               "RelativeToolTip": "AbstractSample\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:36:05.64Z",
               "EditorCaption": ""

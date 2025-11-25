@@ -1,83 +1,22 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\",
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-=======
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> e9ef25f08b745b60431991c9a00249a62b28f4d6
-=======
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
-  "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 3\\activity\\polymorphism\\polymorphismoverriding\\polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CDAC52E-69FB-4B5A-AD59-7F3D0978C4F4}|PolymorphismOverriding\\PolymorphismOverriding.csproj|solutionrelative:polymorphismoverriding\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
     }
   ],
   "DocumentGroupContainers": [
@@ -87,188 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:37.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Dog.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:32.76Z"
-=======
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Program.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
->>>>>>> e9ef25f08b745b60431991c9a00249a62b28f4d6
-              "RelativeToolTip": "PolymorphismOverriding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Program.cs",
-              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:37.812Z",
-              "EditorCaption": ""
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< HEAD
-              "Title": "Cat.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Cat.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismOverriding\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Program.cs",
+              "RelativeToolTip": "PolymorphismOverriding\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:25.094Z"
+              "WhenOpened": "2025-09-03T04:42:41.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Animal.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:20.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-=======
               "Title": "Dog.cs",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
               "RelativeDocumentMoniker": "PolymorphismOverriding\\Dog.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
               "RelativeToolTip": "PolymorphismOverriding\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:32.76Z",
-=======
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Dog.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Dog.cs",
-=======
-              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Dog.cs",
-              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Dog.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:32.76Z",
+              "WhenOpened": "2025-09-03T04:42:41.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cat.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
               "RelativeDocumentMoniker": "PolymorphismOverriding\\Cat.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
               "RelativeToolTip": "PolymorphismOverriding\\Cat.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:25.094Z",
->>>>>>> e9ef25f08b745b60431991c9a00249a62b28f4d6
+              "WhenOpened": "2025-09-03T04:42:41.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Cat.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Cat.cs",
-              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Cat.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:23:25.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Animal.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-=======
               "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
               "RelativeDocumentMoniker": "PolymorphismOverriding\\Animal.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
               "RelativeToolTip": "PolymorphismOverriding\\Animal.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
->>>>>>> e9ef25f08b745b60431991c9a00249a62b28f4d6
-=======
-              "DocumentIndex": 3,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeDocumentMoniker": "PolymorphismOverriding\\Animal.cs",
-              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\Animal.cs",
-              "RelativeToolTip": "PolymorphismOverriding\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
-              "WhenOpened": "2025-01-20T09:23:20.038Z",
+              "WhenOpened": "2025-09-03T04:42:41.124Z",
               "EditorCaption": ""
->>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
             }
           ]
         }

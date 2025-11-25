@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5U2osVL7SoU=",
+  "dgSpecHash": "2nWXADCWrzM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\PolymorphismOverriding.csproj",
+  "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\PolymorphismOverriding.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

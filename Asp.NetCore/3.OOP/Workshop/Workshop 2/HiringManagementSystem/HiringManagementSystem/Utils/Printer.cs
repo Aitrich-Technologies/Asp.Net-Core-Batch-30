@@ -31,5 +31,4 @@ namespace HiringManagementSystem.Utils
             }
         }
     }
-
 }

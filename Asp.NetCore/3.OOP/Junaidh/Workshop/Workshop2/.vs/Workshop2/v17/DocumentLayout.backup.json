@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOPS\\Workshop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\modals\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:modals\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|d:\\oops\\workshop2\\modals\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B577428-1399-4E9E-84CD-EC1B8EFF90A7}|Workshop2.csproj|solutionrelative:modals\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Managers\\AdminManager.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "Managers\\AdminManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Managers\\JobManager.cs",
+              "RelativeDocumentMoniker": "Managers\\JobManager.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Managers\\JobManager.cs",
+              "RelativeToolTip": "Managers\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:31:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Managers\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Managers\\PublicManager.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Managers\\PublicManager.cs",
+              "RelativeToolTip": "Managers\\PublicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:38:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "Managers\\UserManager.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Managers\\UserManager.cs",
+              "RelativeToolTip": "Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:42:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Enums\\ExperienceLevel.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Enums\\Role.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Enums\\Role.cs",
+              "RelativeToolTip": "Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Interface\\IJob.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Interface\\IJob.cs",
+              "RelativeToolTip": "Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interface\\IMenu.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Interface\\ILogin.cs",
+              "RelativeDocumentMoniker": "Interface\\ILogin.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Interface\\ILogin.cs",
+              "RelativeToolTip": "Interface\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:24:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Utils\\Printer.cs",
+              "RelativeDocumentMoniker": "Utils\\Printer.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Utils\\Printer.cs",
+              "RelativeToolTip": "Utils\\Printer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Modals\\User.cs",
+              "RelativeDocumentMoniker": "Modals\\User.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Modals\\User.cs",
+              "RelativeToolTip": "Modals\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\OOPS\\Workshop2\\Modals\\Job.cs",
+              "RelativeDocumentMoniker": "Modals\\Job.cs",
+              "ToolTip": "D:\\OOPS\\Workshop2\\Modals\\Job.cs",
+              "RelativeToolTip": "Modals\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:51.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
