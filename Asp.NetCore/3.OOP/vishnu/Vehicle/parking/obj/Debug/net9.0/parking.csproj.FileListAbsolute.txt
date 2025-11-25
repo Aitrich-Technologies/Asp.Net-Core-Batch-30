@@ -1,0 +1,14 @@
+D:\c#\Vehicle\parking\bin\Debug\net9.0\parking.exe
+D:\c#\Vehicle\parking\bin\Debug\net9.0\parking.deps.json
+D:\c#\Vehicle\parking\bin\Debug\net9.0\parking.runtimeconfig.json
+D:\c#\Vehicle\parking\bin\Debug\net9.0\parking.dll
+D:\c#\Vehicle\parking\bin\Debug\net9.0\parking.pdb
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.AssemblyInfoInputs.cache
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.AssemblyInfo.cs
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.csproj.CoreCompileInputs.cache
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.dll
+D:\c#\Vehicle\parking\obj\Debug\net9.0\refint\parking.dll
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.pdb
+D:\c#\Vehicle\parking\obj\Debug\net9.0\parking.genruntimeconfig.cache
+D:\c#\Vehicle\parking\obj\Debug\net9.0\ref\parking.dll

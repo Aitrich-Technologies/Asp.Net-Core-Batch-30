@@ -1,0 +1,4 @@
+D:\c#\Vehicle\Vehicle\obj\Debug\net9.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Vehicle\Vehicle\obj\Debug\net9.0\Vehicle.AssemblyInfoInputs.cache
+D:\c#\Vehicle\Vehicle\obj\Debug\net9.0\Vehicle.AssemblyInfo.cs
+D:\c#\Vehicle\Vehicle\obj\Debug\net9.0\Vehicle.csproj.CoreCompileInputs.cache

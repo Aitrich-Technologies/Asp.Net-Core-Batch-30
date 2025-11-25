@@ -1,0 +1,14 @@
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.AssemblyInfoInputs.cache
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.AssemblyInfo.cs
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.csproj.CoreCompileInputs.cache
+D:\c#\JobPortalApplication\JobPortalApplication\bin\Debug\net9.0\JobPortalApplication.exe
+D:\c#\JobPortalApplication\JobPortalApplication\bin\Debug\net9.0\JobPortalApplication.deps.json
+D:\c#\JobPortalApplication\JobPortalApplication\bin\Debug\net9.0\JobPortalApplication.runtimeconfig.json
+D:\c#\JobPortalApplication\JobPortalApplication\bin\Debug\net9.0\JobPortalApplication.dll
+D:\c#\JobPortalApplication\JobPortalApplication\bin\Debug\net9.0\JobPortalApplication.pdb
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.dll
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\refint\JobPortalApplication.dll
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.pdb
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\JobPortalApplication.genruntimeconfig.cache
+D:\c#\JobPortalApplication\JobPortalApplication\obj\Debug\net9.0\ref\JobPortalApplication.dll

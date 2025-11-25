@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 2\\hiringmanagementsystem\\hiringmanagementsystem\\hiringmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4529998B-BC99-49A0-B19D-430B083B8BA3}|HiringManagementSystem\\HiringManagementSystem.csproj|solutionrelative:hiringmanagementsystem\\hiringmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\PublicManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Managers\\PublicManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\PublicManager.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Managers\\PublicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:53:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:54:45.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\UserManager.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:53:33.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Interface\\IJob.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\IJob.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:59:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\ILogin.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Interface\\ILogin.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\ILogin.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Interface\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:56:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Interface\\IMenu.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Interface\\IMenu.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:56:21.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\JobManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Managers\\JobManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\JobManager.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Managers\\JobManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:53:46.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Managers\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Managers\\AdminManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:54:09.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Utils\\Printer.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Utils\\Printer.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Utils\\Printer.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Utils\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:55:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Program.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:00:49.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Enums\\Roles.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:57:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Models\\Job.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Models\\Job.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:54:36.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExperienceLevels.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Enums\\ExperienceLevels.cs",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\Enums\\ExperienceLevels.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\Enums\\ExperienceLevels.cs",
+              "RelativeToolTip": "HiringManagementSystem\\Enums\\ExperienceLevels.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:57:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HiringManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HiringManagementSystem\\HiringManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
+              "RelativeToolTip": "HiringManagementSystem\\HiringManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T06:54:19.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

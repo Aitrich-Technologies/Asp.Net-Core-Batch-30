@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 3\\workshop\\workshop 1\\admin_job\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\3.oop\\workshop\\workshop 1\\admin_job\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009FD65B-204C-4BF1-B3B8-78A155C23ABF}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Program.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Program.cs",
               "RelativeToolTip": "Admin_Job\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T03:56:45.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "JobManager.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Manager\\JobManager.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
-              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs*",
+              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T03:55:49.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
-              "RelativeDocumentMoniker": "Admin_Job\\Manager\\Admin.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
-              "RelativeToolTip": "Admin_Job\\Manager\\Admin.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T03:55:49.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IJob.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
-              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJob.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
-              "RelativeToolTip": "Admin_Job\\Interface\\IJob.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T03:55:49.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
-              "RelativeDocumentMoniker": "Admin_Job\\Model\\Job.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
-              "RelativeToolTip": "Admin_Job\\Model\\Job.cs",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\Admin.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T03:55:49.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T03:55:49.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Admin_Job\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
-              "RelativeToolTip": "Admin_Job\\Model\\User.cs",
+              "Title": "IJob.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJob.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T03:55:49.344Z",
+              "WhenOpened": "2025-09-08T03:55:49.336Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Model\\Job.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\Job.cs",
+              "RelativeToolTip": "Admin_Job\\Model\\Job.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:55:49.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Model\\User.cs",
+              "RelativeToolTip": "Admin_Job\\Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T03:55:49.344Z"
             }
           ]
         }

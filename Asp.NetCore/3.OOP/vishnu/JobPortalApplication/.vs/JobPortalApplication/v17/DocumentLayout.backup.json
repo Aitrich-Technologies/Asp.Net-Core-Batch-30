@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\JobPortalApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\manager\\jobportalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\manager\\jobportalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\interfaces\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\interfaces\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\interfaces\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\interfaces\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\manager\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\manager\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|d:\\c#\\jobportalapplication\\jobportalapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25D7DB0-EEEF-4993-BCAB-FECB2BB0969C}|JobPortalApplication\\JobPortalApplication.csproj|solutionrelative:jobportalapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Interfaces\\IJobProvider.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IJobProvider.cs",
+              "RelativeToolTip": "JobPortalApplication\\Interfaces\\IJobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:19:48.686Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Models\\Interview.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Interview.cs",
+              "RelativeToolTip": "JobPortalApplication\\Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:05:27.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobPortalManager.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Manager\\JobPortalManager.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Manager\\JobPortalManager.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Manager\\JobPortalManager.cs",
+              "RelativeToolTip": "JobPortalApplication\\Manager\\JobPortalManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:24:16.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Interfaces\\IUser.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "JobPortalApplication\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:02:38.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Models\\User.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\User.cs",
+              "RelativeToolTip": "JobPortalApplication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:11:53.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Models\\Roles.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Roles.cs",
+              "RelativeToolTip": "JobPortalApplication\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:10:08.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Models\\Job.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Models\\Job.cs",
+              "RelativeToolTip": "JobPortalApplication\\Models\\Job.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:00:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterviewProvider.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IInterviewProvider.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Interfaces\\IInterviewProvider.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Interfaces\\IInterviewProvider.cs",
+              "RelativeToolTip": "JobPortalApplication\\Interfaces\\IInterviewProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:04:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Program.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Program.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Program.cs",
+              "RelativeToolTip": "JobPortalApplication\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:34:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Manager\\Printer.cs",
+              "RelativeDocumentMoniker": "JobPortalApplication\\Manager\\Printer.cs",
+              "ToolTip": "D:\\c#\\JobPortalApplication\\JobPortalApplication\\Manager\\Printer.cs",
+              "RelativeToolTip": "JobPortalApplication\\Manager\\Printer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:58:33.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

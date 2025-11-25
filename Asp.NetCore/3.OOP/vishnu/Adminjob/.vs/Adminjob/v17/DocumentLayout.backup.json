@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Adminjob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\model\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\model\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|d:\\c#\\adminjob\\adminjob\\adminjob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB881446-0C2F-482D-944E-3B9A805D4DBA}|Adminjob\\Adminjob.csproj|solutionrelative:adminjob\\adminjob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Manager\\JobManager.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Manager\\JobManager.cs*",
+              "RelativeToolTip": "Adminjob\\Manager\\JobManager.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:02:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Model\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Model\\Interface\\IJob.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Model\\Interface\\IJob.cs",
+              "RelativeToolTip": "Adminjob\\Model\\Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:54:01.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Model\\Job.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Model\\Job.cs",
+              "RelativeToolTip": "Adminjob\\Model\\Job.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:48:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Model\\User.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Model\\User.cs",
+              "RelativeToolTip": "Adminjob\\Model\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:40:58.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Adminjob.csproj",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Adminjob.csproj",
+              "RelativeDocumentMoniker": "Adminjob\\Adminjob.csproj",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Adminjob.csproj",
+              "RelativeToolTip": "Adminjob\\Adminjob.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T05:40:20.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Manager\\Admin.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Manager\\Admin.cs",
+              "RelativeToolTip": "Adminjob\\Manager\\Admin.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:17:25.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Adminjob\\Adminjob\\Program.cs",
+              "RelativeDocumentMoniker": "Adminjob\\Program.cs",
+              "ToolTip": "D:\\c#\\Adminjob\\Adminjob\\Program.cs",
+              "RelativeToolTip": "Adminjob\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:16:33.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
