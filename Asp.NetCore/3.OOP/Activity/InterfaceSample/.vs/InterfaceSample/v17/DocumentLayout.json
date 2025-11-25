@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\",
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\interface\\interfacesample\\interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\interface\\interfacesample\\interfacesample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\interface\\interfacesample\\interfacesample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\interface\\interfacesample\\interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 3\\activity\\interface\\interfacesample\\interfacesample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,40 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IPrice.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\IPrice.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IPrice.cs",
               "RelativeDocumentMoniker": "InterfaceSample\\IPrice.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\IPrice.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IPrice.cs",
               "RelativeToolTip": "InterfaceSample\\IPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:47:32.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:47:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSample\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Program.cs",
+              "RelativeToolTip": "InterfaceSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:45:43.467Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceSample\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Program.cs",
-              "RelativeToolTip": "InterfaceSample\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:45:43.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "IAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\IAnimal.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IAnimal.cs",
               "RelativeDocumentMoniker": "InterfaceSample\\IAnimal.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\IAnimal.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IAnimal.cs",
               "RelativeToolTip": "InterfaceSample\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:45:43.55Z",
               "EditorCaption": ""
@@ -72,25 +73,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Cat.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Cat.cs",
               "RelativeDocumentMoniker": "InterfaceSample\\Cat.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Cat.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Cat.cs",
               "RelativeToolTip": "InterfaceSample\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:45:43.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:45:43.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Dog.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Dog.cs",
               "RelativeDocumentMoniker": "InterfaceSample\\Dog.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Activity\\Interface\\InterfaceSample\\InterfaceSample\\Dog.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\Dog.cs",
               "RelativeToolTip": "InterfaceSample\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T03:45:43.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T03:45:43.555Z"
             }
           ]
         }
