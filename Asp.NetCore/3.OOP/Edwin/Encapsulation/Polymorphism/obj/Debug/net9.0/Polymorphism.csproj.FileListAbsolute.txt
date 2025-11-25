@@ -1,0 +1,14 @@
+D:\C#\Encapsulation\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+D:\C#\Encapsulation\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+D:\C#\Encapsulation\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+D:\C#\Encapsulation\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+D:\C#\Encapsulation\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+D:\C#\Encapsulation\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll

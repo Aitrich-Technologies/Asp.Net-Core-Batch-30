@@ -1,0 +1,15 @@
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\bin\Debug\net9.0\Employee.exe
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\bin\Debug\net9.0\Employee.deps.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\bin\Debug\net9.0\Employee.runtimeconfig.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\bin\Debug\net9.0\Employee.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\bin\Debug\net9.0\Employee.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.sourcelink.json
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\refint\Employee.dll
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.pdb
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\Employee.genruntimeconfig.cache
+D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\Employee\obj\Debug\net9.0\ref\Employee.dll

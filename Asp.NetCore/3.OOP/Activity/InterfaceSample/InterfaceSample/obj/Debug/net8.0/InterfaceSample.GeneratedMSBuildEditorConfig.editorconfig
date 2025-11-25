@@ -7,13 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-<<<<<<< HEAD:Asp.NetCore/2.C#/Workshop/Workshop-4/Provider_App/Provider_App/obj/Debug/net8.0/Provider_App.GeneratedMSBuildEditorConfig.editorconfig
-build_property.RootNamespace = Provider_App
-build_property.ProjectDir = D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\2.C#\Workshop\Workshop-4\Provider_App\Provider_App\
-=======
 build_property.RootNamespace = InterfaceSample
-build_property.ProjectDir = C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 3\Activity\Interface\InterfaceSample\InterfaceSample\
->>>>>>> c6b21767df8c7ed0fc00a0501b3c2bc4201b0d68:Asp.NetCore/3.OOP/Activity/InterfaceSample/InterfaceSample/obj/Debug/net8.0/InterfaceSample.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\InterfaceSample\InterfaceSample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

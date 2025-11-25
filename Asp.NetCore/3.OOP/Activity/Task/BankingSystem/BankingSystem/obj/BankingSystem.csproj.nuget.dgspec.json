@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD:Asp.NetCore/2.C#/Workshop/Workshop-4/Provider_App/Provider_App/obj/Provider_App.csproj.nuget.dgspec.json
-    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj": {}
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {}
   },
   "projects": {
-    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj": {
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
-        "projectName": "Provider_App",
-        "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\Provider_App.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\2.C#\\Workshop\\Workshop-4\\Provider_App\\Provider_App\\obj\\",
-=======
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+        "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
         "projectName": "BankingSystem",
-        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
-        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\obj\\",
->>>>>>> c6b21767df8c7ed0fc00a0501b3c2bc4201b0d68:Asp.NetCore/3.OOP/Activity/Task/BankingSystem/BankingSystem/obj/BankingSystem.csproj.nuget.dgspec.json
+        "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
