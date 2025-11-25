@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\interfaces\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\interfaces\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\utils\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|c:\\users\\user\\source\\repos\\hiringmanagementexercise\\hiringmanagementexercise\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A8754D-4E61-41E1-A1C6-179DF8024AEA}|HiringManagementExercise\\HiringManagementExercise.csproj|solutionrelative:hiringmanagementexercise\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\IJob.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Interfaces\\IJob.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\IJob.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Interfaces\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:03:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\JobManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Managers\\JobManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\JobManager.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Managers\\JobManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:39:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\UserManager.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:39:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Managers\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Managers\\AdminManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:38:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\PublicManager.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Managers\\PublicManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Managers\\PublicManager.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Managers\\PublicManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:38:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Utils\\Printer.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Utils\\Printer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Utils\\Printer.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Utils\\Printer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBIAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:36:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Models\\User.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:35:05.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Models\\Job.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:34:49.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Interfaces\\IMenu.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Interfaces\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:33:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:33:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Enums\\Roles.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:31:16.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExperienceLevels.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Enums\\ExperienceLevels.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Enums\\ExperienceLevels.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Enums\\ExperienceLevels.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Enums\\ExperienceLevels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:31:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Program.cs",
+              "RelativeDocumentMoniker": "HiringManagementExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HiringManagementExercise\\HiringManagementExercise\\Program.cs",
+              "RelativeToolTip": "HiringManagementExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:15:28.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

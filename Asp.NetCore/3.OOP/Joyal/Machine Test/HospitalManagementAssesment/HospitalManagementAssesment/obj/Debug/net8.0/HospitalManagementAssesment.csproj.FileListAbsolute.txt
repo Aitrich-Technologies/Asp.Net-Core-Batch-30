@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\bin\Debug\net8.0\HospitalManagementAssesment.exe
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\bin\Debug\net8.0\HospitalManagementAssesment.deps.json
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\bin\Debug\net8.0\HospitalManagementAssesment.runtimeconfig.json
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\bin\Debug\net8.0\HospitalManagementAssesment.dll
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\bin\Debug\net8.0\HospitalManagementAssesment.pdb
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.AssemblyInfo.cs
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.dll
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\refint\HospitalManagementAssesment.dll
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.pdb
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\HospitalManagementAssesment.genruntimeconfig.cache
+C:\Users\user\source\repos\HospitalManagementAssesment\HospitalManagementAssesment\obj\Debug\net8.0\ref\HospitalManagementAssesment.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\bin\Debug\net8.0\HiringManagementExercise.exe
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\bin\Debug\net8.0\HiringManagementExercise.deps.json
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\bin\Debug\net8.0\HiringManagementExercise.runtimeconfig.json
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\bin\Debug\net8.0\HiringManagementExercise.dll
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\bin\Debug\net8.0\HiringManagementExercise.pdb
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.AssemblyInfo.cs
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.dll
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\refint\HiringManagementExercise.dll
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.pdb
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\HiringManagementExercise.genruntimeconfig.cache
+C:\Users\user\source\repos\HiringManagementExercise\HiringManagementExercise\obj\Debug\net8.0\ref\HiringManagementExercise.dll
