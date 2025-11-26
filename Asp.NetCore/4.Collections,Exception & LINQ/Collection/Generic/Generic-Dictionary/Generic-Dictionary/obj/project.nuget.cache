@@ -1,0 +1,38 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "93/q6VliLAE=",
+  "success": true,
+  "projectFilePath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "NS9NGgZLp48=",
+  "success": true,
+  "projectFilePath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "sBcPgiNqayk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+  "dgSpecHash": "ZxxZ9RYZ380=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+=======
+=======
+  "dgSpecHash": "ZxxZ9RYZ380=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+  "expectedPackageFiles": [],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+D:\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.exe
+D:\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.deps.json
+D:\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.runtimeconfig.json
+D:\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.dll
+D:\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.pdb
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfoInputs.cache
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfo.cs
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.csproj.CoreCompileInputs.cache
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.dll
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\refint\Generic-SortedList.dll
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.pdb
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.genruntimeconfig.cache
+D:\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\ref\Generic-SortedList.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\refint\Generic-SortedList.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\ref\Generic-SortedList.dll
