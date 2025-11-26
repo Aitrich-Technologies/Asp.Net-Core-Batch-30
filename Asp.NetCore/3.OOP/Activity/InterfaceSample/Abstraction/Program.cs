@@ -1,0 +1,8 @@
+﻿using Abstraction;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+    }
+}

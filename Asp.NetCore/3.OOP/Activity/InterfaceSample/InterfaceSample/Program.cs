@@ -11,6 +11,14 @@
             dog.AnimalPrice();
             cat.AnimalSound();
             cat.AnimalPrice();
+
+
+            Class s1 = new Class("John");
+            Class s2 = new Class("Emma");
+
+            Console.WriteLine(Class.Count);
+
+
         }
     }
 }
