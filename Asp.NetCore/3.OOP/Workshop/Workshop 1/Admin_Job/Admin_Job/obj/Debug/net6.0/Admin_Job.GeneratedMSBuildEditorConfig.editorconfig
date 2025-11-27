@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Admin_Job
-build_property.ProjectDir = C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Workshop\Workshop 1\Admin_Job\Admin_Job\
+build_property.ProjectDir = D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Workshop\Workshop 1\Admin_Job\Admin_Job\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

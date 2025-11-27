@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
       "projectName": "BankingSystem",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\obj\\",
+=======
+      "projectUniqueName": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "projectName": "BankingSystem",
+      "projectPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+      "outputPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\obj\\",
+>>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

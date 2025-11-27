@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
         "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
         "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\obj\\",
+=======
+    "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
+        "projectName": "HiringManagementSystem",
+        "projectPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\obj\\",
+>>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
