@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0KgIKAA/dpg=",
+<<<<<<< HEAD
+  "dgSpecHash": "fuwhSbPFrSg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 3\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+=======
+  "dgSpecHash": "PLtkZfZSphI=",
+  "success": true,
+  "projectFilePath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+>>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
   "expectedPackageFiles": [],
   "logs": []
 }

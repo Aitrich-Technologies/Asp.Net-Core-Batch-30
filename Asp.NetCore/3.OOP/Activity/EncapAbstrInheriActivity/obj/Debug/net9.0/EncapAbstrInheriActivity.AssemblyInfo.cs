@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncapAbstrInheriActivity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b21767df8c7ed0fc00a0501b3c2bc4201b0d68")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb6bbf2add695d188d35ec782329054ab4c87b77")]
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
 [assembly: System.Reflection.AssemblyProductAttribute("EncapAbstrInheriActivity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncapAbstrInheriActivity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

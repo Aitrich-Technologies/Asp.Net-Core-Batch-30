@@ -1,0 +1,14 @@
+D:\C#\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.exe
+D:\C#\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.deps.json
+D:\C#\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.runtimeconfig.json
+D:\C#\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.dll
+D:\C#\Encapsulation\Encapsulation\bin\Debug\net9.0\Encapsulation.pdb
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfoInputs.cache
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.AssemblyInfo.cs
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.dll
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\refint\Encapsulation.dll
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.pdb
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\Encapsulation.genruntimeconfig.cache
+D:\C#\Encapsulation\Encapsulation\obj\Debug\net9.0\ref\Encapsulation.dll

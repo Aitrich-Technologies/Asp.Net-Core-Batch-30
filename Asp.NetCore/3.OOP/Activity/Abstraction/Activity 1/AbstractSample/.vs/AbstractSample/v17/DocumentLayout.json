@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
   "Documents": [
     {
@@ -17,6 +18,27 @@
     {
       "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\79819f9dcefa393bb114e96b47ce1b6328b23ce70bcf5c05d3f2cf6de362a6b7\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\groceryproduct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -73,8 +96,84 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
               "RelativeToolTip": "AbstractSample\\Animal.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAUwAcAAAABAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventPipeEventProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\79819f9dcefa393bb114e96b47ce1b6328b23ce70bcf5c05d3f2cf6de362a6b7\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\SourceServer\\79819f9dcefa393bb114e96b47ce1b6328b23ce70bcf5c05d3f2cf6de362a6b7\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs [Read Only]",
+              "ViewState": "AgIAAIQAAAAAAAAAAAD4v5EAAAAMAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T04:36:05.64Z",
+              "WhenOpened": "2025-11-12T05:49:33.43Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectronicProduct.cs",
+              "DocumentMoniker": "D:\\C#\\Abstraction\\ECommerce\\ElectronicProduct.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ElectronicProduct.cs",
+              "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\ElectronicProduct.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ElectronicProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:16:05.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\Abstraction\\ECommerce\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\Product.cs",
+              "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:13:39.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroceryProduct .cs",
+              "DocumentMoniker": "D:\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
+              "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAnAAAAAAAAAA==",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:10:44.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\C#\\Abstraction\\ECommerce\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ShoppingCart.cs",
+              "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\ShoppingCart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ShoppingCart.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:08:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Abstraction\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\Program.cs",
+              "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\Program.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:47:45.922Z",
               "EditorCaption": ""
             }
           ]

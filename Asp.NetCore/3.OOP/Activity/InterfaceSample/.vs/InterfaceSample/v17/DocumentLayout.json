@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\",
   "Documents": [
     {
@@ -21,6 +22,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0C233-ADE7-41C7-BA36-688D9BECD439}|Employee\\Employee.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D0C233-ADE7-41C7-BA36-688D9BECD439}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +46,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "IPrice.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IPrice.cs",
@@ -55,10 +68,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:45:43.467Z"
+=======
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:40:16.139Z",
+              "EditorCaption": ""
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "IAnimal.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\IAnimal.cs",
               "RelativeDocumentMoniker": "InterfaceSample\\IAnimal.cs",
@@ -92,6 +118,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:45:43.555Z"
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:53:13.328Z",
+              "EditorCaption": ""
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
             }
           ]
         }

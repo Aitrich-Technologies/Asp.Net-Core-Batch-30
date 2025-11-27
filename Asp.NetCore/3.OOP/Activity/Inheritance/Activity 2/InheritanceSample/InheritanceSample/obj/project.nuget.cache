@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "fPINktBZG5Q=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
+=======
+  "dgSpecHash": "39Q8CMxVbiE=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
   "expectedPackageFiles": [],
   "logs": []
 }
