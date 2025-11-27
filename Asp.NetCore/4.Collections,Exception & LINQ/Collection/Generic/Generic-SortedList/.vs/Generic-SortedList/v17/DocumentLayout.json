@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|d:\\aitrich\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+=======
+=======
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+      "RelativeMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|solutionrelative:generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-SortedList\\Program.cs",
+              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeToolTip": "Generic-SortedList\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-SortedList\\Program.cs",
+              "ToolTip": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+=======
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-SortedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-SortedList\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+              "RelativeToolTip": "Generic-SortedList\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+=======
+=======
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-SortedList\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Program.cs",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+              "RelativeToolTip": "Generic-SortedList\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:57:23.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

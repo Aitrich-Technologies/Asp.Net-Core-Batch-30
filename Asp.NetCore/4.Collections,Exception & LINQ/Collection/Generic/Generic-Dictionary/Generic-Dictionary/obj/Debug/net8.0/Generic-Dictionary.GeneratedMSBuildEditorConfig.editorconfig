@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Generic_Dictionary
+<<<<<<< HEAD
+build_property.ProjectDir = D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+build_property.ProjectDir = D:\aitrich\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+=======
+build_property.ProjectDir = C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+=======
+build_property.ProjectDir = C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+=======
+build_property.ProjectDir = C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

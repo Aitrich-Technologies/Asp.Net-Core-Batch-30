@@ -1,0 +1,14 @@
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.AssemblyInfoInputs.cache
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.AssemblyInfo.cs
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.csproj.CoreCompileInputs.cache
+D:\C#\Libray\Libray\bin\Debug\net9.0\Libray.exe
+D:\C#\Libray\Libray\bin\Debug\net9.0\Libray.deps.json
+D:\C#\Libray\Libray\bin\Debug\net9.0\Libray.runtimeconfig.json
+D:\C#\Libray\Libray\bin\Debug\net9.0\Libray.dll
+D:\C#\Libray\Libray\bin\Debug\net9.0\Libray.pdb
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.dll
+D:\C#\Libray\Libray\obj\Debug\net9.0\refint\Libray.dll
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.pdb
+D:\C#\Libray\Libray\obj\Debug\net9.0\Libray.genruntimeconfig.cache
+D:\C#\Libray\Libray\obj\Debug\net9.0\ref\Libray.dll

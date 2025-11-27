@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+  },
+  "projects": {
+    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+        "projectPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+        "projectPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\Nesly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+  },
+  "projects": {
+    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+<<<<<<< HEAD
+        "projectPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\Siby\\.nuget\\packages\\",
+        "outputPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+=======
+=======
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+          "C:\\Users\\Siby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

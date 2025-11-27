@@ -1,0 +1,14 @@
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfoInputs.cache
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.AssemblyInfo.cs
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.csproj.CoreCompileInputs.cache
+C:\Users\prini\source\repos\workshop1\workshop1\bin\Debug\net8.0\workshop1.exe
+C:\Users\prini\source\repos\workshop1\workshop1\bin\Debug\net8.0\workshop1.deps.json
+C:\Users\prini\source\repos\workshop1\workshop1\bin\Debug\net8.0\workshop1.runtimeconfig.json
+C:\Users\prini\source\repos\workshop1\workshop1\bin\Debug\net8.0\workshop1.dll
+C:\Users\prini\source\repos\workshop1\workshop1\bin\Debug\net8.0\workshop1.pdb
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.dll
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\refint\workshop1.dll
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.pdb
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\workshop1.genruntimeconfig.cache
+C:\Users\prini\source\repos\workshop1\workshop1\obj\Debug\net8.0\ref\workshop1.dll

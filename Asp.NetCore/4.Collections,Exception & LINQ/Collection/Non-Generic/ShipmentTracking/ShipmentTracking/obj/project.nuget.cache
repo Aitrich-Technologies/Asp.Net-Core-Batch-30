@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNx7DUp/tEA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
