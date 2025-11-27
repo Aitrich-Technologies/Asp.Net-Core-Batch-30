@@ -1,0 +1,14 @@
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.AssemblyInfoInputs.cache
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.AssemblyInfo.cs
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.csproj.CoreCompileInputs.cache
+D:\C#\Exception activity\UseraleradyExists\bin\Debug\net9.0\UseraleradyExists.exe
+D:\C#\Exception activity\UseraleradyExists\bin\Debug\net9.0\UseraleradyExists.deps.json
+D:\C#\Exception activity\UseraleradyExists\bin\Debug\net9.0\UseraleradyExists.runtimeconfig.json
+D:\C#\Exception activity\UseraleradyExists\bin\Debug\net9.0\UseraleradyExists.dll
+D:\C#\Exception activity\UseraleradyExists\bin\Debug\net9.0\UseraleradyExists.pdb
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.dll
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\refint\UseraleradyExists.dll
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.pdb
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\UseraleradyExists.genruntimeconfig.cache
+D:\C#\Exception activity\UseraleradyExists\obj\Debug\net9.0\ref\UseraleradyExists.dll

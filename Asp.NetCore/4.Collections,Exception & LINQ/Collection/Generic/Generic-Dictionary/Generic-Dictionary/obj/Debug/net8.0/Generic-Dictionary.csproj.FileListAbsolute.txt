@@ -1,0 +1,29 @@
+D:\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.exe
+D:\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.deps.json
+D:\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.runtimeconfig.json
+D:\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.dll
+D:\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.pdb
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.AssemblyInfoInputs.cache
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.AssemblyInfo.cs
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.csproj.CoreCompileInputs.cache
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.dll
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\refint\Generic-Dictionary.dll
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.pdb
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.genruntimeconfig.cache
+D:\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\ref\Generic-Dictionary.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\refint\Generic-Dictionary.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\ref\Generic-Dictionary.dll

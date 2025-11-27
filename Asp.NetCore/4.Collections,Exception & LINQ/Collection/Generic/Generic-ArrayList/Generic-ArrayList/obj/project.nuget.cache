@@ -1,0 +1,65 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "ihS0B3S5fkg=",
+  "success": true,
+  "projectFilePath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "3XT8rW76jbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+  "dgSpecHash": "1P66OX7PmW4=",
+  "success": true,
+  "projectFilePath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "3XT8rW76jbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+  "dgSpecHash": "AvRttH2qkRw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+  "dgSpecHash": "AvRttH2qkRw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+  "dgSpecHash": "AvRttH2qkRw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problem reading the cache file D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\Exception activity\EmailApplication\bin\Debug\net9.0\EmailApplication.exe
+D:\C#\Exception activity\EmailApplication\bin\Debug\net9.0\EmailApplication.deps.json
+D:\C#\Exception activity\EmailApplication\bin\Debug\net9.0\EmailApplication.runtimeconfig.json
+D:\C#\Exception activity\EmailApplication\bin\Debug\net9.0\EmailApplication.dll
+D:\C#\Exception activity\EmailApplication\bin\Debug\net9.0\EmailApplication.pdb
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.AssemblyInfoInputs.cache
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.AssemblyInfo.cs
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.csproj.CoreCompileInputs.cache
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.dll
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\refint\EmailApplication.dll
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.pdb
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\EmailApplication.genruntimeconfig.cache
+D:\C#\Exception activity\EmailApplication\obj\Debug\net9.0\ref\EmailApplication.dll

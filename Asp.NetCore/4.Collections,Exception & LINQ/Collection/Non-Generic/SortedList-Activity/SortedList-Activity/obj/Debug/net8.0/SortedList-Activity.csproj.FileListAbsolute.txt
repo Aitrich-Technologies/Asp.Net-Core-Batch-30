@@ -1,0 +1,44 @@
+D:\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.exe
+D:\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.deps.json
+D:\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.runtimeconfig.json
+D:\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.dll
+D:\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.pdb
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfoInputs.cache
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfo.cs
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.csproj.CoreCompileInputs.cache
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.dll
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\refint\SortedList-Activity.dll
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.pdb
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.genruntimeconfig.cache
+D:\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\ref\SortedList-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\refint\SortedList-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\ref\SortedList-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\refint\SortedList-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\ref\SortedList-Activity.dll

@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+  },
+  "projects": {
+    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "projectName": "Generic-ArrayList",
+        "projectPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+=======
+<<<<<<< HEAD
+=======
+    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "projectName": "Generic-ArrayList",
+        "projectPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\Nesly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+=======
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+=======
+=======
+=======
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+  },
+  "projects": {
+    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "projectName": "Generic-ArrayList",
+<<<<<<< HEAD
+        "projectPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\Siby\\.nuget\\packages\\",
+        "outputPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+=======
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+<<<<<<< HEAD
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+=======
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "projectName": "Generic-ArrayList",
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
+<<<<<<< HEAD
+=======
+=======
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "projectName": "Generic-ArrayList",
+        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+          "C:\\Users\\Siby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+          "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

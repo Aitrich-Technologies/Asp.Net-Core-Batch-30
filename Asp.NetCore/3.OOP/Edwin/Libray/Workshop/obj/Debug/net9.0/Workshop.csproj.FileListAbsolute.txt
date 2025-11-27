@@ -1,0 +1,14 @@
+D:\C#\Libray\Workshop\bin\Debug\net9.0\Workshop.exe
+D:\C#\Libray\Workshop\bin\Debug\net9.0\Workshop.deps.json
+D:\C#\Libray\Workshop\bin\Debug\net9.0\Workshop.runtimeconfig.json
+D:\C#\Libray\Workshop\bin\Debug\net9.0\Workshop.dll
+D:\C#\Libray\Workshop\bin\Debug\net9.0\Workshop.pdb
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.AssemblyInfoInputs.cache
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.AssemblyInfo.cs
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.csproj.CoreCompileInputs.cache
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.dll
+D:\C#\Libray\Workshop\obj\Debug\net9.0\refint\Workshop.dll
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.pdb
+D:\C#\Libray\Workshop\obj\Debug\net9.0\Workshop.genruntimeconfig.cache
+D:\C#\Libray\Workshop\obj\Debug\net9.0\ref\Workshop.dll
