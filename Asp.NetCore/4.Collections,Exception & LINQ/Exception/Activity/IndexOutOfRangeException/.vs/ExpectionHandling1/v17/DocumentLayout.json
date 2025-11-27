@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CE442CF-7B74-4429-955D-8B94E56D1420}|ExpectionHandling1\\ExpectionHandling1.csproj|c:\\batch31\\asp.net-core-batch-31\\4.collection, exception \u0026 linq\\exception\\activity\\indexoutofrangeexception\\expectionhandling1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CE442CF-7B74-4429-955D-8B94E56D1420}|ExpectionHandling1\\ExpectionHandling1.csproj|c:\\users\\user\\desktop\\asp.net\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\indexoutofrangeexception\\expectionhandling1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CE442CF-7B74-4429-955D-8B94E56D1420}|ExpectionHandling1\\ExpectionHandling1.csproj|solutionrelative:expectionhandling1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\Program.cs",
               "RelativeDocumentMoniker": "ExpectionHandling1\\Program.cs",
-              "ToolTip": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\Program.cs",
               "RelativeToolTip": "ExpectionHandling1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T10:07:09.605Z",
               "EditorCaption": ""
