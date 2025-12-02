@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\bin\Debug\net9.0\ShipmentTrackingSystem.exe
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\bin\Debug\net9.0\ShipmentTrackingSystem.deps.json
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\bin\Debug\net9.0\ShipmentTrackingSystem.runtimeconfig.json
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\bin\Debug\net9.0\ShipmentTrackingSystem.dll
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\bin\Debug\net9.0\ShipmentTrackingSystem.pdb
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.AssemblyInfo.cs
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.dll
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\refint\ShipmentTrackingSystem.dll
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.pdb
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ShipmentTrackingSystem.genruntimeconfig.cache
+D:\C#\CollectionArraylist\ShipmentTrackingSystem\obj\Debug\net9.0\ref\ShipmentTrackingSystem.dll

@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Stack\bin\Debug\net9.0\Stack.exe
+D:\C#\CollectionArraylist\Stack\bin\Debug\net9.0\Stack.deps.json
+D:\C#\CollectionArraylist\Stack\bin\Debug\net9.0\Stack.runtimeconfig.json
+D:\C#\CollectionArraylist\Stack\bin\Debug\net9.0\Stack.dll
+D:\C#\CollectionArraylist\Stack\bin\Debug\net9.0\Stack.pdb
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.dll
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\refint\Stack.dll
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.pdb
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\Stack.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Stack\obj\Debug\net9.0\ref\Stack.dll

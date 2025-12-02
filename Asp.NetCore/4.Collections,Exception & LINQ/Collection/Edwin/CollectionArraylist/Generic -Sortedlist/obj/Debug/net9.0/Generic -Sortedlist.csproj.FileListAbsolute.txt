@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Generic -Sortedlist\bin\Debug\net9.0\Generic -Sortedlist.exe
+D:\C#\CollectionArraylist\Generic -Sortedlist\bin\Debug\net9.0\Generic -Sortedlist.deps.json
+D:\C#\CollectionArraylist\Generic -Sortedlist\bin\Debug\net9.0\Generic -Sortedlist.runtimeconfig.json
+D:\C#\CollectionArraylist\Generic -Sortedlist\bin\Debug\net9.0\Generic -Sortedlist.dll
+D:\C#\CollectionArraylist\Generic -Sortedlist\bin\Debug\net9.0\Generic -Sortedlist.pdb
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.dll
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\refint\Generic -Sortedlist.dll
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.pdb
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\Generic -Sortedlist.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Generic -Sortedlist\obj\Debug\net9.0\ref\Generic -Sortedlist.dll

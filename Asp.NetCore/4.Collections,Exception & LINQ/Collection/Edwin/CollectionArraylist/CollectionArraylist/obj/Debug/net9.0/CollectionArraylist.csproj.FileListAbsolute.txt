@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\CollectionArraylist\bin\Debug\net9.0\CollectionArraylist.exe
+D:\C#\CollectionArraylist\CollectionArraylist\bin\Debug\net9.0\CollectionArraylist.deps.json
+D:\C#\CollectionArraylist\CollectionArraylist\bin\Debug\net9.0\CollectionArraylist.runtimeconfig.json
+D:\C#\CollectionArraylist\CollectionArraylist\bin\Debug\net9.0\CollectionArraylist.dll
+D:\C#\CollectionArraylist\CollectionArraylist\bin\Debug\net9.0\CollectionArraylist.pdb
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.AssemblyInfo.cs
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.dll
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\refint\CollectionArraylist.dll
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.pdb
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\CollectionArraylist.genruntimeconfig.cache
+D:\C#\CollectionArraylist\CollectionArraylist\obj\Debug\net9.0\ref\CollectionArraylist.dll

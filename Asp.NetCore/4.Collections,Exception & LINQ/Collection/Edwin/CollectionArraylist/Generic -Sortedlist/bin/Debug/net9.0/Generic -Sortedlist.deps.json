@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Generic -Sortedlist/1.0.0": {
+        "runtime": {
+          "Generic -Sortedlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generic -Sortedlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

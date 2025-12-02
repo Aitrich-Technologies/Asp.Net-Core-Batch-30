@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\SortedArray\bin\Debug\net9.0\SortedArray.exe
+D:\C#\CollectionArraylist\SortedArray\bin\Debug\net9.0\SortedArray.deps.json
+D:\C#\CollectionArraylist\SortedArray\bin\Debug\net9.0\SortedArray.runtimeconfig.json
+D:\C#\CollectionArraylist\SortedArray\bin\Debug\net9.0\SortedArray.dll
+D:\C#\CollectionArraylist\SortedArray\bin\Debug\net9.0\SortedArray.pdb
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.AssemblyInfo.cs
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.dll
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\refint\SortedArray.dll
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.pdb
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\SortedArray.genruntimeconfig.cache
+D:\C#\CollectionArraylist\SortedArray\obj\Debug\net9.0\ref\SortedArray.dll

@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Generic-Stack\bin\Debug\net9.0\Generic-Stack.exe
+D:\C#\CollectionArraylist\Generic-Stack\bin\Debug\net9.0\Generic-Stack.deps.json
+D:\C#\CollectionArraylist\Generic-Stack\bin\Debug\net9.0\Generic-Stack.runtimeconfig.json
+D:\C#\CollectionArraylist\Generic-Stack\bin\Debug\net9.0\Generic-Stack.dll
+D:\C#\CollectionArraylist\Generic-Stack\bin\Debug\net9.0\Generic-Stack.pdb
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.dll
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\refint\Generic-Stack.dll
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.pdb
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\Generic-Stack.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Generic-Stack\obj\Debug\net9.0\ref\Generic-Stack.dll

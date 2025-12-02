@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Generic -Dictionary\bin\Debug\net9.0\Generic -Dictionary.exe
+D:\C#\CollectionArraylist\Generic -Dictionary\bin\Debug\net9.0\Generic -Dictionary.deps.json
+D:\C#\CollectionArraylist\Generic -Dictionary\bin\Debug\net9.0\Generic -Dictionary.runtimeconfig.json
+D:\C#\CollectionArraylist\Generic -Dictionary\bin\Debug\net9.0\Generic -Dictionary.dll
+D:\C#\CollectionArraylist\Generic -Dictionary\bin\Debug\net9.0\Generic -Dictionary.pdb
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.dll
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\refint\Generic -Dictionary.dll
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.pdb
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\Generic -Dictionary.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Generic -Dictionary\obj\Debug\net9.0\ref\Generic -Dictionary.dll

@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\TicketCounter\bin\Debug\net9.0\TicketCounter.exe
+D:\C#\CollectionArraylist\TicketCounter\bin\Debug\net9.0\TicketCounter.deps.json
+D:\C#\CollectionArraylist\TicketCounter\bin\Debug\net9.0\TicketCounter.runtimeconfig.json
+D:\C#\CollectionArraylist\TicketCounter\bin\Debug\net9.0\TicketCounter.dll
+D:\C#\CollectionArraylist\TicketCounter\bin\Debug\net9.0\TicketCounter.pdb
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.AssemblyInfo.cs
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.dll
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\refint\TicketCounter.dll
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.pdb
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\TicketCounter.genruntimeconfig.cache
+D:\C#\CollectionArraylist\TicketCounter\obj\Debug\net9.0\ref\TicketCounter.dll
