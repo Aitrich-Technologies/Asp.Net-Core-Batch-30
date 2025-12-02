@@ -1,16 +1,9 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Queue\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "D:\\Generic-Queue\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|d:\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+      "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|solutionrelative:generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,36 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
               "RelativeDocumentMoniker": "Generic-Queue\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs*",
-              "RelativeToolTip": "Generic-Queue\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Generic-Queue\\Generic-Queue\\Program.cs",
-              "RelativeDocumentMoniker": "Generic-Queue\\Program.cs",
-              "ToolTip": "D:\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
               "RelativeToolTip": "Generic-Queue\\Program.cs",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:28:53.687Z",
+              "WhenOpened": "2025-11-28T16:45:02.575Z",
               "EditorCaption": ""
             }
           ]

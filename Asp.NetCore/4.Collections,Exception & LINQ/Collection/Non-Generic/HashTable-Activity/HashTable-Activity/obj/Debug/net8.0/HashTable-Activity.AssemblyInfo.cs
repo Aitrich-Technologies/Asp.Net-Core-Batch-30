@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashTable-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af7467c120fbfe6c23e872e4465f7bc351bcee61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065d71043ac1b2476e4686ee487f04c89ca96ec7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashTable-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashTable-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

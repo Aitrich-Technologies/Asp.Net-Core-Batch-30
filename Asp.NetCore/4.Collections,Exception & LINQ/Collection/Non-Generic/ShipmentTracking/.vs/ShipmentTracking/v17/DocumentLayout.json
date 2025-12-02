@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ShipmentTracking\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 4\\collection\\non-generic\\shipmenttracking\\shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\shipmenttracking\\shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|solutionrelative:shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,16 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
               "RelativeDocumentMoniker": "ShipmentTracking\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
               "RelativeToolTip": "ShipmentTracking\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T04:13:06.715Z",
               "EditorCaption": ""
