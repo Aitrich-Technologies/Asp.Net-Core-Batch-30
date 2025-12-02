@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "BankAccounts\\Model\\BankAccount.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\clerin\\BankAccounts\\BankAccounts\\Model\\BankAccount.cs",
               "RelativeToolTip": "BankAccounts\\Model\\BankAccount.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T04:08:40.862Z"
+              "WhenOpened": "2025-11-27T04:08:40.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -46,7 +47,8 @@
               "RelativeToolTip": "BankAccounts\\Exception\\InSufficientFundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T06:41:48.479Z"
+              "WhenOpened": "2025-11-26T06:41:48.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "BankAccounts\\Program.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\clerin\\BankAccounts\\BankAccounts\\Program.cs",
               "RelativeToolTip": "BankAccounts\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T06:40:05.738Z",
               "EditorCaption": ""

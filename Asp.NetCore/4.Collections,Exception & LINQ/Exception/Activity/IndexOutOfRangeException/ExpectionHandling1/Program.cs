@@ -7,15 +7,19 @@ namespace ExpectionHandling1
     {
         static void Main(string[] args)
         {
+            //indexoutof range exception
             try
             {
-                int i = int.MaxValue;
-                int j = checked(i + 1);
-                Console.WriteLine(j);
+                string[] pets = { "Dog,cat,parrot" };
+                Console.WriteLine(pets[10]);
             }
-            catch(OverflowException ex)
+            catch(IndexOutOfRangeException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine("exception occured");
+            }
+            finally
+            {
+                Console.WriteLine("final block executed");
             }
             
         }

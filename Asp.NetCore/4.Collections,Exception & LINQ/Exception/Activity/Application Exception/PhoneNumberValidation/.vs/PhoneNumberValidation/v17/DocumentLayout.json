@@ -30,7 +30,8 @@
               "RelativeToolTip": "PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T10:31:42.355Z"
+              "WhenOpened": "2025-06-25T10:31:42.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "PhoneNumberValidation\\Program.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Program.cs",
               "RelativeToolTip": "PhoneNumberValidation\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T10:31:42.418Z",
               "EditorCaption": ""

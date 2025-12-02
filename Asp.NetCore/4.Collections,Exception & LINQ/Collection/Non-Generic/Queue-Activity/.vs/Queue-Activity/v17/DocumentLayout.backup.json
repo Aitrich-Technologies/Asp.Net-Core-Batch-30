@@ -1,16 +1,9 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Queue-Activity\\",
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Queue-Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D663595E-4AD6-4582-8D4F-7E03DEEAC6DE}|Queue-Activity\\Queue-Activity.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\non-generic\\queue-activity\\queue-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "D:\\Queue-Activity\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D663595E-4AD6-4582-8D4F-7E03DEEAC6DE}|Queue-Activity\\Queue-Activity.csproj|d:\\queue-activity\\queue-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+      "AbsoluteMoniker": "D:0:0:{D663595E-4AD6-4582-8D4F-7E03DEEAC6DE}|Queue-Activity\\Queue-Activity.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\queue-activity\\queue-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D663595E-4AD6-4582-8D4F-7E03DEEAC6DE}|Queue-Activity\\Queue-Activity.csproj|solutionrelative:queue-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,38 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Program.cs",
-              "RelativeDocumentMoniker": "Queue-Activity\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Program.cs*",
-              "RelativeToolTip": "Queue-Activity\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T05:52:21.746Z",
-=======
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Queue-Activity\\Queue-Activity\\Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Program.cs",
               "RelativeDocumentMoniker": "Queue-Activity\\Program.cs",
-              "ToolTip": "D:\\Queue-Activity\\Queue-Activity\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Program.cs",
               "RelativeToolTip": "Queue-Activity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T07:52:36.557Z",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+              "WhenOpened": "2025-09-18T04:10:26.666Z",
               "EditorCaption": ""
             }
           ]

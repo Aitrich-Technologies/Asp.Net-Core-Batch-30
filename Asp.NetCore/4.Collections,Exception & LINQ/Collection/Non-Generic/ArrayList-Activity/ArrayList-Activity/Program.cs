@@ -39,7 +39,7 @@ class Library
 
         // 6. Check if a book exists
         bool contains = books.Contains("The Great Gatsby");
-        Console.WriteLine($"\nDoes the library contain 'The Great Gatsby'? {contains}");
+        Console.WriteLine($"\nDoes the library contain 'The Great Gatsby'? {contains}");()
 
         // 7. Count the total books
         Console.WriteLine($"\nTotal books in the library: {books.Count}");

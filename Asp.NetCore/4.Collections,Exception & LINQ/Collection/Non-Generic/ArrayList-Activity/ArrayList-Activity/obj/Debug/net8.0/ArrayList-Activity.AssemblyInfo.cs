@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayList-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+037b7b91c6340717bd6392d8e06649f10d288a5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd91b8d5d3ddf38252ef80c074440a9187f7b84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayList-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayList-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
