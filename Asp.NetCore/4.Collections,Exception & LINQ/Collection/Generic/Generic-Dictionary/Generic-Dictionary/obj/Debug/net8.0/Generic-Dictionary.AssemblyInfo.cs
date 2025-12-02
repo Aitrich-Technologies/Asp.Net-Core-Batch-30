@@ -14,29 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generic-Dictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736246031264f02dda43fd56c35e0dea2cc6a7d3")]
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+850aff854cec1b670e663e087d839065e19c0e11")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10cb8a73715c07894aa9391059ca14bb11b34577")]
->>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
-=======
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cde3572601f00a60f13584395e296c11dbc3a7f")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10cb8a73715c07894aa9391059ca14bb11b34577")]
->>>>>>> 0f57be805a69e68d4fc8b418580f1855c81d39b6
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10cb8a73715c07894aa9391059ca14bb11b34577")]
->>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
-<<<<<<< HEAD
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a1e039f59257d2d81b0aa2be006a8d316eaf3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generic-Dictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generic-Dictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
