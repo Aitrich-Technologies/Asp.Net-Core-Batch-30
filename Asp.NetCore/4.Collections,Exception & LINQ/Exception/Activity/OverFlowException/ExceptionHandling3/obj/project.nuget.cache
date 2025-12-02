@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MNl/xkdJKNU=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\OverFlowException\\ExceptionHandling3\\ExceptionHandling3.csproj",
+=======
+  "dgSpecHash": "mWig8cfDX74=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\OverFlowException\\ExceptionHandling3\\ExceptionHandling3.csproj",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
   "expectedPackageFiles": [],
   "logs": []
 }

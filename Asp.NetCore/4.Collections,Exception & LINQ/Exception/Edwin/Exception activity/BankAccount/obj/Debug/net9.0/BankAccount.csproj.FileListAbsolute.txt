@@ -1,0 +1,14 @@
+D:\C#\Exception activity\BankAccount\bin\Debug\net9.0\BankAccount.exe
+D:\C#\Exception activity\BankAccount\bin\Debug\net9.0\BankAccount.deps.json
+D:\C#\Exception activity\BankAccount\bin\Debug\net9.0\BankAccount.runtimeconfig.json
+D:\C#\Exception activity\BankAccount\bin\Debug\net9.0\BankAccount.dll
+D:\C#\Exception activity\BankAccount\bin\Debug\net9.0\BankAccount.pdb
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfoInputs.cache
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfo.cs
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.dll
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\refint\BankAccount.dll
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.pdb
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\BankAccount.genruntimeconfig.cache
+D:\C#\Exception activity\BankAccount\obj\Debug\net9.0\ref\BankAccount.dll

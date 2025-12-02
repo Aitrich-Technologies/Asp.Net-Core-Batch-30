@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EqUSLsyL0lE=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\ExceptionHandling2.csproj",
+=======
+  "dgSpecHash": "Y9NuyM9iphA=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\ExceptionHandling2.csproj",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
   "expectedPackageFiles": [],
   "logs": []
 }
