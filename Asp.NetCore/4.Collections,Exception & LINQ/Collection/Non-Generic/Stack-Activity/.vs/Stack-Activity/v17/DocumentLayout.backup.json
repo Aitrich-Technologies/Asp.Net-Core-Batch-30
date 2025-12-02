@@ -1,27 +1,9 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\Stack-Activity\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|d:\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Stack-Activity\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\non-generic\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
-=======
-  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Stack-Activity\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 4\\collection\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-<<<<<<< HEAD
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+      "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|c:\\users\\user\\desktop\\asp.net\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|solutionrelative:stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,46 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
-              "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs*",
-              "RelativeToolTip": "Stack-Activity\\Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T05:59:09.883Z",
-=======
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "D:\\Stack-Activity\\Stack-Activity\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
               "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",
-              "ToolTip": "D:\\Stack-Activity\\Stack-Activity\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
               "RelativeToolTip": "Stack-Activity\\Program.cs",
-=======
-              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Stack-Activity\\Stack-Activity\\Program.cs",
-              "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",
-              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Stack-Activity\\Stack-Activity\\Program.cs",
-              "RelativeToolTip": "Stack-Activity\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAAFAAAAAAAAAA==",
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:03:20.616Z",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+              "WhenOpened": "2025-09-18T04:11:32.937Z",
               "EditorCaption": ""
             }
           ]

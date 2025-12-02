@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\HashTable-Activity\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 4\\collection\\non-generic\\hashtable-activity\\hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|c:\\users\\user\\desktop\\asp.net\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\hashtable-activity\\hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|solutionrelative:hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,10 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
               "RelativeDocumentMoniker": "HashTable-Activity\\Program.cs",
-              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\asp.net\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
               "RelativeToolTip": "HashTable-Activity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T04:09:37.989Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortedList-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af7467c120fbfe6c23e872e4465f7bc351bcee61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205279c5932996329fdd6c15d0682763c74522cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortedList-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortedList-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
