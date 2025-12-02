@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|solutionrelative:generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Queue\\Program.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "RelativeToolTip": "Generic-Queue\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:08:19.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

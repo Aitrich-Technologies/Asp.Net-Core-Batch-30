@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\",
   "Documents": [
     {
@@ -21,6 +22,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC3099D-CBAE-4AAC-840A-BD1E4EAB573F}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\abstraction\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\interfacesample\\abstraction\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4231FD-0C6A-424D-B4ED-193083148CA0}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -95,6 +112,47 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T03:45:43.555Z",
               "EditorCaption": ""
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Abstraction\\JobSeeker.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\JobSeeker.cs",
+              "RelativeToolTip": "Abstraction\\JobSeeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:09:37.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\User.cs",
+              "RelativeDocumentMoniker": "Abstraction\\User.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\User.cs",
+              "RelativeToolTip": "Abstraction\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:58:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:53:13.328Z",
+              "EditorCaption": ""
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
             }
           ]
         }

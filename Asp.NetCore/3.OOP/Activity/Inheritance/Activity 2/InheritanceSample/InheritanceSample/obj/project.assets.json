@@ -8,23 +8,39 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\MY PC\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
       "projectName": "InheritanceSample",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\obj\\",
+=======
+      "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
+      "projectName": "InheritanceSample",
+      "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\InheritanceSample.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\obj\\",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

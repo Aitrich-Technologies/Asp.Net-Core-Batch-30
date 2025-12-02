@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "J1d8Z6NRFnw=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\AbstractSample.csproj",
+=======
+  "dgSpecHash": "wFe7JvCRe78=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\AbstractSample.csproj",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
   "expectedPackageFiles": [],
   "logs": []
 }

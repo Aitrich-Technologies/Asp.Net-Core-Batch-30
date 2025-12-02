@@ -1,0 +1,29 @@
+D:\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.exe
+D:\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.deps.json
+D:\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.runtimeconfig.json
+D:\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.dll
+D:\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.pdb
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.AssemblyInfoInputs.cache
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.AssemblyInfo.cs
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.csproj.CoreCompileInputs.cache
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.dll
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\refint\Generic-Stack.dll
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.pdb
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.genruntimeconfig.cache
+D:\Generic-Stack\Generic-Stack\obj\Debug\net8.0\ref\Generic-Stack.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\bin\Debug\net8.0\Generic-Stack.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\refint\Generic-Stack.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\Generic-Stack.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Stack\Generic-Stack\obj\Debug\net8.0\ref\Generic-Stack.dll

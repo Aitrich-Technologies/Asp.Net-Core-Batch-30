@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\",
   "Documents": [
     {
@@ -25,6 +26,32 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\model\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\homeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\model\\homeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\loanaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\model\\loanaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\model\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
 =======
   "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\",
   "Documents": [
@@ -51,6 +78,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\task\\bankingsystem\\bankingsystem\\model\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
       "RelativeMoniker": "D:0:0:{888483CB-4FE8-47B3-BFFC-D06F59FB8169}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\model\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -65,7 +93,17 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Model\\BankAccount.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\BankAccount.cs",
+=======
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
               "Title": "HomeLoan.cs",
 <<<<<<< HEAD
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\HomeLoan.cs",
@@ -155,7 +193,11 @@
               "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\BankAccount.cs",
 >>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
               "RelativeToolTip": "BankingSystem\\Model\\BankAccount.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T05:44:12.741Z",
               "EditorCaption": ""
@@ -165,9 +207,15 @@
               "DocumentIndex": 3,
               "Title": "Program.cs",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Program.cs",
               "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
               "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Program.cs",
+=======
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Program.cs",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
               "RelativeToolTip": "BankingSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
 =======
@@ -178,6 +226,58 @@
 >>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T05:43:17.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeLoan.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\HomeLoan.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Model\\HomeLoan.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\HomeLoan.cs",
+              "RelativeToolTip": "BankingSystem\\Model\\HomeLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:52:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanAccount.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\LoanAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Model\\LoanAccount.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\LoanAccount.cs",
+              "RelativeToolTip": "BankingSystem\\Model\\LoanAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:51:50.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Model\\CurrentAccount.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem\\Model\\CurrentAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:46:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Model\\SavingsAccount.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\Model\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem\\Model\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:45:29.122Z",
               "EditorCaption": ""
             }
           ]

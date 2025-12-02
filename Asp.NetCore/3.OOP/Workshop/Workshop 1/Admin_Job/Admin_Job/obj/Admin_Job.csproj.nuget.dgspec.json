@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
+  },
+  "projects": {
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "projectName": "Admin_Job",
+        "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
+=======
     "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
   },
   "projects": {
@@ -12,12 +25,13 @@
         "projectPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
         "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
         "outputPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
+>>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +40,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +57,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -63,19 +77,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.35, 6.0.35]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
+              "version": "[6.0.36, 6.0.36]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -83,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

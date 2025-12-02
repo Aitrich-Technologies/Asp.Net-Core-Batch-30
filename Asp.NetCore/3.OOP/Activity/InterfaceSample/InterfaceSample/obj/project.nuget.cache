@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jg4VQ9Sa9MU=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
+=======
+  "dgSpecHash": "VxLbFNepEpM=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
+>>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
   "expectedPackageFiles": [],
   "logs": []
 }
