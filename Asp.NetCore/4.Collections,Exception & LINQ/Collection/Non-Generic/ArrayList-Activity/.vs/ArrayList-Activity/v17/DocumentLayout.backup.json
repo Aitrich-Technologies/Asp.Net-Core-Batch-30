@@ -1,16 +1,9 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\",
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\non-generic\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "D:\\ArrayList-Activity\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|d:\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+      "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.net-core-full-stack-batch-27\\asp.netcore\\chapter 4\\collection\\non-generic\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|solutionrelative:arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,38 +14,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList-Activity\\Program.cs",
-              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
-              "RelativeToolTip": "ArrayList-Activity\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:18:58.278Z",
-=======
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
               "RelativeDocumentMoniker": "ArrayList-Activity\\Program.cs",
-              "ToolTip": "D:\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Full-Stack-Batch-27\\Asp.NetCore\\Chapter 4\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
               "RelativeToolTip": "ArrayList-Activity\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T07:38:38.102Z",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+              "WhenOpened": "2025-09-18T04:09:01.36Z",
               "EditorCaption": ""
             }
           ]
