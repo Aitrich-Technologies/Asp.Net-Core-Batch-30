@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpectionHandling1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bc19863506f00dd589f18d529169ffcd8681bb5")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1bf2d18071c7beadfbd55fd31425b96c4add5a")]
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
 [assembly: System.Reflection.AssemblyProductAttribute("ExpectionHandling1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpectionHandling1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
