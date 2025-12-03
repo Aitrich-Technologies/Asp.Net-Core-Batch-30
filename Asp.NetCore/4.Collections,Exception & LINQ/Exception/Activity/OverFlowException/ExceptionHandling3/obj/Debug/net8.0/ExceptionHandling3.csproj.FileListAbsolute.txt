@@ -1,0 +1,15 @@
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\bin\Debug\net8.0\ExceptionHandling3.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\bin\Debug\net8.0\ExceptionHandling3.deps.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\bin\Debug\net8.0\ExceptionHandling3.runtimeconfig.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\bin\Debug\net8.0\ExceptionHandling3.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\bin\Debug\net8.0\ExceptionHandling3.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.AssemblyInfoInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.AssemblyInfo.cs
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.csproj.CoreCompileInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.sourcelink.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\refint\ExceptionHandling3.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ExceptionHandling3.genruntimeconfig.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\OverFlowException\ExceptionHandling3\obj\Debug\net8.0\ref\ExceptionHandling3.dll

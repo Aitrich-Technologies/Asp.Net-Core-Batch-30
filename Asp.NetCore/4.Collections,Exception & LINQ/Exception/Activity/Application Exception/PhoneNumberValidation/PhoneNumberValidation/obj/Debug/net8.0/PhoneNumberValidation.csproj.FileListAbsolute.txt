@@ -1,0 +1,29 @@
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.AssemblyInfoInputs.cache
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.AssemblyInfo.cs
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.csproj.CoreCompileInputs.cache
+D:\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.exe
+D:\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.deps.json
+D:\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.runtimeconfig.json
+D:\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.dll
+D:\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.pdb
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.dll
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\refint\PhoneNumberValidation.dll
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.pdb
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.genruntimeconfig.cache
+D:\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\ref\PhoneNumberValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\refint\PhoneNumberValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\ref\PhoneNumberValidation.dll

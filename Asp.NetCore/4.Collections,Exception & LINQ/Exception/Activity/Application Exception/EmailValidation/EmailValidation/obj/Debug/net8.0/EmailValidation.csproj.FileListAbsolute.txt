@@ -1,0 +1,44 @@
+D:\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.exe
+D:\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.deps.json
+D:\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.runtimeconfig.json
+D:\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.dll
+D:\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.pdb
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfoInputs.cache
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfo.cs
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.csproj.CoreCompileInputs.cache
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.dll
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\refint\EmailValidation.dll
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
+D:\EmailValidation\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\refint\EmailValidation.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.deps.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.runtimeconfig.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfoInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfo.cs
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.sourcelink.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\refint\EmailValidation.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll
