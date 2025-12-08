@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\JOB_PORTAL_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\managers\\jobprovidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\managers\\jobprovidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\managers\\jobseekermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\managers\\jobseekermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\exceptions\\invalidjobexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\exceptions\\invalidjobexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|d:\\c#\\job_portal_exercise\\job_portal_exercise\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89C10F4-C30E-4399-BE78-312F3D20270C}|JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise.csproj|solutionrelative:job_portal_exercise\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobSeekerMenu.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Managers\\JobSeekerMenu.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Managers\\JobSeekerMenu.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Managers\\JobSeekerMenu.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Managers\\JobSeekerMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:45:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobProviderMenu.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Managers\\JobProviderMenu.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Managers\\JobProviderMenu.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Managers\\JobProviderMenu.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Managers\\JobProviderMenu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:44:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Services\\JobService.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Services\\JobService.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Services\\JobService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:44:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Services\\AuthService.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Services\\AuthService.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:43:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidJobException.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Exceptions\\InvalidJobException.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Exceptions\\InvalidJobException.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Exceptions\\InvalidJobException.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Exceptions\\InvalidJobException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:43:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Models\\Job.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Models\\Job.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Models\\Job.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:49.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Models\\User.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Models\\User.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Models\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_Exercise\\Program.cs",
+              "ToolTip": "D:\\c#\\JOB_PORTAL_Exercise\\JOB_PORTAL_Exercise\\Program.cs",
+              "RelativeToolTip": "JOB_PORTAL_Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:03:57.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

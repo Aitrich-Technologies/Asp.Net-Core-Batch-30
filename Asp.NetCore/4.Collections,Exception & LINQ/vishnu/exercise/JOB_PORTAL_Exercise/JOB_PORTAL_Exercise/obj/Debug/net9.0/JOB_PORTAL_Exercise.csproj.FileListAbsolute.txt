@@ -1,0 +1,14 @@
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\bin\Debug\net9.0\JOB_PORTAL_Exercise.exe
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\bin\Debug\net9.0\JOB_PORTAL_Exercise.deps.json
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\bin\Debug\net9.0\JOB_PORTAL_Exercise.runtimeconfig.json
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\bin\Debug\net9.0\JOB_PORTAL_Exercise.dll
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\bin\Debug\net9.0\JOB_PORTAL_Exercise.pdb
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.AssemblyInfoInputs.cache
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.AssemblyInfo.cs
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.csproj.CoreCompileInputs.cache
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.dll
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\refint\JOB_PORTAL_Exercise.dll
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.pdb
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\JOB_PORTAL_Exercise.genruntimeconfig.cache
+D:\c#\JOB_PORTAL_Exercise\JOB_PORTAL_Exercise\obj\Debug\net9.0\ref\JOB_PORTAL_Exercise.dll

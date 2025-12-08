@@ -1,0 +1,14 @@
+D:\c#\Linqexample\Linqexample\bin\Debug\net9.0\Linqexample.exe
+D:\c#\Linqexample\Linqexample\bin\Debug\net9.0\Linqexample.deps.json
+D:\c#\Linqexample\Linqexample\bin\Debug\net9.0\Linqexample.runtimeconfig.json
+D:\c#\Linqexample\Linqexample\bin\Debug\net9.0\Linqexample.dll
+D:\c#\Linqexample\Linqexample\bin\Debug\net9.0\Linqexample.pdb
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.AssemblyInfoInputs.cache
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.AssemblyInfo.cs
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.csproj.CoreCompileInputs.cache
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.dll
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\refint\Linqexample.dll
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.pdb
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\Linqexample.genruntimeconfig.cache
+D:\c#\Linqexample\Linqexample\obj\Debug\net9.0\ref\Linqexample.dll

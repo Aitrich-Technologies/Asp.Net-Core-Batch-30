@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "JOB_PORTAL_Exercise/1.0.0": {
+        "runtime": {
+          "JOB_PORTAL_Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JOB_PORTAL_Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

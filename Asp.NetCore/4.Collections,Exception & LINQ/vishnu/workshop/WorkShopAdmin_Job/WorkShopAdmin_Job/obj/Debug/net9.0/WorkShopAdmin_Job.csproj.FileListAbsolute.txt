@@ -1,0 +1,14 @@
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.AssemblyInfoInputs.cache
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.AssemblyInfo.cs
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.csproj.CoreCompileInputs.cache
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\bin\Debug\net9.0\WorkShopAdmin_Job.exe
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\bin\Debug\net9.0\WorkShopAdmin_Job.deps.json
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\bin\Debug\net9.0\WorkShopAdmin_Job.runtimeconfig.json
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\bin\Debug\net9.0\WorkShopAdmin_Job.dll
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\bin\Debug\net9.0\WorkShopAdmin_Job.pdb
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.dll
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\refint\WorkShopAdmin_Job.dll
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.pdb
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\WorkShopAdmin_Job.genruntimeconfig.cache
+D:\c#\WorkShopAdmin_Job\WorkShopAdmin_Job\obj\Debug\net9.0\ref\WorkShopAdmin_Job.dll
