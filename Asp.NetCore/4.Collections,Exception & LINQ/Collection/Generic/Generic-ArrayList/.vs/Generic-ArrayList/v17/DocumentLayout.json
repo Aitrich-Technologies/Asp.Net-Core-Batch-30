@@ -1,9 +1,23 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
       "RelativeMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|solutionrelative:generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,6 +34,7 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
               "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
@@ -27,6 +42,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T13:08:51.738Z",
+=======
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeToolTip": "Generic-ArrayList\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:44:24.635Z",
+=======
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeToolTip": "Generic-ArrayList\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1EAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:36:04.807Z",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
               "EditorCaption": ""
             }
           ]

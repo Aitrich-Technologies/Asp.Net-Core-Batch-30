@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5QZMvrRQsR8=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Queue-Activity.csproj",
+=======
+  "dgSpecHash": "cDv9ZDjM6kI=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\Queue-Activity\\Queue-Activity\\Queue-Activity.csproj",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
   "expectedPackageFiles": [],
   "logs": []
 }

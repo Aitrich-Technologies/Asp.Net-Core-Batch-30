@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "W0Wvh+MLivc=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\ArrayList-Activity.csproj",
+=======
+  "dgSpecHash": "ErYoxYn1IuU=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\ArrayList-Activity.csproj",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
   "expectedPackageFiles": [],
   "logs": []
 }
