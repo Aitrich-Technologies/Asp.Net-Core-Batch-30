@@ -1,0 +1,14 @@
+D:\C#\movie\movie\bin\Debug\net9.0\movie.exe
+D:\C#\movie\movie\bin\Debug\net9.0\movie.deps.json
+D:\C#\movie\movie\bin\Debug\net9.0\movie.runtimeconfig.json
+D:\C#\movie\movie\bin\Debug\net9.0\movie.dll
+D:\C#\movie\movie\bin\Debug\net9.0\movie.pdb
+D:\C#\movie\movie\obj\Debug\net9.0\movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\movie\movie\obj\Debug\net9.0\movie.AssemblyInfoInputs.cache
+D:\C#\movie\movie\obj\Debug\net9.0\movie.AssemblyInfo.cs
+D:\C#\movie\movie\obj\Debug\net9.0\movie.csproj.CoreCompileInputs.cache
+D:\C#\movie\movie\obj\Debug\net9.0\movie.dll
+D:\C#\movie\movie\obj\Debug\net9.0\refint\movie.dll
+D:\C#\movie\movie\obj\Debug\net9.0\movie.pdb
+D:\C#\movie\movie\obj\Debug\net9.0\movie.genruntimeconfig.cache
+D:\C#\movie\movie\obj\Debug\net9.0\ref\movie.dll
