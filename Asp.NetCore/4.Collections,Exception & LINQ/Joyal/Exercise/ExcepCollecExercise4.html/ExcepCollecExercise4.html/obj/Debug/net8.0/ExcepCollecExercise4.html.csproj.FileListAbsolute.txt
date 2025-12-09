@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.AssemblyInfo.cs
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\bin\Debug\net8.0\ExcepCollecExercise4.html.exe
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\bin\Debug\net8.0\ExcepCollecExercise4.html.deps.json
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\bin\Debug\net8.0\ExcepCollecExercise4.html.runtimeconfig.json
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\bin\Debug\net8.0\ExcepCollecExercise4.html.dll
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\bin\Debug\net8.0\ExcepCollecExercise4.html.pdb
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.dll
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\refint\ExcepCollecExercise4.html.dll
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.pdb
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ExcepCollecExercise4.html.genruntimeconfig.cache
+C:\Users\user\source\repos\ExcepCollecExercise4.html\ExcepCollecExercise4.html\obj\Debug\net8.0\ref\ExcepCollecExercise4.html.dll
