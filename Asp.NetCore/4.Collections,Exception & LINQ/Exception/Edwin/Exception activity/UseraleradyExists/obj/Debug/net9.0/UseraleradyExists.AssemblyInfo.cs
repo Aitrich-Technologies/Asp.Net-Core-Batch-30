@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UseraleradyExists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b069bd0f0a45c4a7de208fd15779aaec993f026")]
 [assembly: System.Reflection.AssemblyProductAttribute("UseraleradyExists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UseraleradyExists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

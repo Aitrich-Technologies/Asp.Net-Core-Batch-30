@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Queue-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+295cab1524e5a338abdc5afa6e36367e82561b24")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b069bd0f0a45c4a7de208fd15779aaec993f026")]
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
 [assembly: System.Reflection.AssemblyProductAttribute("Queue-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Queue-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\arraylist-activity\\arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
       "RelativeMoniker": "D:0:0:{C1CDDBB3-A350-417A-AD18-D21E5C5E2DE6}|ArrayList-Activity\\ArrayList-Activity.csproj|solutionrelative:arraylist-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
               "RelativeDocumentMoniker": "ArrayList-Activity\\Program.cs",
               "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
               "RelativeToolTip": "ArrayList-Activity\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+=======
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList-Activity\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\Program.cs",
+              "RelativeToolTip": "ArrayList-Activity\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAAAnAAAAAAAAAA==",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T04:09:01.36Z",
               "EditorCaption": ""

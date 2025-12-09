@@ -1,0 +1,4 @@
+C:\Users\prini\source\repos\Assesment\Assesment\obj\Debug\net8.0\Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prini\source\repos\Assesment\Assesment\obj\Debug\net8.0\Assesment.AssemblyInfoInputs.cache
+C:\Users\prini\source\repos\Assesment\Assesment\obj\Debug\net8.0\Assesment.AssemblyInfo.cs
+C:\Users\prini\source\repos\Assesment\Assesment\obj\Debug\net8.0\Assesment.csproj.CoreCompileInputs.cache

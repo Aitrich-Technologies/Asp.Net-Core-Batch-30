@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
   },
   "projects": {
@@ -12,12 +13,47 @@
         "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
         "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
         "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
+<<<<<<< HEAD
+    "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+  },
+  "projects": {
+    "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+        "projectPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+        "outputPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {}
+  },
+  "projects": {
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "projectName": "Generic-Dictionary",
+        "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,8 +79,15 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< HEAD
+        }
+=======
         },
         "SdkAnalysisLevel": "9.0.300"
+<<<<<<< HEAD
+=======
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +108,15 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
         }
       }
     }
