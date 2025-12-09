@@ -51,7 +51,7 @@ namespace MachineTestt
 
 
             movies .Remove(movie );
-            Console.WriteLine("Item removed successfully.");
+            Console.WriteLine("Movie removed");
         }
 
 

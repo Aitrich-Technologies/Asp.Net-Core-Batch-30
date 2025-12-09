@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\MachineTestt\\MachineTestt\\MachineTestt.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\MachineTestt.csproj",
       "projectName": "MachineTestt",
-      "projectPath": "D:\\c#\\MachineTestt\\MachineTestt\\MachineTestt.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\MachineTestt.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\MachineTestt\\MachineTestt\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

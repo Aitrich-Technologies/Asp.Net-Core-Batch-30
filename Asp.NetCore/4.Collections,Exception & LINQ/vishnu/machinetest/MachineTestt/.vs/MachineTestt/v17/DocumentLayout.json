@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\MachineTestt\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|d:\\c#\\machinetestt\\machinetestt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\4.collections,exception \u0026 linq\\vishnu\\machinetest\\machinetestt\\machinetestt\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|solutionrelative:machinetestt\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\4.collections,exception \u0026 linq\\vishnu\\machinetest\\machinetestt\\machinetestt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|solutionrelative:machinetestt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|d:\\c#\\machinetestt\\machinetestt\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|c:\\users\\hp\\onedrive\\desktop\\aitrich\\asp.net-core-batch-32\\asp.netcore\\4.collections,exception \u0026 linq\\vishnu\\machinetest\\machinetestt\\machinetestt\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|solutionrelative:machinetestt\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|d:\\c#\\machinetestt\\machinetestt\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C4FF280-BD11-4E88-8525-E5E391E20612}|MachineTestt\\MachineTestt.csproj|solutionrelative:machinetestt\\theatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +30,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Theatre.cs",
-              "DocumentMoniker": "D:\\c#\\MachineTestt\\MachineTestt\\Theatre.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Theatre.cs",
               "RelativeDocumentMoniker": "MachineTestt\\Theatre.cs",
-              "ToolTip": "D:\\c#\\MachineTestt\\MachineTestt\\Theatre.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Theatre.cs",
               "RelativeToolTip": "MachineTestt\\Theatre.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T04:54:55.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\c#\\MachineTestt\\MachineTestt\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Movie.cs",
               "RelativeDocumentMoniker": "MachineTestt\\Movie.cs",
-              "ToolTip": "D:\\c#\\MachineTestt\\MachineTestt\\Movie.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Movie.cs",
               "RelativeToolTip": "MachineTestt\\Movie.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T04:51:41.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T04:51:41.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\MachineTestt\\MachineTestt\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Program.cs",
               "RelativeDocumentMoniker": "MachineTestt\\Program.cs",
-              "ToolTip": "D:\\c#\\MachineTestt\\MachineTestt\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\vishnu\\machinetest\\MachineTestt\\MachineTestt\\Program.cs",
               "RelativeToolTip": "MachineTestt\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T04:46:11.573Z",
               "EditorCaption": ""
