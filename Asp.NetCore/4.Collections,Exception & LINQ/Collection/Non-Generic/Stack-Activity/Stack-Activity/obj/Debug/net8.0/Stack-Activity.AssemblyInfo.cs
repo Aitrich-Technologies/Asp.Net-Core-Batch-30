@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stack-Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe99aced6eab2152625cb49083aecf333c9d702")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b069bd0f0a45c4a7de208fd15779aaec993f026")]
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
 [assembly: System.Reflection.AssemblyProductAttribute("Stack-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stack-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

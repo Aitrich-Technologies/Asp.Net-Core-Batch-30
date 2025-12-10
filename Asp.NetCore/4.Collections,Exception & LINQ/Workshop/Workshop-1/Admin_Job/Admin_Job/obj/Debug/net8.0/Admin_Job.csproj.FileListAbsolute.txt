@@ -1,0 +1,78 @@
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCoreFSOnlineBatch-03\Csharp\Csharp-chapter 3\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+<<<<<<< HEAD
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+=======
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+>>>>>>> af56a9d52440e25b39b641f6132347d89c2ec065
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll

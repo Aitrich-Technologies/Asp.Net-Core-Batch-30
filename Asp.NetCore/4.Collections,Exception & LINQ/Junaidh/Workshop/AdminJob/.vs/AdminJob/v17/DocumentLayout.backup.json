@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collections\\AdminJob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:managers\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:managers\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|d:\\collections\\adminjob\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EC97EA-D1FD-46EB-9519-29D01D5EE806}|AdminJob.csproj|solutionrelative:enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Lists.cs",
+              "RelativeDocumentMoniker": "Lists.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Lists.cs",
+              "RelativeToolTip": "Lists.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:25:45.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "Managers\\UserManager.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Managers\\UserManager.cs",
+              "RelativeToolTip": "Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:44:11.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:33:56.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Managers\\AdminManager.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "Managers\\AdminManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:09:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:41:27.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:39:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:27:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:00:54.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Managers\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Managers\\PublicManager.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Managers\\PublicManager.cs",
+              "RelativeToolTip": "Managers\\PublicManager.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:41:59.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Managers\\JobManager.cs",
+              "RelativeDocumentMoniker": "Managers\\JobManager.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Managers\\JobManager.cs",
+              "RelativeToolTip": "Managers\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:37:32.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobProvider.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Interface\\IJobProvider.cs",
+              "RelativeToolTip": "Interface\\IJobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:58:55.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interface\\IMenu.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:59:39.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:05:29.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:03:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:24:33.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "D:\\Collections\\AdminJob\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Enums\\ExperienceLevel.cs",
+              "ToolTip": "D:\\Collections\\AdminJob\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:26:23.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

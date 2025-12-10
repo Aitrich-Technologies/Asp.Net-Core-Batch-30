@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidation", "EmailValidation.csproj", "{7E95ABB4-9CE9-44B6-A5EA-C0D8EC3314A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberValidation", "..\PhoneNumberValidation\PhoneNumberValidation.csproj", "{2370A2E9-9A5E-455F-92AE-533A38E95FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAlreadyExistsException", "..\UserAlreadyExistsException\UserAlreadyExistsException.csproj", "{AD06D365-FB42-4E21-8595-BBBA0544B055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "..\BankAccount\BankAccount.csproj", "{EE72D931-9C9E-4823-9146-A672AAE7229F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E95ABB4-9CE9-44B6-A5EA-C0D8EC3314A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E95ABB4-9CE9-44B6-A5EA-C0D8EC3314A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E95ABB4-9CE9-44B6-A5EA-C0D8EC3314A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E95ABB4-9CE9-44B6-A5EA-C0D8EC3314A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2370A2E9-9A5E-455F-92AE-533A38E95FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2370A2E9-9A5E-455F-92AE-533A38E95FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2370A2E9-9A5E-455F-92AE-533A38E95FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2370A2E9-9A5E-455F-92AE-533A38E95FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD06D365-FB42-4E21-8595-BBBA0544B055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD06D365-FB42-4E21-8595-BBBA0544B055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD06D365-FB42-4E21-8595-BBBA0544B055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD06D365-FB42-4E21-8595-BBBA0544B055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE72D931-9C9E-4823-9146-A672AAE7229F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE72D931-9C9E-4823-9146-A672AAE7229F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE72D931-9C9E-4823-9146-A672AAE7229F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE72D931-9C9E-4823-9146-A672AAE7229F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D16C74-D731-40BD-9B12-A323252F7791}
+	EndGlobalSection
+EndGlobal

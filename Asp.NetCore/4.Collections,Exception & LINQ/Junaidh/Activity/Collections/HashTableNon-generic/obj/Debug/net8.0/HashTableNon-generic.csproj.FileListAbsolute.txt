@@ -1,0 +1,14 @@
+D:\Collections\HashTableNon-generic\bin\Debug\net8.0\HashTableNon-generic.exe
+D:\Collections\HashTableNon-generic\bin\Debug\net8.0\HashTableNon-generic.deps.json
+D:\Collections\HashTableNon-generic\bin\Debug\net8.0\HashTableNon-generic.runtimeconfig.json
+D:\Collections\HashTableNon-generic\bin\Debug\net8.0\HashTableNon-generic.dll
+D:\Collections\HashTableNon-generic\bin\Debug\net8.0\HashTableNon-generic.pdb
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.AssemblyInfoInputs.cache
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.AssemblyInfo.cs
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.csproj.CoreCompileInputs.cache
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.dll
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\refint\HashTableNon-generic.dll
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.pdb
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\HashTableNon-generic.genruntimeconfig.cache
+D:\Collections\HashTableNon-generic\obj\Debug\net8.0\ref\HashTableNon-generic.dll

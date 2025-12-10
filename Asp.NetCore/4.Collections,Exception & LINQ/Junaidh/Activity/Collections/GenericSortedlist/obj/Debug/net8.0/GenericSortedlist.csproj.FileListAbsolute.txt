@@ -1,0 +1,14 @@
+D:\Collections\GenericSortedlist\bin\Debug\net8.0\GenericSortedlist.exe
+D:\Collections\GenericSortedlist\bin\Debug\net8.0\GenericSortedlist.deps.json
+D:\Collections\GenericSortedlist\bin\Debug\net8.0\GenericSortedlist.runtimeconfig.json
+D:\Collections\GenericSortedlist\bin\Debug\net8.0\GenericSortedlist.dll
+D:\Collections\GenericSortedlist\bin\Debug\net8.0\GenericSortedlist.pdb
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.AssemblyInfoInputs.cache
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.AssemblyInfo.cs
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.csproj.CoreCompileInputs.cache
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.dll
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\refint\GenericSortedlist.dll
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.pdb
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\GenericSortedlist.genruntimeconfig.cache
+D:\Collections\GenericSortedlist\obj\Debug\net8.0\ref\GenericSortedlist.dll

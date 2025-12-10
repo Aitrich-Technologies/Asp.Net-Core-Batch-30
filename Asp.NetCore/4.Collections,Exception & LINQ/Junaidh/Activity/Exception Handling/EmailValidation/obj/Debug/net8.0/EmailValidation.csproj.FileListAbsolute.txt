@@ -1,0 +1,14 @@
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfoInputs.cache
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfo.cs
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.csproj.CoreCompileInputs.cache
+D:\Exception Handling\EmailValidation\bin\Debug\net8.0\EmailValidation.exe
+D:\Exception Handling\EmailValidation\bin\Debug\net8.0\EmailValidation.deps.json
+D:\Exception Handling\EmailValidation\bin\Debug\net8.0\EmailValidation.runtimeconfig.json
+D:\Exception Handling\EmailValidation\bin\Debug\net8.0\EmailValidation.dll
+D:\Exception Handling\EmailValidation\bin\Debug\net8.0\EmailValidation.pdb
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.dll
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\refint\EmailValidation.dll
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
+D:\Exception Handling\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll

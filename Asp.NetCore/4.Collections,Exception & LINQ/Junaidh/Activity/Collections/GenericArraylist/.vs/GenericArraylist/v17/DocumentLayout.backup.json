@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collections\\GenericArraylist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED4435-0BB0-464D-9B65-85454AA5708A}|..\\LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\collections\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4AFF5D-BF5E-4D2B-94A5-313BF17F4739}|..\\GenericStack\\GenericStack.csproj|d:\\collections\\genericstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0FA0A6-EFF8-4B57-9F0E-FFE5E4ED62BF}|..\\GenericSortedlist\\GenericSortedlist.csproj|d:\\collections\\genericsortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF088C2-DA08-4E0C-916A-DCB8448D82CF}|..\\GenericQueue\\GenericQueue.csproj|d:\\collections\\genericqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29786CD7-A229-4163-A261-F1A84ABE02E7}|..\\GenericDictionary\\GenericDictionary.csproj|d:\\collections\\genericdictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77356EB1-5603-4CA6-A219-B66DA3968AFE}|GenericArraylist.csproj|d:\\collections\\genericarraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77356EB1-5603-4CA6-A219-B66DA3968AFE}|GenericArraylist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Collections\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "..\\LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:20:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\GenericStack\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericStack\\Program.cs",
+              "ToolTip": "D:\\Collections\\GenericStack\\Program.cs",
+              "RelativeToolTip": "..\\GenericStack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:12:05.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\GenericSortedlist\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericSortedlist\\Program.cs",
+              "ToolTip": "D:\\Collections\\GenericSortedlist\\Program.cs",
+              "RelativeToolTip": "..\\GenericSortedlist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:01:35.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\GenericQueue\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericQueue\\Program.cs",
+              "ToolTip": "D:\\Collections\\GenericQueue\\Program.cs",
+              "RelativeToolTip": "..\\GenericQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:56:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\GenericDictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericDictionary\\Program.cs",
+              "ToolTip": "D:\\Collections\\GenericDictionary\\Program.cs",
+              "RelativeToolTip": "..\\GenericDictionary\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:48:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\GenericArraylist\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Collections\\GenericArraylist\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T17:42:40.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

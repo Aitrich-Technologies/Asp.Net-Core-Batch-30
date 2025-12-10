@@ -1,0 +1,14 @@
+D:\Collections\ShipmentTrackingActivity\bin\Debug\net8.0\ShipmentTrackingActivity.exe
+D:\Collections\ShipmentTrackingActivity\bin\Debug\net8.0\ShipmentTrackingActivity.deps.json
+D:\Collections\ShipmentTrackingActivity\bin\Debug\net8.0\ShipmentTrackingActivity.runtimeconfig.json
+D:\Collections\ShipmentTrackingActivity\bin\Debug\net8.0\ShipmentTrackingActivity.dll
+D:\Collections\ShipmentTrackingActivity\bin\Debug\net8.0\ShipmentTrackingActivity.pdb
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.AssemblyInfoInputs.cache
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.AssemblyInfo.cs
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.csproj.CoreCompileInputs.cache
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.dll
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\refint\ShipmentTrackingActivity.dll
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.pdb
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ShipmentTrackingActivity.genruntimeconfig.cache
+D:\Collections\ShipmentTrackingActivity\obj\Debug\net8.0\ref\ShipmentTrackingActivity.dll

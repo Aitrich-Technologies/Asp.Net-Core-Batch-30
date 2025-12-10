@@ -1,0 +1,14 @@
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.AssemblyInfoInputs.cache
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.AssemblyInfo.cs
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.csproj.CoreCompileInputs.cache
+D:\Collections\StackNonGeneric\bin\Debug\net8.0\StackNonGeneric.exe
+D:\Collections\StackNonGeneric\bin\Debug\net8.0\StackNonGeneric.deps.json
+D:\Collections\StackNonGeneric\bin\Debug\net8.0\StackNonGeneric.runtimeconfig.json
+D:\Collections\StackNonGeneric\bin\Debug\net8.0\StackNonGeneric.dll
+D:\Collections\StackNonGeneric\bin\Debug\net8.0\StackNonGeneric.pdb
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.dll
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\refint\StackNonGeneric.dll
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.pdb
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\StackNonGeneric.genruntimeconfig.cache
+D:\Collections\StackNonGeneric\obj\Debug\net8.0\ref\StackNonGeneric.dll

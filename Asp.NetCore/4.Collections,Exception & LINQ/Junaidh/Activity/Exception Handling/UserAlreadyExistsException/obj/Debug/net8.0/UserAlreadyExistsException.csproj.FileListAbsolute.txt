@@ -1,0 +1,14 @@
+D:\Exception Handling\UserAlreadyExistsException\bin\Debug\net8.0\UserAlreadyExistsException.exe
+D:\Exception Handling\UserAlreadyExistsException\bin\Debug\net8.0\UserAlreadyExistsException.deps.json
+D:\Exception Handling\UserAlreadyExistsException\bin\Debug\net8.0\UserAlreadyExistsException.runtimeconfig.json
+D:\Exception Handling\UserAlreadyExistsException\bin\Debug\net8.0\UserAlreadyExistsException.dll
+D:\Exception Handling\UserAlreadyExistsException\bin\Debug\net8.0\UserAlreadyExistsException.pdb
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.AssemblyInfoInputs.cache
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.AssemblyInfo.cs
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.csproj.CoreCompileInputs.cache
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.dll
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\refint\UserAlreadyExistsException.dll
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.pdb
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\UserAlreadyExistsException.genruntimeconfig.cache
+D:\Exception Handling\UserAlreadyExistsException\obj\Debug\net8.0\ref\UserAlreadyExistsException.dll

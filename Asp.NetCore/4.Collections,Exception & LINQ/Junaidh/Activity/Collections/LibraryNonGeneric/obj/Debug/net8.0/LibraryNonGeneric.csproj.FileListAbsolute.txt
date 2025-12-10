@@ -1,0 +1,14 @@
+D:\Collections\LibraryNonGeneric\bin\Debug\net8.0\LibraryNonGeneric.exe
+D:\Collections\LibraryNonGeneric\bin\Debug\net8.0\LibraryNonGeneric.deps.json
+D:\Collections\LibraryNonGeneric\bin\Debug\net8.0\LibraryNonGeneric.runtimeconfig.json
+D:\Collections\LibraryNonGeneric\bin\Debug\net8.0\LibraryNonGeneric.dll
+D:\Collections\LibraryNonGeneric\bin\Debug\net8.0\LibraryNonGeneric.pdb
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.AssemblyInfoInputs.cache
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.AssemblyInfo.cs
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.csproj.CoreCompileInputs.cache
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.dll
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\refint\LibraryNonGeneric.dll
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.pdb
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\LibraryNonGeneric.genruntimeconfig.cache
+D:\Collections\LibraryNonGeneric\obj\Debug\net8.0\ref\LibraryNonGeneric.dll
