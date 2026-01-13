@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj": {}
   },
   "projects": {
@@ -13,6 +14,19 @@
         "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\obj\\",
+=======
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj": {}
+  },
+  "projects": {
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj",
+        "projectName": "SortedList-Activity",
+        "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj",
+        "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
+        "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
     "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj": {}
   },
@@ -32,7 +46,11 @@
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d

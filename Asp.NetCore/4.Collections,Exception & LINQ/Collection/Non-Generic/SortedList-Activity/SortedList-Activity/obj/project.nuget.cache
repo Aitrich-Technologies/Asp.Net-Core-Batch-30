@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "K7psVKdQX54=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj",
+=======
+  "dgSpecHash": "LaCLW4JhFCo=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\SortedList-Activity\\SortedList-Activity\\SortedList-Activity.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
   "dgSpecHash": "jEBDQ8LeVAU=",
   "success": true,

@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "hcNcNz6o5Xo=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+=======
+  "dgSpecHash": "f3p+gL3dSrw=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
   "dgSpecHash": "aMEXmBI/6zQ=",
@@ -21,10 +27,17 @@
       "code": "Undefined",
       "level": "Warning",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
       "warningLevel": 1,
       "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+=======
+      "message": "Problem reading the cache file C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
       "targetGraphs": []
 =======
 <<<<<<< HEAD

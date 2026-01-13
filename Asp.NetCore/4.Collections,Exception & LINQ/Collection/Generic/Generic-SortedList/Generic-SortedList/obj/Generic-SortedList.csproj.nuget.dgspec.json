@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj": {}
   },
   "projects": {
@@ -13,6 +14,19 @@
         "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\",
+=======
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj": {}
+  },
+  "projects": {
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+        "projectName": "Generic-SortedList",
+        "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+        "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
+        "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
     "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj": {}
@@ -46,7 +60,11 @@
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
           "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",

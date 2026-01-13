@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "/gJ7zjsmcq0=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
+=======
+  "dgSpecHash": "bDHkIDMi2to=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
   "dgSpecHash": "69l2aQKARPw=",
   "success": true,

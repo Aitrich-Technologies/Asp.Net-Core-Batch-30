@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj": {}
   },
   "projects": {
@@ -13,6 +14,19 @@
         "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\obj\\",
+=======
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj": {}
+  },
+  "projects": {
+    "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+        "projectName": "UserAlreadyExist-Exception",
+        "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+        "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
+        "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
     "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj": {}
   },
@@ -32,7 +46,11 @@
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b

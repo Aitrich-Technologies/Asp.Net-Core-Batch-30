@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "W0Wvh+MLivc=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\ArrayList-Activity.csproj",
+=======
+  "dgSpecHash": "Pf2ahfnXdgQ=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ArrayList-Activity\\ArrayList-Activity\\ArrayList-Activity.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
   "dgSpecHash": "ErYoxYn1IuU=",
   "success": true,

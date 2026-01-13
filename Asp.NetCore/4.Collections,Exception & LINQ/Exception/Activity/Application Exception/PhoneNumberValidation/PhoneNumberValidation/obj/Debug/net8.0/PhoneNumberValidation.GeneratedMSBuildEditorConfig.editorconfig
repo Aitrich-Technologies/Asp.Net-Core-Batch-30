@@ -9,7 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PhoneNumberValidation
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\
+=======
+build_property.ProjectDir = C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 build_property.ProjectDir = D:\Aitrch\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b

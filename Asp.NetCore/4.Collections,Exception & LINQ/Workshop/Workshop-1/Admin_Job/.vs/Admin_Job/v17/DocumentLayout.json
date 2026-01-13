@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\",
   "Documents": [
     {
@@ -68,6 +69,147 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\workshop\\workshop-1\\admin_job\\admin_job\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC0C38-3408-4319-BCC1-3058E61DBBC6}|Admin_Job\\Admin_Job.csproj|solutionrelative:admin_job\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
     }
   ],
   "DocumentGroupContainers": [
@@ -77,6 +219,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -136,25 +279,92 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
               "RelativeToolTip": "Admin_Job\\Interface\\IMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Lists.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\PublicManager.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\PublicManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T08:11:04.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Admin_Job\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\User.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeToolTip": "Admin_Job\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IMenu.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.396Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AdminManager.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Manager\\AdminManager.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
               "RelativeToolTip": "Admin_Job\\Manager\\AdminManager.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAwwEkAAAA1AAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\AdminManager.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\AdminManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T08:11:04.378Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "JobManager.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
@@ -162,25 +372,54 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
               "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 10,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T08:11:04.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UserManager.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Manager\\UserManager.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
               "RelativeToolTip": "Admin_Job\\Manager\\UserManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\UserManager.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.384Z",
+              "WhenOpened": "2025-06-27T08:11:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Lists.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
@@ -188,12 +427,34 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
               "RelativeToolTip": "Admin_Job\\Lists.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 16,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-23T04:40:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Lists.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Lists.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Lists.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T08:11:04.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
@@ -225,6 +486,14 @@
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Admin_Job\\Interface\\IUserRepository.cs",
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+=======
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "RelativeToolTip": "Admin_Job\\Interface\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,6 +502,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Job.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
@@ -240,12 +510,57 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
               "RelativeToolTip": "Admin_Job\\Models\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+=======
+              "DocumentIndex": 7,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IMenu.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IMenu.cs",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.404Z",
+              "WhenOpened": "2025-06-27T08:11:04.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Admin_Job\\Repository\\UserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\UserManager.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\UserManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\JobManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
               "Title": "Roles.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
@@ -253,12 +568,21 @@
               "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
               "RelativeToolTip": "Admin_Job\\Enums\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+=======
+              "DocumentIndex": 3,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\AdminManager.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\AdminManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\AdminManager.cs",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T08:11:04.388Z",
+              "WhenOpened": "2025-06-27T08:11:04.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
               "Title": "ExperienceLevel.cs",
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\ExperienceLevel.cs",
@@ -295,6 +619,188 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T08:11:04.394Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 2,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Manager\\PublicManager.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Manager\\PublicManager.cs",
+              "RelativeToolTip": "Admin_Job\\Manager\\PublicManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Program.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+=======
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Program.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJobProvider.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJobProvider.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IJobProvider.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IJobProvider.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Interface\\IJobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 10,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\Job.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+=======
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Admin_Job\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\Job.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\Job.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Models\\Job.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.404Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Models\\User.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Models\\User.cs",
+              "RelativeToolTip": "Admin_Job\\Models\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\ExperienceLevel.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Admin_Job\\Enums\\ExperienceLevel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+=======
+              "DocumentIndex": 14,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\Roles.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\Roles.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.388Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-23T04:40:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+=======
+              "DocumentIndex": 15,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Enums\\ExperienceLevel.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Admin_Job\\Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+              "RelativeToolTip": "Admin_Job\\Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.392Z"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Admin_Job\\Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:11:04.394Z"
+=======
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
             }
           ]
         }
