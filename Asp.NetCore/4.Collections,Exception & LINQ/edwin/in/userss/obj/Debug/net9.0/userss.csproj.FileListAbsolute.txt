@@ -1,0 +1,14 @@
+D:\C#\in\userss\bin\Debug\net9.0\userss.exe
+D:\C#\in\userss\bin\Debug\net9.0\userss.deps.json
+D:\C#\in\userss\bin\Debug\net9.0\userss.runtimeconfig.json
+D:\C#\in\userss\bin\Debug\net9.0\userss.dll
+D:\C#\in\userss\bin\Debug\net9.0\userss.pdb
+D:\C#\in\userss\obj\Debug\net9.0\userss.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\in\userss\obj\Debug\net9.0\userss.AssemblyInfoInputs.cache
+D:\C#\in\userss\obj\Debug\net9.0\userss.AssemblyInfo.cs
+D:\C#\in\userss\obj\Debug\net9.0\userss.csproj.CoreCompileInputs.cache
+D:\C#\in\userss\obj\Debug\net9.0\userss.dll
+D:\C#\in\userss\obj\Debug\net9.0\refint\userss.dll
+D:\C#\in\userss\obj\Debug\net9.0\userss.pdb
+D:\C#\in\userss\obj\Debug\net9.0\userss.genruntimeconfig.cache
+D:\C#\in\userss\obj\Debug\net9.0\ref\userss.dll

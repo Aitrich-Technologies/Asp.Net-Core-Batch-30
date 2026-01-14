@@ -1,0 +1,4 @@
+D:\C#\WorkshopCollection\Exericseee\obj\Debug\net9.0\Exericseee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WorkshopCollection\Exericseee\obj\Debug\net9.0\Exericseee.AssemblyInfoInputs.cache
+D:\C#\WorkshopCollection\Exericseee\obj\Debug\net9.0\Exericseee.AssemblyInfo.cs
+D:\C#\WorkshopCollection\Exericseee\obj\Debug\net9.0\Exericseee.csproj.CoreCompileInputs.cache

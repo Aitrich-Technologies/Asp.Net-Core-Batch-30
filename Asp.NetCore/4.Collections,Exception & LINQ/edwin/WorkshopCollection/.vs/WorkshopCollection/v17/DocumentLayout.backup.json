@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\WorkshopCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\repository\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\repository\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\repository\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\repository\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\exception\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\exception\\alreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\exception\\jobnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\exception\\jobnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\exception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\exception\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\exception\\invalidchoiceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|d:\\c#\\workshopcollection\\exericseee\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACF3700-7B25-4BE9-98A2-0FB93FD0DD04}|Exericseee\\Exericseee.csproj|solutionrelative:exericseee\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|d:\\c#\\workshopcollection\\exercisee\\manager\\jobportalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|solutionrelative:exercisee\\manager\\jobportalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|d:\\c#\\workshopcollection\\exercisee\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|solutionrelative:exercisee\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|d:\\c#\\workshopcollection\\exercisee\\exception\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|solutionrelative:exercisee\\exception\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|d:\\c#\\workshopcollection\\exercisee\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|solutionrelative:exercisee\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|d:\\c#\\workshopcollection\\exercisee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBACEAF7-A4BA-4D15-AAFC-A2780409E60F}|Exercisee\\Exercisee.csproj|solutionrelative:exercisee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Repository\\UserMenu.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Repository\\UserMenu.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Repository\\UserMenu.cs",
+              "RelativeToolTip": "Exericseee\\Repository\\UserMenu.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:50:03.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Repository\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Repository\\MainMenu.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Repository\\MainMenu.cs",
+              "RelativeToolTip": "Exericseee\\Repository\\MainMenu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:49:48.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Services\\JobService.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\JobService.cs",
+              "RelativeToolTip": "Exericseee\\Services\\JobService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:27:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Services\\ApplicationService.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "Exericseee\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:27:16.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Program.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Program.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Program.cs",
+              "RelativeToolTip": "Exericseee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:21:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Model\\User.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\User.cs",
+              "RelativeToolTip": "Exericseee\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:22:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Model\\Job.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Job.cs",
+              "RelativeToolTip": "Exericseee\\Model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:22:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Model\\Application.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Application.cs",
+              "RelativeToolTip": "Exericseee\\Model\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:23:06.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Interview.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Model\\Interview.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Model\\Interview.cs",
+              "RelativeToolTip": "Exericseee\\Model\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:23:18.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Userservice.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\Userservice.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Services\\Userservice.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\Userservice.cs",
+              "RelativeToolTip": "Exericseee\\Services\\Userservice.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:45:33.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\AlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Exception\\AlreadyExistsException.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\AlreadyExistsException.cs",
+              "RelativeToolTip": "Exericseee\\Exception\\AlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:42:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobNotFoundException.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\JobNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Exception\\JobNotFoundException.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\JobNotFoundException.cs",
+              "RelativeToolTip": "Exericseee\\Exception\\JobNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:42:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\InterviewService.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Services\\InterviewService.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\InterviewService.cs",
+              "RelativeToolTip": "Exericseee\\Services\\InterviewService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:27:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Exception\\UserNotFoundException.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\UserNotFoundException.cs",
+              "RelativeToolTip": "Exericseee\\Exception\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:42:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidChoiceException.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\InvalidChoiceException.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Exception\\InvalidChoiceException.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Exception\\InvalidChoiceException.cs",
+              "RelativeToolTip": "Exericseee\\Exception\\InvalidChoiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:42:05.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Exericseee\\Services\\AuthService.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exericseee\\Services\\AuthService.cs",
+              "RelativeToolTip": "Exericseee\\Services\\AuthService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:26:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exercisee\\Exception\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Exercisee\\Exception\\UserAlreadyExistsException.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exercisee\\Exception\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Exercisee\\Exception\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:30:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exercisee\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Exercisee\\Models\\Job.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exercisee\\Models\\Job.cs",
+              "RelativeToolTip": "Exercisee\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:27:57.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobPortalManager.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exercisee\\Manager\\JobPortalManager.cs",
+              "RelativeDocumentMoniker": "Exercisee\\Manager\\JobPortalManager.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exercisee\\Manager\\JobPortalManager.cs",
+              "RelativeToolTip": "Exercisee\\Manager\\JobPortalManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:24:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exercisee\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Exercisee\\Models\\User.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exercisee\\Models\\User.cs",
+              "RelativeToolTip": "Exercisee\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:24:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\WorkshopCollection\\Exercisee\\Program.cs",
+              "RelativeDocumentMoniker": "Exercisee\\Program.cs",
+              "ToolTip": "D:\\C#\\WorkshopCollection\\Exercisee\\Program.cs",
+              "RelativeToolTip": "Exercisee\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwGsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:59:28.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

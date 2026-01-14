@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Hashtable\bin\Debug\net9.0\Hashtable.exe
+D:\C#\CollectionArraylist\Hashtable\bin\Debug\net9.0\Hashtable.deps.json
+D:\C#\CollectionArraylist\Hashtable\bin\Debug\net9.0\Hashtable.runtimeconfig.json
+D:\C#\CollectionArraylist\Hashtable\bin\Debug\net9.0\Hashtable.dll
+D:\C#\CollectionArraylist\Hashtable\bin\Debug\net9.0\Hashtable.pdb
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.dll
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\refint\Hashtable.dll
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.pdb
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\Hashtable.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Hashtable\obj\Debug\net9.0\ref\Hashtable.dll

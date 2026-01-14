@@ -1,0 +1,14 @@
+D:\C#\shoppingcart\shoppingcart\bin\Debug\net9.0\shoppingcart.exe
+D:\C#\shoppingcart\shoppingcart\bin\Debug\net9.0\shoppingcart.deps.json
+D:\C#\shoppingcart\shoppingcart\bin\Debug\net9.0\shoppingcart.runtimeconfig.json
+D:\C#\shoppingcart\shoppingcart\bin\Debug\net9.0\shoppingcart.dll
+D:\C#\shoppingcart\shoppingcart\bin\Debug\net9.0\shoppingcart.pdb
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.AssemblyInfoInputs.cache
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.AssemblyInfo.cs
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.csproj.CoreCompileInputs.cache
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.dll
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\refint\shoppingcart.dll
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.pdb
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\shoppingcart.genruntimeconfig.cache
+D:\C#\shoppingcart\shoppingcart\obj\Debug\net9.0\ref\shoppingcart.dll

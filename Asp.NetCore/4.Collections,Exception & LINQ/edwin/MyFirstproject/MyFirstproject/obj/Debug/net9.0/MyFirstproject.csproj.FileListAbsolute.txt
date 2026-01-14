@@ -1,0 +1,14 @@
+D:\C#\MyFirstproject\MyFirstproject\bin\Debug\net9.0\MyFirstproject.exe
+D:\C#\MyFirstproject\MyFirstproject\bin\Debug\net9.0\MyFirstproject.deps.json
+D:\C#\MyFirstproject\MyFirstproject\bin\Debug\net9.0\MyFirstproject.runtimeconfig.json
+D:\C#\MyFirstproject\MyFirstproject\bin\Debug\net9.0\MyFirstproject.dll
+D:\C#\MyFirstproject\MyFirstproject\bin\Debug\net9.0\MyFirstproject.pdb
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.AssemblyInfoInputs.cache
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.AssemblyInfo.cs
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.csproj.CoreCompileInputs.cache
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.dll
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\refint\MyFirstproject.dll
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.pdb
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\MyFirstproject.genruntimeconfig.cache
+D:\C#\MyFirstproject\MyFirstproject\obj\Debug\net9.0\ref\MyFirstproject.dll

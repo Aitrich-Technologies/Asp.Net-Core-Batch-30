@@ -1,0 +1,4 @@
+D:\C#\Movies\Movies\obj\Debug\net9.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Movies\Movies\obj\Debug\net9.0\Movies.AssemblyInfoInputs.cache
+D:\C#\Movies\Movies\obj\Debug\net9.0\Movies.AssemblyInfo.cs
+D:\C#\Movies\Movies\obj\Debug\net9.0\Movies.csproj.CoreCompileInputs.cache

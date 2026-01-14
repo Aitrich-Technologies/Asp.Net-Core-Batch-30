@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Extra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|d:\\c#\\extra\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|d:\\c#\\extra\\q2\\department .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|solutionrelative:q2\\department .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|d:\\c#\\extra\\q2\\stuent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA58FB-0DD1-4247-B9FA-417E97675514}|Q2\\Q2.csproj|solutionrelative:q2\\stuent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department .cs",
+              "DocumentMoniker": "D:\\C#\\Extra\\Q2\\Department .cs",
+              "RelativeDocumentMoniker": "Q2\\Department .cs",
+              "ToolTip": "D:\\C#\\Extra\\Q2\\Department .cs",
+              "RelativeToolTip": "Q2\\Department .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:19:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stuent.cs",
+              "DocumentMoniker": "D:\\C#\\Extra\\Q2\\Stuent.cs",
+              "RelativeDocumentMoniker": "Q2\\Stuent.cs",
+              "ToolTip": "D:\\C#\\Extra\\Q2\\Stuent.cs",
+              "RelativeToolTip": "Q2\\Stuent.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:11:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Extra\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "D:\\C#\\Extra\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:10:51.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

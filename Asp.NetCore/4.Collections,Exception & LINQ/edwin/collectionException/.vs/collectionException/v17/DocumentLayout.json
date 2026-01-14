@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\collectionException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\repository\\providermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\repository\\providermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\services\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\repository\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\repository\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\repository\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\repository\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|d:\\c#\\collectionexception\\collectionexception\\exceptions\\portalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACAC9A4-2377-4338-8B65-FCAAF6BE09E4}|collectionException\\collectionException.csproj|solutionrelative:collectionexception\\exceptions\\portalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Repository\\UserMenu.cs",
+              "RelativeDocumentMoniker": "collectionException\\Repository\\UserMenu.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Repository\\UserMenu.cs",
+              "RelativeToolTip": "collectionException\\Repository\\UserMenu.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA7wFAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:21:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Repository\\MainMenu.cs",
+              "RelativeDocumentMoniker": "collectionException\\Repository\\MainMenu.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Repository\\MainMenu.cs",
+              "RelativeToolTip": "collectionException\\Repository\\MainMenu.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:21:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProviderMenu.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Repository\\ProviderMenu.cs",
+              "RelativeDocumentMoniker": "collectionException\\Repository\\ProviderMenu.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Repository\\ProviderMenu.cs",
+              "RelativeToolTip": "collectionException\\Repository\\ProviderMenu.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:22:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "collectionException\\Services\\ApplicationService.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "collectionException\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:02:52.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Services\\InterviewService.cs",
+              "RelativeDocumentMoniker": "collectionException\\Services\\InterviewService.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Services\\InterviewService.cs",
+              "RelativeToolTip": "collectionException\\Services\\InterviewService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:03:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "collectionException\\Services\\JobService.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Services\\JobService.cs",
+              "RelativeToolTip": "collectionException\\Services\\JobService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:02:26.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Userservice.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Services\\Userservice.cs",
+              "RelativeDocumentMoniker": "collectionException\\Services\\Userservice.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Services\\Userservice.cs",
+              "RelativeToolTip": "collectionException\\Services\\Userservice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:01:19.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Program.cs",
+              "RelativeDocumentMoniker": "collectionException\\Program.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Program.cs",
+              "RelativeToolTip": "collectionException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:29:24.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "collectionException\\Model\\Job.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Model\\Job.cs",
+              "RelativeToolTip": "collectionException\\Model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:34:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Model\\Interview.cs",
+              "RelativeDocumentMoniker": "collectionException\\Model\\Interview.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Model\\Interview.cs",
+              "RelativeToolTip": "collectionException\\Model\\Interview.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:27:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "collectionException\\Model\\Application.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Model\\Application.cs",
+              "RelativeToolTip": "collectionException\\Model\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:34:39.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PortalException.cs",
+              "DocumentMoniker": "D:\\C#\\collectionException\\collectionException\\Exceptions\\PortalException.cs",
+              "RelativeDocumentMoniker": "collectionException\\Exceptions\\PortalException.cs",
+              "ToolTip": "D:\\C#\\collectionException\\collectionException\\Exceptions\\PortalException.cs",
+              "RelativeToolTip": "collectionException\\Exceptions\\PortalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:27:45.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

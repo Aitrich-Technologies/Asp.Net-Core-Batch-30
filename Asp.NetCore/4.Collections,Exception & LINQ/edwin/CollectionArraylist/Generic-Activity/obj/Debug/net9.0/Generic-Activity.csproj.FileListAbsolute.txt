@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Generic-Activity\bin\Debug\net9.0\Generic-Activity.exe
+D:\C#\CollectionArraylist\Generic-Activity\bin\Debug\net9.0\Generic-Activity.deps.json
+D:\C#\CollectionArraylist\Generic-Activity\bin\Debug\net9.0\Generic-Activity.runtimeconfig.json
+D:\C#\CollectionArraylist\Generic-Activity\bin\Debug\net9.0\Generic-Activity.dll
+D:\C#\CollectionArraylist\Generic-Activity\bin\Debug\net9.0\Generic-Activity.pdb
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.dll
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\refint\Generic-Activity.dll
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.pdb
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\Generic-Activity.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Generic-Activity\obj\Debug\net9.0\ref\Generic-Activity.dll

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CollectionArraylist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D08E49-426A-424D-A958-169185E1E971}|Generic-Activity\\Generic-Activity.csproj|d:\\c#\\collectionarraylist\\generic-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D08E49-426A-424D-A958-169185E1E971}|Generic-Activity\\Generic-Activity.csproj|solutionrelative:generic-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C207A4-728C-4C21-ABB5-09E605A508A8}|Generic-Stack\\Generic-Stack.csproj|d:\\c#\\collectionarraylist\\generic-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C207A4-728C-4C21-ABB5-09E605A508A8}|Generic-Stack\\Generic-Stack.csproj|solutionrelative:generic-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E33997-EEBB-4BEC-8E94-BAE7D4C41421}|Generic -Sortedlist\\Generic -Sortedlist.csproj|d:\\c#\\collectionarraylist\\generic -sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E33997-EEBB-4BEC-8E94-BAE7D4C41421}|Generic -Sortedlist\\Generic -Sortedlist.csproj|solutionrelative:generic -sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8FD1A4-327E-4278-A52F-2103BB6C31ED}|Generic - Queue\\Generic - Queue.csproj|d:\\c#\\collectionarraylist\\generic - queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8FD1A4-327E-4278-A52F-2103BB6C31ED}|Generic - Queue\\Generic - Queue.csproj|solutionrelative:generic - queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2F997D-2525-4B16-B8A3-798F83F58ABE}|Generic -Dictionary\\Generic -Dictionary.csproj|d:\\c#\\collectionarraylist\\generic -dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2F997D-2525-4B16-B8A3-798F83F58ABE}|Generic -Dictionary\\Generic -Dictionary.csproj|solutionrelative:generic -dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67DC480-945C-4FF5-BB1F-4F3EC6037D02}|Generic-Arraylist\\Generic-Arraylist.csproj|d:\\c#\\collectionarraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67DC480-945C-4FF5-BB1F-4F3EC6037D02}|Generic-Arraylist\\Generic-Arraylist.csproj|solutionrelative:generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE0F3C8-68CE-4AB8-9CAF-E9B4C785F58F}|SortedArray\\SortedArray.csproj|d:\\c#\\collectionarraylist\\sortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE0F3C8-68CE-4AB8-9CAF-E9B4C785F58F}|SortedArray\\SortedArray.csproj|solutionrelative:sortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA93B767-D9EB-4B30-BE38-FBD194A2548B}|ShipmentTrackingSystem\\ShipmentTrackingSystem.csproj|d:\\c#\\collectionarraylist\\shipmenttrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA93B767-D9EB-4B30-BE38-FBD194A2548B}|ShipmentTrackingSystem\\ShipmentTrackingSystem.csproj|solutionrelative:shipmenttrackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA318BD-4047-49EC-A138-97C99BD0EB35}|Stack\\Stack.csproj|d:\\c#\\collectionarraylist\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA318BD-4047-49EC-A138-97C99BD0EB35}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E321A9-0AB8-4FBA-AA0E-0EA3097FB357}|TicketCounter\\TicketCounter.csproj|d:\\c#\\collectionarraylist\\ticketcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E321A9-0AB8-4FBA-AA0E-0EA3097FB357}|TicketCounter\\TicketCounter.csproj|solutionrelative:ticketcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6196A64E-9883-477D-9D24-9A6E8D23E88C}|Hashtable\\Hashtable.csproj|d:\\c#\\collectionarraylist\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6196A64E-9883-477D-9D24-9A6E8D23E88C}|Hashtable\\Hashtable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19200029-A7D3-404F-BF1D-E84335DD794B}|ArrayList\\ArrayList.csproj|d:\\c#\\collectionarraylist\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19200029-A7D3-404F-BF1D-E84335DD794B}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F83E9B1-E2E4-4517-BBDD-EE98103F82B5}|CollectionArraylist\\CollectionArraylist.csproj|d:\\c#\\collectionarraylist\\collectionarraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F83E9B1-E2E4-4517-BBDD-EE98103F82B5}|CollectionArraylist\\CollectionArraylist.csproj|solutionrelative:collectionarraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Activity\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic-Activity\\Program.cs",
+              "RelativeToolTip": "Generic-Activity\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:10:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic-Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Stack\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic-Stack\\Program.cs",
+              "RelativeToolTip": "Generic-Stack\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:02:47.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic -Sortedlist\\Program.cs",
+              "RelativeDocumentMoniker": "Generic -Sortedlist\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic -Sortedlist\\Program.cs",
+              "RelativeToolTip": "Generic -Sortedlist\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:59:44.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic - Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Generic - Queue\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic - Queue\\Program.cs",
+              "RelativeToolTip": "Generic - Queue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:56:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic -Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Generic -Dictionary\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic -Dictionary\\Program.cs",
+              "RelativeToolTip": "Generic -Dictionary\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:51:08.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Generic-Arraylist\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Arraylist\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Generic-Arraylist\\Program.cs",
+              "RelativeToolTip": "Generic-Arraylist\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:35:49.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\ShipmentTrackingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ShipmentTrackingSystem\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\ShipmentTrackingSystem\\Program.cs",
+              "RelativeToolTip": "ShipmentTrackingSystem\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:27:38.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:21:32.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\SortedArray\\Program.cs",
+              "RelativeDocumentMoniker": "SortedArray\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\SortedArray\\Program.cs",
+              "RelativeToolTip": "SortedArray\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:13:35.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\TicketCounter\\Program.cs",
+              "RelativeDocumentMoniker": "TicketCounter\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\TicketCounter\\Program.cs",
+              "RelativeToolTip": "TicketCounter\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:07:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\Hashtable\\Program.cs",
+              "RelativeDocumentMoniker": "Hashtable\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\Hashtable\\Program.cs",
+              "RelativeToolTip": "Hashtable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:36:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:37:38.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionArraylist\\CollectionArraylist\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionArraylist\\Program.cs",
+              "ToolTip": "D:\\C#\\CollectionArraylist\\CollectionArraylist\\Program.cs",
+              "RelativeToolTip": "CollectionArraylist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:31:31.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

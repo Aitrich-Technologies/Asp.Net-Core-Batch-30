@@ -1,0 +1,14 @@
+D:\C#\CollectionArraylist\Generic-Arraylist\bin\Debug\net9.0\Generic-Arraylist.exe
+D:\C#\CollectionArraylist\Generic-Arraylist\bin\Debug\net9.0\Generic-Arraylist.deps.json
+D:\C#\CollectionArraylist\Generic-Arraylist\bin\Debug\net9.0\Generic-Arraylist.runtimeconfig.json
+D:\C#\CollectionArraylist\Generic-Arraylist\bin\Debug\net9.0\Generic-Arraylist.dll
+D:\C#\CollectionArraylist\Generic-Arraylist\bin\Debug\net9.0\Generic-Arraylist.pdb
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.AssemblyInfoInputs.cache
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.AssemblyInfo.cs
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.csproj.CoreCompileInputs.cache
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.dll
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\refint\Generic-Arraylist.dll
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.pdb
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\Generic-Arraylist.genruntimeconfig.cache
+D:\C#\CollectionArraylist\Generic-Arraylist\obj\Debug\net9.0\ref\Generic-Arraylist.dll

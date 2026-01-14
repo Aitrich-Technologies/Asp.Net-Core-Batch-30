@@ -1,0 +1,14 @@
+D:\C#\WorkshopCollection\Exercisee\bin\Debug\net9.0\Exercisee.exe
+D:\C#\WorkshopCollection\Exercisee\bin\Debug\net9.0\Exercisee.deps.json
+D:\C#\WorkshopCollection\Exercisee\bin\Debug\net9.0\Exercisee.runtimeconfig.json
+D:\C#\WorkshopCollection\Exercisee\bin\Debug\net9.0\Exercisee.dll
+D:\C#\WorkshopCollection\Exercisee\bin\Debug\net9.0\Exercisee.pdb
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.AssemblyInfoInputs.cache
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.AssemblyInfo.cs
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.csproj.CoreCompileInputs.cache
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.dll
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\refint\Exercisee.dll
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.pdb
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\Exercisee.genruntimeconfig.cache
+D:\C#\WorkshopCollection\Exercisee\obj\Debug\net9.0\ref\Exercisee.dll

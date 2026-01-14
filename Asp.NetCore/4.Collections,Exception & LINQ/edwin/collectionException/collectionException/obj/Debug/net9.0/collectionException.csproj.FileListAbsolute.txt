@@ -1,0 +1,14 @@
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.AssemblyInfoInputs.cache
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.AssemblyInfo.cs
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.csproj.CoreCompileInputs.cache
+D:\C#\collectionException\collectionException\bin\Debug\net9.0\collectionException.exe
+D:\C#\collectionException\collectionException\bin\Debug\net9.0\collectionException.deps.json
+D:\C#\collectionException\collectionException\bin\Debug\net9.0\collectionException.runtimeconfig.json
+D:\C#\collectionException\collectionException\bin\Debug\net9.0\collectionException.dll
+D:\C#\collectionException\collectionException\bin\Debug\net9.0\collectionException.pdb
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.dll
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\refint\collectionException.dll
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.pdb
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\collectionException.genruntimeconfig.cache
+D:\C#\collectionException\collectionException\obj\Debug\net9.0\ref\collectionException.dll
