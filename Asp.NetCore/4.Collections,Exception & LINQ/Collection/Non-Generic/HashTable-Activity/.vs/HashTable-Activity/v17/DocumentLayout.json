@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\hashtable-activity\\hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\hashtable-activity\\hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\hashtable-activity\\hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+      "RelativeMoniker": "D:0:0:{F2D90030-5471-4DA8-AA61-0B6FF9FFDF81}|HashTable-Activity\\HashTable-Activity.csproj|solutionrelative:hashtable-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable-Activity\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeToolTip": "HashTable-Activity\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAAAIAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable-Activity\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeToolTip": "HashTable-Activity\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable-Activity\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\Program.cs",
+              "RelativeToolTip": "HashTable-Activity\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAbAAAAAAAAAA==",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:09:37.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

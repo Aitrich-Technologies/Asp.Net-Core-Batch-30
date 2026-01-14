@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "fj7aN6KBSc8=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\EncapAbstrInheriActivity\\EncapAbstrInheriActivity.csproj",
+=======
   "dgSpecHash": "s6vKuxaxzcY=",
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\EncapAbstrInheriActivity\\EncapAbstrInheriActivity.csproj",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
   "expectedPackageFiles": [],
   "logs": []
 }

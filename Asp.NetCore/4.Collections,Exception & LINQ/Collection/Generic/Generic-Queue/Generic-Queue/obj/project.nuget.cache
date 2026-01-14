@@ -1,0 +1,43 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "JwMhOrarf9U=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "vumTvOSZnnk=",
+  "success": true,
+  "projectFilePath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+=======
+  "dgSpecHash": "uAd/OOCLcI0=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+<<<<<<< HEAD
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+      "targetGraphs": []
+=======
+<<<<<<< HEAD
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+      "targetGraphs": []
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+    }
+  ]
+}

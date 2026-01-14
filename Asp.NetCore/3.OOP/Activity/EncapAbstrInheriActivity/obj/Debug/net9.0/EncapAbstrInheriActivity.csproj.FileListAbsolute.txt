@@ -1,0 +1,15 @@
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\bin\Debug\net9.0\EncapAbstrInheriActivity.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\bin\Debug\net9.0\EncapAbstrInheriActivity.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\bin\Debug\net9.0\EncapAbstrInheriActivity.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\bin\Debug\net9.0\EncapAbstrInheriActivity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\bin\Debug\net9.0\EncapAbstrInheriActivity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\refint\EncapAbstrInheriActivity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\EncapAbstrInheriActivity.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\EncapAbstrInheriActivity\obj\Debug\net9.0\ref\EncapAbstrInheriActivity.dll

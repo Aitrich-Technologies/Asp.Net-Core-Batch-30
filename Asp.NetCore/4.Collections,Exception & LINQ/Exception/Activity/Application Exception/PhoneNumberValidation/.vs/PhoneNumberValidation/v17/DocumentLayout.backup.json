@@ -1,5 +1,15 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA1586E-E129-41B8-BF3B-A46A30B6B957}|PhoneNumberValidation\\PhoneNumberValidation.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\phonenumbervalidation\\phonenumbervalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA1586E-E129-41B8-BF3B-A46A30B6B957}|PhoneNumberValidation\\PhoneNumberValidation.csproj|solutionrelative:phonenumbervalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA1586E-E129-41B8-BF3B-A46A30B6B957}|PhoneNumberValidation\\PhoneNumberValidation.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\phonenumbervalidation\\phonenumbervalidation\\exception\\invalidphonenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
   "WorkspaceRootPath": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\",
   "Documents": [
     {
@@ -8,6 +18,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AA1586E-E129-41B8-BF3B-A46A30B6B957}|PhoneNumberValidation\\PhoneNumberValidation.csproj|c:\\batch31\\asp.net-core-batch-31\\4.collection, exception \u0026 linq\\exception\\activity\\application exception\\phonenumbervalidation\\phonenumbervalidation\\exception\\invalidphonenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
       "RelativeMoniker": "D:0:0:{0AA1586E-E129-41B8-BF3B-A46A30B6B957}|PhoneNumberValidation\\PhoneNumberValidation.csproj|solutionrelative:phonenumbervalidation\\exception\\invalidphonenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +35,15 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "InvalidPhoneNumberException.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
+              "RelativeDocumentMoniker": "PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
+=======
               "DocumentMoniker": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
               "RelativeDocumentMoniker": "PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
               "ToolTip": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
               "RelativeToolTip": "PhoneNumberValidation\\Exception\\InvalidPhoneNumberException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,11 +54,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneNumberValidation\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Program.cs",
+              "RelativeToolTip": "PhoneNumberValidation\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAA4AAAAAAAAAA==",
+=======
               "DocumentMoniker": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Program.cs",
               "RelativeDocumentMoniker": "PhoneNumberValidation\\Program.cs",
               "ToolTip": "C:\\Batch31\\Asp.net-Core-Batch-31\\4.Collection, Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\Program.cs",
               "RelativeToolTip": "PhoneNumberValidation\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T10:31:42.418Z",
               "EditorCaption": ""
