@@ -9,7 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Generic_ArrayList
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\
+=======
+build_property.ProjectDir = C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
 build_property.ProjectDir = D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-ArrayList\Generic-ArrayList\

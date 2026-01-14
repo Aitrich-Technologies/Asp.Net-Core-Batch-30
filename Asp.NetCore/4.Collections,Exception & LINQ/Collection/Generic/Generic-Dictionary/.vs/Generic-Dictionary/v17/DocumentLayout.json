@@ -1,10 +1,17 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{E6070455-C4A8-4167-9D84-027AB9F26D5E}|Generic-Dictionary\\Generic-Dictionary.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-dictionary\\generic-dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6070455-C4A8-4167-9D84-027AB9F26D5E}|Generic-Dictionary\\Generic-Dictionary.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-dictionary\\generic-dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\",
@@ -50,6 +57,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Dictionary\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Program.cs",
+              "RelativeToolTip": "Generic-Dictionary\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:58:01.148Z",
+=======
 <<<<<<< HEAD
               "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "Generic-Dictionary\\Program.cs",

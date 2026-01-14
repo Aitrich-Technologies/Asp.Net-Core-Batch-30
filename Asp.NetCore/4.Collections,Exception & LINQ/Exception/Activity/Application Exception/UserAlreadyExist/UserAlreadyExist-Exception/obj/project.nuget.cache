@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "ItXbV0zNuD4=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+=======
+  "dgSpecHash": "8s37Nbm7v1k=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
   "dgSpecHash": "T9AzaOQePTA=",
   "success": true,

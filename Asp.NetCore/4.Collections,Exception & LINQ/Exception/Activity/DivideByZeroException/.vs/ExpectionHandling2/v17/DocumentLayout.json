@@ -1,10 +1,17 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{85D10E32-138E-426D-99E9-194396FC448D}|ExpectionHandling2\\ExceptionHandling2.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\dividebyzeroexception\\expectionhandling2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D10E32-138E-426D-99E9-194396FC448D}|ExpectionHandling2\\ExceptionHandling2.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\dividebyzeroexception\\expectionhandling2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
   "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\",
   "Documents": [
@@ -32,11 +39,19 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\Program.cs",
               "RelativeDocumentMoniker": "ExpectionHandling2\\Program.cs",
               "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\Program.cs",
               "RelativeToolTip": "ExpectionHandling2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\Program.cs",
+              "RelativeDocumentMoniker": "ExpectionHandling2\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\Program.cs",
+              "RelativeToolTip": "ExpectionHandling2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\DivideByZeroException\\ExpectionHandling2\\Program.cs",
               "RelativeDocumentMoniker": "ExpectionHandling2\\Program.cs",
