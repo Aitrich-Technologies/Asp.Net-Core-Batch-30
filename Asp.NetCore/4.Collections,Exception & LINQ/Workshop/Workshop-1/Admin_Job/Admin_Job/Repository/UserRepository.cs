@@ -26,7 +26,7 @@ namespace Admin_Job.Repository
         }
 
 
-        public User getLoggedUser()
+        public User GetLoggedUser()
             { return loggedUser; }
 
 
