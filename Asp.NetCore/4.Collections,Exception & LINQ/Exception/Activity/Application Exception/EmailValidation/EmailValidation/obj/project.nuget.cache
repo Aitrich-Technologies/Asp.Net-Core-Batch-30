@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "74f4G64xc0U=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
+=======
   "dgSpecHash": "mM/TgjC7sak=",
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
   "expectedPackageFiles": [],
   "logs": []
 }

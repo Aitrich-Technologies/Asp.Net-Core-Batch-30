@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "Xi/iySiIF7U=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+=======
   "dgSpecHash": "sShBGPHlhdY=",
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
   "expectedPackageFiles": [],
   "logs": []
 }
