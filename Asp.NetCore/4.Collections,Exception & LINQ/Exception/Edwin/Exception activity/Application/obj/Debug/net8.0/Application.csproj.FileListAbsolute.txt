@@ -1,4 +1,0 @@
-D:\C#\Exception activity\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\Exception activity\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
-D:\C#\Exception activity\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
-D:\C#\Exception activity\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
