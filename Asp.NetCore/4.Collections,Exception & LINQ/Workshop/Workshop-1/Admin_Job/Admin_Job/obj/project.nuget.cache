@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "aYoytfizSFo=",
+  "success": true,
+  "projectFilePath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+=======
+  "dgSpecHash": "ji8+j00E7zE=",
+  "success": true,
+  "projectFilePath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Workshop\\Workshop-1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+>>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+  "expectedPackageFiles": [],
+  "logs": []
+}

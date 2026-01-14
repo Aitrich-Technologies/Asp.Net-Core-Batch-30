@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3376D99-0514-4040-827B-22F044393A91}|Generic-Stack\\Generic-Stack.csproj|d:\\bootcamps\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-stack\\generic-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3376D99-0514-4040-827B-22F044393A91}|Generic-Stack\\Generic-Stack.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-stack\\generic-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+      "RelativeMoniker": "D:0:0:{A3376D99-0514-4040-827B-22F044393A91}|Generic-Stack\\Generic-Stack.csproj|solutionrelative:generic-stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Stack\\Program.cs",
+              "ToolTip": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Program.cs",
+              "RelativeToolTip": "Generic-Stack\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:11:03.294Z",
+=======
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Stack\\Program.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Program.cs",
+              "RelativeToolTip": "Generic-Stack\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:02:22.204Z",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
