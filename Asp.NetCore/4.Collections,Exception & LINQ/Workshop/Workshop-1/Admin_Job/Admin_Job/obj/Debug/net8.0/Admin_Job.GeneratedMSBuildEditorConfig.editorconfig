@@ -9,10 +9,14 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Admin_Job
 <<<<<<< HEAD
+build_property.ProjectDir = F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\
+=======
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\
 =======
 build_property.ProjectDir = C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\
 >>>>>>> b0491ce69427f453697f6329cd3b4103fdccdffc
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0

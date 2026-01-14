@@ -46,3 +46,18 @@ D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Activity\Inheritance\Activity 2\Inheri
 D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.genruntimeconfig.cache
 D:\aitrich\Asp.NetCore-Batch-05\Chapter 3\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\ref\InheritanceSample.dll
 >>>>>>> 7c9f4b371e694dcb11607fd8d23fc3591844ff04
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\refint\InheritanceSample.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\3.OOP\Activity\Inheritance\Activity 2\InheritanceSample\InheritanceSample\obj\Debug\net8.0\ref\InheritanceSample.dll

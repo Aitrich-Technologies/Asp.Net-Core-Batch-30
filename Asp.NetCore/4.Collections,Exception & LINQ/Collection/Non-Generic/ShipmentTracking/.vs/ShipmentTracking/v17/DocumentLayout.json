@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\shipmenttracking\\shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
   "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\shipmenttracking\\shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
       "RelativeMoniker": "D:0:0:{27B0086C-16B7-433C-8522-D83CEF8E47D1}|ShipmentTracking\\ShipmentTracking.csproj|solutionrelative:shipmenttracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +27,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
+              "RelativeDocumentMoniker": "ShipmentTracking\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
+              "RelativeToolTip": "ShipmentTracking\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEsAAAA6AAAAAAAAAA==",
+=======
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
               "RelativeDocumentMoniker": "ShipmentTracking\\Program.cs",
               "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\Program.cs",
               "RelativeToolTip": "ShipmentTracking\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAQwEEAAABCAAAAAAAAAA==",
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T04:13:06.715Z",
               "EditorCaption": ""

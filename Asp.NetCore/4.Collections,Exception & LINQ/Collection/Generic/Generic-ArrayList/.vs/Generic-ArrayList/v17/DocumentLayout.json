@@ -1,10 +1,17 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
   "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
@@ -35,6 +42,15 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
 <<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeToolTip": "Generic-ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:08:51.738Z",
+=======
               "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
               "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
               "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
@@ -42,6 +58,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAA2wEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T03:46:20.23Z",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
 <<<<<<< HEAD
               "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",

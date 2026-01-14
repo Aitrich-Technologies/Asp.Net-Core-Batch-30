@@ -9,7 +9,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\prini\\.nuget\\packages\\": {},
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
@@ -19,11 +23,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+      "projectName": "PhoneNumberValidation",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
+=======
       "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
       "projectName": "PhoneNumberValidation",
       "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
       "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
       "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
       "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
       "projectName": "PhoneNumberValidation",
@@ -37,7 +49,11 @@
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b

@@ -1,0 +1,29 @@
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.AssemblyInfoInputs.cache
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.AssemblyInfo.cs
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.csproj.CoreCompileInputs.cache
+F:\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.exe
+F:\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.deps.json
+F:\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.runtimeconfig.json
+F:\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.dll
+F:\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.pdb
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.dll
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\refint\BankAccounts.dll
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.pdb
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.genruntimeconfig.cache
+F:\BankAccounts\BankAccounts\obj\Debug\net8.0\ref\BankAccounts.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\bin\Debug\net8.0\BankAccounts.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\refint\BankAccounts.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\BankAccounts.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\clerin\BankAccounts\BankAccounts\obj\Debug\net8.0\ref\BankAccounts.dll

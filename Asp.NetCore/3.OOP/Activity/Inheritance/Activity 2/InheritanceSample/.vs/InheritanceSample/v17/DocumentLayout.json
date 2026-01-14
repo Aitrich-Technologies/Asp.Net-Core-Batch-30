@@ -1,5 +1,20 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\inheritance\\activity 2\\inheritancesample\\inheritancesample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\inheritance\\activity 2\\inheritancesample\\inheritancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\inheritance\\activity 2\\inheritancesample\\inheritancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\",
   "Documents": [
     {
@@ -13,6 +28,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\inheritance\\activity 2\\inheritancesample\\inheritancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4DA45DA-2DF7-44FF-84DC-986F9BE3E953}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+=======
           "SelectedChildIndex": 1,
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Person.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Person.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Person.cs",
+              "RelativeToolTip": "InheritanceSample\\Person.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:48:32.304Z",
+=======
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceSample\\Program.cs",
@@ -48,11 +78,35 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T06:02:03.311Z",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Program.cs",
+              "RelativeToolTip": "InheritanceSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:21:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Employee.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Employee.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Employee.cs",
+              "RelativeToolTip": "InheritanceSample\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:21:24.699Z",
+=======
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Inheritance\\Activity 2\\InheritanceSample\\InheritanceSample\\Person.cs",
               "RelativeDocumentMoniker": "InheritanceSample\\Person.cs",
@@ -61,6 +115,7 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T06:02:03.316Z",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
               "EditorCaption": ""
             }
           ]

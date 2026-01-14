@@ -71,7 +71,7 @@ namespace Admin_Job.Manager
         }
         public void ViewProfile()
         {
-            User loggeduser = Admins.getLoggedUser();
+            User loggeduser = Admins.GetLoggedUser();
             Console.WriteLine("-------------MyProfile--------------");
             Console.WriteLine($"First Name:{loggeduser.FirstName}");
             Console.WriteLine($"Last Name:{loggeduser.LastName}");

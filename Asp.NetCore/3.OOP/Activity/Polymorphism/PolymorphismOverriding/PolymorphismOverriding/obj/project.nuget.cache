@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "2gOSvXvpFqo=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\PolymorphismOverriding.csproj",
+=======
   "dgSpecHash": "60lV6Gq7p7s=",
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Polymorphism\\PolymorphismOverriding\\PolymorphismOverriding\\PolymorphismOverriding.csproj",
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
   "expectedPackageFiles": [],
   "logs": []
 }
