@@ -57,3 +57,21 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Ch
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+<<<<<<< HEAD
+=======
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

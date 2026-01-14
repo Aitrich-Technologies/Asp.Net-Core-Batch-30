@@ -61,6 +61,7 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Ch
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+<<<<<<< HEAD
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
@@ -76,3 +77,38 @@ C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collect
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+=======
+<<<<<<< HEAD
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+=======
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+D:\Bootcamps\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

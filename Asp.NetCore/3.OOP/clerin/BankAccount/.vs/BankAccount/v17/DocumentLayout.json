@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\clerin\\bankaccount\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|solutionrelative:bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\clerin\\bankaccount\\bankaccount\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|solutionrelative:bankaccount\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\clerin\\bankaccount\\bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|solutionrelative:bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\clerin\\bankaccount\\bankaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB01FC-7784-4DE0-B07F-29BC53E539B4}|BankAccount\\Bank.csproj|solutionrelative:bankaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\CurrentAccount.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\CurrentAccount.cs",
+              "RelativeToolTip": "BankAccount\\CurrentAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:10:09.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\SavingsAccount.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\SavingsAccount.cs",
+              "RelativeToolTip": "BankAccount\\SavingsAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:02:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\BankAccount.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount\\BankAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:55:05.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\clerin\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeToolTip": "BankAccount\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:52:25.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

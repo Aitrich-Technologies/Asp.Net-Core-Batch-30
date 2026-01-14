@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\C#\\Exception activity\\PhoneApplication\\PhoneApplication.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\C#\\Exception activity\\PhoneApplication\\PhoneApplication.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\Exception activity\\PhoneApplication\\obj\\",
+=======
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\PhoneApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\PhoneApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\PhoneApplication.csproj",
+        "projectName": "PhoneApplication",
+        "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\PhoneApplication.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\obj\\",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

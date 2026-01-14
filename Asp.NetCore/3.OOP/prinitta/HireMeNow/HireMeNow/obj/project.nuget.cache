@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "BFgiBVTTXws=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\prini\\source\\repos\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "BFgiBVTTXws=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prini\\source\\repos\\HireMeNow\\HireMeNow\\HireMeNow.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 }

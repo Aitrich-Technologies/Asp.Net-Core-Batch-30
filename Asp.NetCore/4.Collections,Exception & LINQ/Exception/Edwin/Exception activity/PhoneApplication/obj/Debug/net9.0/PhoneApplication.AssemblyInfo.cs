@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b069bd0f0a45c4a7de208fd15779aaec993f026")]
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

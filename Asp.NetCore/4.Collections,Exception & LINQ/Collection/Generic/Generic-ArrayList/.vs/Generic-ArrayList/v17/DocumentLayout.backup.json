@@ -3,6 +3,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-arraylist\\generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
+<<<<<<< HEAD
 <<<<<<< HEAD
   "WorkspaceRootPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-ArrayList\\",
   "Documents": [
@@ -54,6 +70,10 @@
 >>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
 =======
 >>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
+<<<<<<< HEAD
+=======
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "RelativeMoniker": "D:0:0:{6788BE44-4E12-4247-B007-134A8FDADB48}|Generic-ArrayList\\Generic-ArrayList.csproj|solutionrelative:generic-arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,6 +84,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeToolTip": "Generic-ArrayList\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wEgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:08:51.738Z",
+=======
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-ArrayList\\Program.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Program.cs",
+              "RelativeToolTip": "Generic-ArrayList\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:46:20.23Z",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -135,6 +183,10 @@
 >>>>>>> 2c947b415ed94f270f3a6761f23817a82b811968
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T04:41:10.462Z",
+<<<<<<< HEAD
+=======
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "EditorCaption": ""
             }
           ]

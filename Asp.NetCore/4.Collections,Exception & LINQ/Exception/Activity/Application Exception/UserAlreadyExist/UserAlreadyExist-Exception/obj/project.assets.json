@@ -8,23 +8,69 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\prini\\.nuget\\packages\\": {},
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "projectName": "UserAlreadyExist-Exception",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\obj\\",
+=======
+      "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "projectName": "UserAlreadyExist-Exception",
+      "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
+      "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
       "projectName": "UserAlreadyExist-Exception",
       "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
       "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\obj\\",
+<<<<<<< HEAD
+=======
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

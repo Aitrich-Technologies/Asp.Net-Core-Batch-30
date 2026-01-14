@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "QNpk67CeUaM=",
   "success": true,
   "projectFilePath": "D:\\C#\\Exception activity\\UseraleradyExists\\UseraleradyExists.csproj",
+=======
+  "dgSpecHash": "lbOGKaUnIXU=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\UseraleradyExists\\UseraleradyExists.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -27,6 +27,7 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-G
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ref\ShipmentTracking.dll
+<<<<<<< HEAD
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.exe
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.deps.json
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\bin\Debug\net8.0\ShipmentTracking.runtimeconfig.json
@@ -42,3 +43,5 @@ C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collect
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.pdb
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ShipmentTracking.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ShipmentTracking\ShipmentTracking\obj\Debug\net8.0\ref\ShipmentTracking.dll
+=======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

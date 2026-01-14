@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qJbefNchcA8=",
   "success": true,
   "projectFilePath": "D:\\C#\\Exception activity\\BankAccount\\BankAccount.csproj",
+=======
+  "dgSpecHash": "TS5DAQplzRU=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\BankAccount\\BankAccount.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

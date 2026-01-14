@@ -26,7 +26,11 @@ namespace Admin_Job.Repository
         }
 
 
+<<<<<<< HEAD
         public User getLoggedUser()
+=======
+        public User GetLoggedUser()
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
             { return loggedUser; }
 
 

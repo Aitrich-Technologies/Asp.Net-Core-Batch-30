@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9NBclMgI7CM=",
   "success": true,
   "projectFilePath": "D:\\C#\\Exception activity\\Exception Activity3\\Exception Activity3.csproj",
+=======
+  "dgSpecHash": "SSI1Hc827cA=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\Exception Activity3\\Exception Activity3.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

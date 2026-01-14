@@ -27,3 +27,21 @@ D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generi
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.pdb
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.genruntimeconfig.cache
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\ref\Generic-SortedList.dll
+<<<<<<< HEAD
+=======
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\bin\Debug\net8.0\Generic-SortedList.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\refint\Generic-SortedList.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\Generic-SortedList.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-SortedList\Generic-SortedList\obj\Debug\net8.0\ref\Generic-SortedList.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
