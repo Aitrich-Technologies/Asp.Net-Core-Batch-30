@@ -1,0 +1,74 @@
+D:\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+D:\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+D:\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+D:\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+D:\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+D:\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Collection\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 4\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.exe
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.deps.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.runtimeconfig.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\bin\Debug\net8.0\Stack-Activity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfoInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.AssemblyInfo.cs
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.csproj.CoreCompileInputs.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.sourcelink.json
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\refint\Stack-Activity.dll
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.pdb
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\Stack-Activity.genruntimeconfig.cache
+F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\Stack-Activity\Stack-Activity\obj\Debug\net8.0\ref\Stack-Activity.dll

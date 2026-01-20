@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\prini\\.nuget\\packages\\": {},
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+<<<<<<< HEAD
+    "C:\\Users\\afraa\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "projectName": "Generic-ArrayList",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+=======
+      "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "projectName": "Generic-ArrayList",
+      "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "packagesPath": "C:\\Users\\prini\\.nuget\\packages\\",
+      "outputPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "projectName": "Generic-ArrayList",
+      "projectPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
+      "outputPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+=======
+      "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "projectName": "Generic-ArrayList",
+      "projectPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\Generic-ArrayList.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+<<<<<<< HEAD
+        "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+=======
+      "message": "Problem reading the cache file C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+>>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
+=======
+<<<<<<< HEAD
+      "message": "Problem reading the cache file D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-ArrayList\\Generic-ArrayList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+>>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
+>>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+    }
+  ]
+}
