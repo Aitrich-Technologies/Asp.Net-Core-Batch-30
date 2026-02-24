@@ -1,41 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Batch31\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
+    "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
   },
   "projects": {
-    "C:\\Batch31\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {
+    "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Batch31\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
+        "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
         "projectName": "EF-CodeFirst",
-        "projectPath": "C:\\Batch31\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
-        "packagesPath": "C:\\Users\\Anish Jubair\\.nuget\\packages\\",
-        "outputPath": "C:\\Batch31\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
-=======
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
-        "projectName": "EF-CodeFirst",
-        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
-        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.net-Core-Batch-31\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
->>>>>>> 5d95304f16ba3aa6482f8bdf20e50c1e27ad371f
+        "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\EF-CodeFirst.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\6.EF\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\Anish Jubair\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\afraa\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 5d95304f16ba3aa6482f8bdf20e50c1e27ad371f
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,12 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-<<<<<<< HEAD
         },
         "SdkAnalysisLevel": "9.0.300"
-=======
-        }
->>>>>>> 5d95304f16ba3aa6482f8bdf20e50c1e27ad371f
       },
       "frameworks": {
         "net8.0": {
@@ -104,11 +81,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
->>>>>>> 5d95304f16ba3aa6482f8bdf20e50c1e27ad371f
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
