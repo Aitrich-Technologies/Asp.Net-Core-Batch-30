@@ -2,9 +2,15 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "IdaTJwGWEIs=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+=======
+  "dgSpecHash": "hcNcNz6o5Xo=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "dgSpecHash": "f3p+gL3dSrw=",
   "success": true,
@@ -28,10 +34,17 @@
       "level": "Warning",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
       "warningLevel": 1,
       "filePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+=======
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "message": "Problem reading the cache file C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",

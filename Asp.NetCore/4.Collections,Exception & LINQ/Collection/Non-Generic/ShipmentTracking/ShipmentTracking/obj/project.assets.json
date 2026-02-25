@@ -9,7 +9,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\MY PC\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
@@ -19,11 +23,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
       "projectName": "ShipmentTracking",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\obj\\",
+=======
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
+      "projectName": "ShipmentTracking",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\obj\\",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
       "projectName": "ShipmentTracking",
@@ -37,7 +49,11 @@
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d

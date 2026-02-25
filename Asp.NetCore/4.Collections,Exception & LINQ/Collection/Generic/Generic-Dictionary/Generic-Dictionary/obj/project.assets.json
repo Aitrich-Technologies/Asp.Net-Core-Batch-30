@@ -10,7 +10,11 @@
   "packageFolders": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\MY PC\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
     "C:\\Users\\prini\\.nuget\\packages\\": {},
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
@@ -28,11 +32,19 @@
     "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
       "projectName": "Generic-Dictionary",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+      "projectName": "Generic-Dictionary",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
       "projectName": "Generic-Dictionary",
@@ -62,7 +74,11 @@
       "configFilePaths": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
         "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
@@ -146,7 +162,11 @@
       "warningLevel": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+=======
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "message": "Problem reading the cache file C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49

@@ -1,10 +1,17 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7E2B43-06FB-4EFA-9D89-DA56833DC201}|Generic-Queue\\Generic-Queue.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-queue\\generic-queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
 <<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\",
@@ -50,6 +57,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Generic-Queue\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
+              "RelativeToolTip": "Generic-Queue\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:43:04.77Z",
+=======
 <<<<<<< HEAD
               "DocumentMoniker": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Program.cs",
               "RelativeDocumentMoniker": "Generic-Queue\\Program.cs",

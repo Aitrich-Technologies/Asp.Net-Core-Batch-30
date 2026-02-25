@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "HPEEko98ito=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
+=======
+  "dgSpecHash": "yHbzDyTu79w=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
 <<<<<<< HEAD
   "dgSpecHash": "B7oUIvQIvUY=",
@@ -21,10 +27,17 @@
       "code": "Undefined",
       "level": "Warning",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
       "warningLevel": 1,
       "filePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
+=======
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Stack\\Generic-Stack\\Generic-Stack.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "targetGraphs": []
 =======
 <<<<<<< HEAD

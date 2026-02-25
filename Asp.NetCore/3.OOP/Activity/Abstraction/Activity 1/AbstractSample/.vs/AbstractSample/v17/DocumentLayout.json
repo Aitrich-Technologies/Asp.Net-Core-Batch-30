@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
   "Documents": [
     {
@@ -18,6 +19,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\3.oop\\activity\\abstraction\\activity 1\\abstractsample\\abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\",
   "Documents": [
@@ -38,7 +58,11 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD13B287-A8A7-4BFC-ADE3-EF76B0E03E07}|..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\ECommerce.csproj|d:\\c#\\abstraction\\ecommerce\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
 >>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
+=======
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     }
   ],
   "DocumentGroupContainers": [
@@ -48,6 +72,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "RelativeToolTip": "AbstractSample\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:36:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Dog.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "RelativeToolTip": "AbstractSample\\Dog.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:36:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Cat.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "RelativeToolTip": "AbstractSample\\Cat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:36:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Animal.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "RelativeToolTip": "AbstractSample\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAcAAAABAAAAAAAAAA==",
+=======
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -140,7 +213,11 @@
               "ToolTip": "D:\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\C#\\Abstraction\\ECommerce\\GroceryProduct .cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAnAAAAAAAAAA==",
+<<<<<<< HEAD
 >>>>>>> beed2e43c7a7187f3b0e41599c62dbebf8913296
+=======
+>>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T04:10:44.894Z",
               "EditorCaption": ""

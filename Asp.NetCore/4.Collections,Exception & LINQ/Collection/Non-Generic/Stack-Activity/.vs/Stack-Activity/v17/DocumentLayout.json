@@ -2,10 +2,17 @@
   "Version": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8702090-5D79-44EF-A8E3-17A1E7B790D3}|Stack-Activity\\Stack-Activity.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\non-generic\\stack-activity\\stack-activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\",
   "Documents": [
@@ -40,11 +47,19 @@
               "Title": "Program.cs",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
               "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",
               "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
               "RelativeToolTip": "Stack-Activity\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
+              "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
+              "RelativeToolTip": "Stack-Activity\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBgAAAAnAAAAAAAAAA==",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
               "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Program.cs",
               "RelativeDocumentMoniker": "Stack-Activity\\Program.cs",

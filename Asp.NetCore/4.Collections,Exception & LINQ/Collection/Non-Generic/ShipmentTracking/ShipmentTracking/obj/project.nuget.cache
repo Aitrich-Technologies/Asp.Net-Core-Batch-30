@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "iTLF/j+YRws=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
+=======
+  "dgSpecHash": "EbV80wOOGrs=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\ShipmentTracking\\ShipmentTracking\\ShipmentTracking.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "dgSpecHash": "jJaaQKw915M=",
   "success": true,

@@ -1,9 +1,15 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "G8rfPei6eR0=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+=======
+  "dgSpecHash": "JwMhOrarf9U=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
 <<<<<<< HEAD
   "dgSpecHash": "vumTvOSZnnk=",
@@ -21,10 +27,17 @@
       "code": "Undefined",
       "level": "Warning",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
       "warningLevel": 1,
       "filePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+=======
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Queue\\Generic-Queue\\Generic-Queue.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "targetGraphs": []
 =======
 <<<<<<< HEAD

@@ -9,7 +9,11 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\MY PC\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
@@ -19,11 +23,19 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
       "projectName": "ExpectionHandling1",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\obj\\",
+=======
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
+      "projectName": "ExpectionHandling1",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\obj\\",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "projectUniqueName": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
       "projectName": "ExpectionHandling1",
@@ -37,7 +49,11 @@
       ],
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b

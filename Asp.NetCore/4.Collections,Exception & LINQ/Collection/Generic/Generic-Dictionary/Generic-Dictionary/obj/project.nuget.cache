@@ -2,9 +2,15 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "voKhwoDGrRo=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+=======
+  "dgSpecHash": "GpQ+empSx34=",
+  "success": true,
+  "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "dgSpecHash": "VANGY/OEYFM=",
   "success": true,
@@ -28,10 +34,17 @@
       "level": "Warning",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
       "warningLevel": 1,
       "filePath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+=======
+      "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "message": "Problem reading the cache file C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
       "projectPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",

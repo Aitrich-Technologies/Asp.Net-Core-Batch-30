@@ -10,7 +10,11 @@
   "packageFolders": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\MY PC\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
     "C:\\Users\\prini\\.nuget\\packages\\": {},
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
@@ -24,11 +28,19 @@
     "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
       "projectName": "HashTable-Activity",
       "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
       "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
       "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\obj\\",
+=======
+      "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
+      "projectName": "HashTable-Activity",
+      "projectPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\obj\\",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
       "projectUniqueName": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\HashTable-Activity\\HashTable-Activity\\HashTable-Activity.csproj",
       "projectName": "HashTable-Activity",
@@ -50,7 +62,11 @@
       "configFilePaths": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
         "C:\\Users\\prini\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49

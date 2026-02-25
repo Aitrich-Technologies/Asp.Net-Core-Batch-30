@@ -1,0 +1,14 @@
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.AssemblyInfoInputs.cache
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.AssemblyInfo.cs
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.csproj.CoreCompileInputs.cache
+F:\MovieTicketSystem\MovieTicketSystem\bin\Debug\net8.0\MovieTicketSystem.exe
+F:\MovieTicketSystem\MovieTicketSystem\bin\Debug\net8.0\MovieTicketSystem.deps.json
+F:\MovieTicketSystem\MovieTicketSystem\bin\Debug\net8.0\MovieTicketSystem.runtimeconfig.json
+F:\MovieTicketSystem\MovieTicketSystem\bin\Debug\net8.0\MovieTicketSystem.dll
+F:\MovieTicketSystem\MovieTicketSystem\bin\Debug\net8.0\MovieTicketSystem.pdb
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.dll
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\refint\MovieTicketSystem.dll
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.pdb
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\MovieTicketSystem.genruntimeconfig.cache
+F:\MovieTicketSystem\MovieTicketSystem\obj\Debug\net8.0\ref\MovieTicketSystem.dll

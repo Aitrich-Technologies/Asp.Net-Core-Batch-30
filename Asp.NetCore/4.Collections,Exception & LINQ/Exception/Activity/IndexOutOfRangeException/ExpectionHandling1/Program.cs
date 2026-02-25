@@ -7,20 +7,21 @@ namespace ExpectionHandling1
     {
         static void Main(string[] args)
         {
-            //IndexOutOfRangeException
+            //indexoutof range exception
             try
             {
-                string[] pets = { "Dog", "Cat", "Parrot" };
+                string[] pets = { "Dog,cat,parrot" };
                 Console.WriteLine(pets[10]);
             }
-            catch (IndexOutOfRangeException)
+            catch(IndexOutOfRangeException ex)
             {
-                Console.WriteLine("Exception occured");
+                Console.WriteLine("exception occured");
             }
             finally
             {
-                Console.WriteLine("Final block executed");
+                Console.WriteLine("final block executed");
             }
+            
         }
     }
 }

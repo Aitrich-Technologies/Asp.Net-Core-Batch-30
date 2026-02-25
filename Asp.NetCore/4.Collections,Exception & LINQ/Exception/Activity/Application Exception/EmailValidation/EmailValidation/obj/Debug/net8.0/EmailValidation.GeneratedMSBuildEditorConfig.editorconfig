@@ -10,7 +10,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmailValidation
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\EmailValidation\EmailValidation\
+=======
+build_property.ProjectDir = F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\EmailValidation\EmailValidation\
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
 build_property.ProjectDir = C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\EmailValidation\EmailValidation\
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49

@@ -2,6 +2,7 @@
   "Version": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\",
   "Documents": [
     {
@@ -19,6 +20,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\emailvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\emailvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+=======
+  "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\exception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 =======
   "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\",
   "Documents": [
@@ -47,6 +62,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\exception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
       "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\exception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
     }
@@ -62,6 +78,44 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+              "Title": "InvalidEmailException.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Exception\\InvalidEmailException.cs",
+              "RelativeDocumentMoniker": "EmailValidation\\Exception\\InvalidEmailException.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Exception\\InvalidEmailException.cs",
+              "RelativeToolTip": "EmailValidation\\Exception\\InvalidEmailException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:28:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "EmailValidation\\EmailValidator.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidator.cs",
+              "RelativeToolTip": "EmailValidation\\EmailValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:28:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Program.cs",
+              "RelativeDocumentMoniker": "EmailValidation\\Program.cs",
+              "ToolTip": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Program.cs",
+              "RelativeToolTip": "EmailValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:28:50.542Z",
+              "EditorCaption": ""
+=======
               "DocumentIndex": 0,
 <<<<<<< HEAD
               "Title": "InvalidEmailException.cs",
