@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\obj\\",
+=======
+    "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj": {}
+  },
+  "projects": {
+    "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+        "projectName": "SimpleAuth",
+        "projectPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\SimpleAuth.csproj",
+        "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\SimpleAuth\\SimpleAuth\\obj\\",
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +102,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
         }
       }
     }
