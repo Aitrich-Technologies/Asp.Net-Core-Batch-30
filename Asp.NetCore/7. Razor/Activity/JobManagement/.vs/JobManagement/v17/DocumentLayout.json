@@ -1,7 +1,45 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\",
   "Documents": [],
+=======
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\pages\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\pages\\jobs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +47,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": -1,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-30T06:49:40.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Dto\\JobDto.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeToolTip": "JobManagement\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:57:52.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:24:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:14:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:14:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Program.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeToolTip": "JobManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:10:41.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:01:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:03:05.803Z"
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
             }
           ]
         }
