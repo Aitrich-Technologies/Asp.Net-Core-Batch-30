@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Workshop\\JobProviderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\8. blazor\\workshop\\jobproviderapp\\jobproviderapp\\pages\\joblist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\pages\\joblist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobList.razor",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\JobList.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Pages\\JobList.razor",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\JobList.razor",
+              "RelativeToolTip": "JobProviderApp\\Pages\\JobList.razor",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T18:11:11.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
