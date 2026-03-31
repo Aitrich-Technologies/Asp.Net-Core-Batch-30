@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
         "outputPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\",
+=======
+    "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+  },
+  "projects": {
+    "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectName": "EmployeeManagement",
+        "projectPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "packagesPath": "C:\\Users\\karth\\.nuget\\packages\\",
+        "outputPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\obj\\",
+>>>>>>> 08a4a85b4eaabd3f574c03f8c354a796c594d948
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\karth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 08a4a85b4eaabd3f574c03f8c354a796c594d948
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +102,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> 08a4a85b4eaabd3f574c03f8c354a796c594d948
         }
       }
     }
