@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "9CyV/yizLuY=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Exception activity\\PhoneApplication\\PhoneApplication.csproj",
+=======
+  "dgSpecHash": "vY6/zNk9Ccs=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Edwin\\Exception activity\\PhoneApplication\\PhoneApplication.csproj",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
+  "expectedPackageFiles": [],
+  "logs": []
+}

@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "OuFy+RdqkEE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "uwcA6SqNJSU=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
@@ -9,6 +14,7 @@
   "success": true,
   "projectFilePath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Workshop\\Workshop 2\\HiringManagementSystem\\HiringManagementSystem\\HiringManagementSystem.csproj",
 >>>>>>> 4dbd0885327b66995e98779d5ffc970a2f30f150
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

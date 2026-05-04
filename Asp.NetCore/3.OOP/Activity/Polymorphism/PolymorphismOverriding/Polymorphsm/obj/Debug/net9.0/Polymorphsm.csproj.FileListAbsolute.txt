@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\bin\Debug\net9.0\Polymorphsm.exe
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\bin\Debug\net9.0\Polymorphsm.deps.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\bin\Debug\net9.0\Polymorphsm.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\bin\Debug\net9.0\Polymorphsm.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\bin\Debug\net9.0\Polymorphsm.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\refint\Polymorphsm.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\Polymorphsm.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Polymorphism\PolymorphismOverriding\Polymorphsm\obj\Debug\net9.0\ref\Polymorphsm.dll

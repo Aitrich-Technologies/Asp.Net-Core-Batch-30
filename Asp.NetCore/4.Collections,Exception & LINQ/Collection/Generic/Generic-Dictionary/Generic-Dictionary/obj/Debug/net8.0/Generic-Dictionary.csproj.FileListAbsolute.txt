@@ -27,6 +27,8 @@ D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generi
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.pdb
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.genruntimeconfig.cache
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\ref\Generic-Dictionary.dll
+<<<<<<< HEAD
+=======
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.exe
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.deps.json
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\bin\Debug\net8.0\Generic-Dictionary.runtimeconfig.json
@@ -42,3 +44,4 @@ F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\G
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.pdb
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\Generic-Dictionary.genruntimeconfig.cache
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Generic\Generic-Dictionary\Generic-Dictionary\obj\Debug\net8.0\ref\Generic-Dictionary.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

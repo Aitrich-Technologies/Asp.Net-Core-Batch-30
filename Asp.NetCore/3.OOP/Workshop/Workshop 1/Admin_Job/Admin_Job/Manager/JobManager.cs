@@ -21,6 +21,7 @@ namespace Admin_Job.Manager
             }
             Console.Write("Enter job id: ");
             int id = Convert.ToInt32(Console.ReadLine());
+
             Console.Write("Enter job title: ");
             string title = Console.ReadLine();
 

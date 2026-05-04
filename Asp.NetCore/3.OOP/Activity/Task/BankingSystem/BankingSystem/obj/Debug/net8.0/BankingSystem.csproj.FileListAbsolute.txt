@@ -13,3 +13,18 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Ch
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Full-Stack-Batch-27\Asp.NetCore\Chapter 3\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\aitrich\Asp.Net-Core-Batch-32\Asp.NetCore\3.OOP\Activity\Task\BankingSystem\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll

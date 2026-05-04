@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "j8dy7Hy0jdE=",
+  "success": true,
+  "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "gonhs27Q2kc=",
   "success": true,
   "projectFilePath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
@@ -9,6 +14,7 @@
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Exception\\Activity\\IndexOutOfRangeException\\ExpectionHandling1\\ExpectionHandling1.csproj",
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

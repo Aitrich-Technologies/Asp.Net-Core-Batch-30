@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "+EE64uVJUiM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "dgSpecHash": "hcNcNz6o5Xo=",
   "success": true,
@@ -21,11 +26,19 @@
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
+<<<<<<< HEAD
+      "message": "Problem reading the cache file C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\Generic-SortedList.csproj",
+      "targetGraphs": []
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
       "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-SortedList\\Generic-SortedList\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
@@ -51,6 +64,7 @@
       "targetGraphs": []
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     }
   ]
 }

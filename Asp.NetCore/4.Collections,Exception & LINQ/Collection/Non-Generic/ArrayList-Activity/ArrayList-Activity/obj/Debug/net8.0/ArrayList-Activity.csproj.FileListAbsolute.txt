@@ -42,6 +42,8 @@ D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Ge
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.genruntimeconfig.cache
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ref\ArrayList-Activity.dll
+<<<<<<< HEAD
+=======
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfoInputs.cache
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfo.cs
@@ -50,3 +52,4 @@ F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\N
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.dll
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\refint\ArrayList-Activity.dll
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

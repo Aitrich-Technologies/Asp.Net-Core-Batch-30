@@ -1,0 +1,14 @@
+D:\c#\MachineTestt\MachineTestt\bin\Debug\net9.0\MachineTestt.exe
+D:\c#\MachineTestt\MachineTestt\bin\Debug\net9.0\MachineTestt.deps.json
+D:\c#\MachineTestt\MachineTestt\bin\Debug\net9.0\MachineTestt.runtimeconfig.json
+D:\c#\MachineTestt\MachineTestt\bin\Debug\net9.0\MachineTestt.dll
+D:\c#\MachineTestt\MachineTestt\bin\Debug\net9.0\MachineTestt.pdb
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.AssemblyInfoInputs.cache
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.AssemblyInfo.cs
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.csproj.CoreCompileInputs.cache
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.dll
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\refint\MachineTestt.dll
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.pdb
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\MachineTestt.genruntimeconfig.cache
+D:\c#\MachineTestt\MachineTestt\obj\Debug\net9.0\ref\MachineTestt.dll

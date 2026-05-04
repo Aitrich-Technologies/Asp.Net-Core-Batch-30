@@ -1,5 +1,20 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
   "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\",
   "Documents": [
     {
@@ -29,6 +44,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\7. razor\\activity\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
     }
   ],
   "DocumentGroupContainers": [
@@ -38,6 +54,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:17:32.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T06:40:43.259Z",
+=======
           "SelectedChildIndex": 7,
           "Children": [
             {
@@ -55,11 +103,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T06:24:31.635Z",
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-28T06:01:43.449Z"
+=======
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\7. Razor\\Activity\\JobManagement\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
@@ -130,6 +189,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T05:57:52.155Z",
               "EditorCaption": ""
+>>>>>>> 7cc834abed351e2556b91f569c407e2a9b2d3c62
             }
           ]
         }

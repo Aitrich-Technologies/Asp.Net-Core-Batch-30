@@ -13,6 +13,8 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Batch-31\4.Collection, Exception &
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Batch-31\4.Collection, Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ExpectionHandling1.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Batch-31\4.Collection, Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ExpectionHandling1.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.net-Core-Batch-31\4.Collection, Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ref\ExpectionHandling1.dll
+<<<<<<< HEAD
+=======
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\bin\Debug\net8.0\ExpectionHandling1.exe
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\bin\Debug\net8.0\ExpectionHandling1.deps.json
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\bin\Debug\net8.0\ExpectionHandling1.runtimeconfig.json
@@ -28,3 +30,4 @@ F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Ac
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ExpectionHandling1.pdb
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ExpectionHandling1.genruntimeconfig.cache
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\IndexOutOfRangeException\ExpectionHandling1\obj\Debug\net8.0\ref\ExpectionHandling1.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

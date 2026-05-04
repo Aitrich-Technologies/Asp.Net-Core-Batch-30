@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.exe
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.deps.json
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.runtimeconfig.json
@@ -12,3 +13,19 @@ C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\refint\HireMeNo
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.pdb
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.genruntimeconfig.cache
 C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\ref\HireMeNow.dll
+=======
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.exe
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.deps.json
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.runtimeconfig.json
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.dll
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\bin\Debug\net8.0\HireMeNow.pdb
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.AssemblyInfoInputs.cache
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.AssemblyInfo.cs
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.csproj.CoreCompileInputs.cache
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.dll
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\refint\HireMeNow.dll
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.pdb
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\HireMeNow.genruntimeconfig.cache
+C:\Users\prini\source\repos\HireMeNow\HireMeNow\obj\Debug\net8.0\ref\HireMeNow.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

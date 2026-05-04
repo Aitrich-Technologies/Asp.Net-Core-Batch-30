@@ -1,0 +1,14 @@
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.AssemblyInfoInputs.cache
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.AssemblyInfo.cs
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.csproj.CoreCompileInputs.cache
+D:\c#\Adminjob\Adminjob\bin\Debug\net9.0\Adminjob.exe
+D:\c#\Adminjob\Adminjob\bin\Debug\net9.0\Adminjob.deps.json
+D:\c#\Adminjob\Adminjob\bin\Debug\net9.0\Adminjob.runtimeconfig.json
+D:\c#\Adminjob\Adminjob\bin\Debug\net9.0\Adminjob.dll
+D:\c#\Adminjob\Adminjob\bin\Debug\net9.0\Adminjob.pdb
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.dll
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\refint\Adminjob.dll
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.pdb
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\Adminjob.genruntimeconfig.cache
+D:\c#\Adminjob\Adminjob\obj\Debug\net9.0\ref\Adminjob.dll

@@ -106,8 +106,11 @@ namespace UserRegistrationLoginSystem
                     Console.WriteLine("Invalid option. Please choose 1, 2, or 3.");
                 }
             }
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
         }
     }
 }

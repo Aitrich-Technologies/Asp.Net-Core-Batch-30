@@ -51,7 +51,7 @@ namespace HireMeNow.Models
         public virtual ICollection<Interview> InterviewCreatedByNavigations { get; set; } = new List<Interview>();
 
         public virtual ICollection<Interview> InterviewJobseekers { get; set; } = new List<Interview>();
-
+        
         public virtual ICollection<Job> Jobs { get; set; } = new List<Job>();
 
         public virtual ICollection<Qualification> Qualifications { get; set; } = new List<Qualification>();

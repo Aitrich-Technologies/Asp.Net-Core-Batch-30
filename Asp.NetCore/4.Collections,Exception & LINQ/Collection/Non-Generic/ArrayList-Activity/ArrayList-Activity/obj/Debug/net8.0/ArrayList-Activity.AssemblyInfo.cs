@@ -15,6 +15,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065d71043ac1b2476e4686ee487f04c89ca96ec7")]
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd91b8d5d3ddf38252ef80c074440a9187f7b84")]
 =======
@@ -23,6 +26,7 @@ using System.Reflection;
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b069bd0f0a45c4a7de208fd15779aaec993f026")]
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayList-Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayList-Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

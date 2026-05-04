@@ -9,6 +9,9 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     "C:\\Users\\DELL\\.nuget\\packages\\": {},
 =======
@@ -21,11 +24,19 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\": {},
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+      "projectName": "Generic-Dictionary",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
       "projectUniqueName": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\Generic-Dictionary.csproj",
@@ -55,11 +66,15 @@
       "outputPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\",
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,6 +88,7 @@
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -99,6 +115,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
 <<<<<<< HEAD
+      },
+      "SdkAnalysisLevel": "9.0.300"
+=======
+<<<<<<< HEAD
       }
 =======
       },
@@ -107,6 +127,7 @@
 =======
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     },
     "frameworks": {
       "net8.0": {
@@ -131,11 +152,15 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
 =======
 <<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       }
     }
   },
@@ -144,6 +169,9 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
+      "message": "Problem reading the cache file C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
       "message": "Problem reading the cache file F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
@@ -157,6 +185,7 @@
       "message": "Problem reading the cache file D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Generic\\Generic-Dictionary\\Generic-Dictionary\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
 >>>>>>> 25e09e59d1dff0d9c392851cbc6f441e4d68f8a2
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     }
   ]
 }

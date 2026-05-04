@@ -42,6 +42,8 @@ D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Ge
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.pdb
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.genruntimeconfig.cache
 D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\ref\SortedList-Activity.dll
+<<<<<<< HEAD
+=======
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.exe
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.deps.json
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\bin\Debug\net8.0\SortedList-Activity.runtimeconfig.json
@@ -57,3 +59,4 @@ F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\N
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.pdb
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\SortedList-Activity.genruntimeconfig.cache
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Collection\Non-Generic\SortedList-Activity\SortedList-Activity\obj\Debug\net8.0\ref\SortedList-Activity.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

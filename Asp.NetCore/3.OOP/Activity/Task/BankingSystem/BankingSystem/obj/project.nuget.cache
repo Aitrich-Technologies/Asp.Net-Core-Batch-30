@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "7hr05jNiR4o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "fuwhSbPFrSg=",
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
@@ -9,6 +14,7 @@
   "success": true,
   "projectFilePath": "D:\\Bootcamps\\Asp.Net-Core-Batch-30\\Asp.NetCore\\3.OOP\\Activity\\Task\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
 >>>>>>> fa8e6e669cbd2eeecf5c4cc0e6ac2f7e636b5312
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

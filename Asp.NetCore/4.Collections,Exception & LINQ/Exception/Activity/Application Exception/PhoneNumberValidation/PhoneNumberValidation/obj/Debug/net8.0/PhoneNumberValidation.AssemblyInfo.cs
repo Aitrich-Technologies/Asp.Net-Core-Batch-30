@@ -15,6 +15,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1bf2d18071c7beadfbd55fd31425b96c4add5a")]
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd91b8d5d3ddf38252ef80c074440a9187f7b84")]
 =======
@@ -23,6 +26,7 @@ using System.Reflection;
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e1bf2d18071c7beadfbd55fd31425b96c4add5a")]
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneNumberValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneNumberValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

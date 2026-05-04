@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\8. blazor\\activity\\bookstore\\activity\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\data\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\8. blazor\\activity\\bookstore\\activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D1891F-89D5-4750-8FE8-F89540C5CA99}|Activity\\Activity.csproj|solutionrelative:activity\\data\\budgetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetBookService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeDocumentMoniker": "Activity\\Data\\BudgetBookService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\BudgetBookService.cs",
+              "RelativeToolTip": "Activity\\Data\\BudgetBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T04:44:15.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\Entry.cs",
+              "RelativeDocumentMoniker": "Activity\\Data\\Entry.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\BookStore\\Activity\\Data\\Entry.cs",
+              "RelativeToolTip": "Activity\\Data\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T04:44:13.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

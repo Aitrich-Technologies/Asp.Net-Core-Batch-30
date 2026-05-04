@@ -1,6 +1,8 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\",
   "Documents": [
@@ -43,6 +45,7 @@
       "RelativeMoniker": "D:0:0:{028A81B6-2CF6-4EBE-B181-EDBC9F8ABFDC}|UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj|solutionrelative:useralreadyexist-exception\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "WorkspaceRootPath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\",
   "Documents": [
     {
@@ -60,7 +63,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{028A81B6-2CF6-4EBE-B181-EDBC9F8ABFDC}|UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj|d:\\aitrch\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\exception\\activity\\application exception\\useralreadyexist\\useralreadyexist-exception\\exception\\emailalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{028A81B6-2CF6-4EBE-B181-EDBC9F8ABFDC}|UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj|solutionrelative:useralreadyexist-exception\\exception\\emailalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+=======
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
     }
   ],
   "DocumentGroupContainers": [
@@ -77,6 +83,11 @@
               "DocumentIndex": 2,
               "Title": "AgeException.cs",
 <<<<<<< HEAD
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\AgeException.cs",
+              "RelativeDocumentMoniker": "UserAlreadyExist-Exception\\Exception\\AgeException.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\AgeException.cs",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
               "DocumentMoniker": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\AgeException.cs",
               "RelativeDocumentMoniker": "UserAlreadyExist-Exception\\Exception\\AgeException.cs",
@@ -91,6 +102,7 @@
               "RelativeDocumentMoniker": "UserAlreadyExist-Exception\\Exception\\AgeException.cs",
               "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\AgeException.cs",
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "RelativeToolTip": "UserAlreadyExist-Exception\\Exception\\AgeException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,6 +111,8 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -133,12 +147,16 @@
               "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\EmailAlreadyExistsException.cs",
 >>>>>>> 661e3aa69be8602bd3f3d7b96cf97828419dcb49
 =======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "DocumentIndex": 3,
               "Title": "EmailAlreadyExistsException.cs",
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\EmailAlreadyExistsException.cs",
               "RelativeDocumentMoniker": "UserAlreadyExist-Exception\\Exception\\EmailAlreadyExistsException.cs",
               "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Exception\\EmailAlreadyExistsException.cs",
+<<<<<<< HEAD
+=======
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "RelativeToolTip": "UserAlreadyExist-Exception\\Exception\\EmailAlreadyExistsException.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,6 +165,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserAlreadyExist-Exception\\Model\\User.cs",
+              "ToolTip": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Model\\User.cs",
+              "RelativeToolTip": "UserAlreadyExist-Exception\\Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:32:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+=======
               "DocumentIndex": 3,
               "Title": "User.cs",
 <<<<<<< HEAD
@@ -184,6 +217,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-25T10:32:35.08Z"
 =======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Exception\\Activity\\Application Exception\\UserAlreadyExist\\UserAlreadyExist-Exception\\Program.cs",
@@ -194,7 +228,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T10:32:35.065Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+=======
 >>>>>>> 60a1e039f59257d2d81b0aa2be006a8d316eaf3b
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
             }
           ]
         }

@@ -27,6 +27,8 @@ C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Applica
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.pdb
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.genruntimeconfig.cache
 C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\ref\PhoneNumberValidation.dll
+<<<<<<< HEAD
+=======
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.exe
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.deps.json
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\bin\Debug\net8.0\PhoneNumberValidation.runtimeconfig.json
@@ -42,3 +44,4 @@ F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Ac
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.pdb
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\PhoneNumberValidation.genruntimeconfig.cache
 F:\Asp.Net-Core-Batch-30\Asp.NetCore\4.Collections,Exception & LINQ\Exception\Activity\Application Exception\PhoneNumberValidation\PhoneNumberValidation\obj\Debug\net8.0\ref\PhoneNumberValidation.dll
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835

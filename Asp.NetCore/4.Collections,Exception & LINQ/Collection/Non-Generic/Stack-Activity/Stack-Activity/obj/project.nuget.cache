@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "T5QNpo+5hC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\aitrich\\Asp.Net-Core-Batch-32\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Stack-Activity.csproj",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   "dgSpecHash": "EpEcWseGX64=",
   "success": true,
@@ -15,6 +20,7 @@
   "success": true,
   "projectFilePath": "D:\\Aitrch\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception & LINQ\\Collection\\Non-Generic\\Stack-Activity\\Stack-Activity\\Stack-Activity.csproj",
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
   "expectedPackageFiles": [],
   "logs": []
 }

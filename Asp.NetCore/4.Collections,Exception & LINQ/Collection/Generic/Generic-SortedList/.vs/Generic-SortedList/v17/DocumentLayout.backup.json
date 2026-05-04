@@ -1,11 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Collection\\Generic\\Generic-SortedList\\",
+  "Documents": [
+    {
+=======
   "WorkspaceRootPath": "F:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\4.Collections,Exception \u0026 LINQ\\Collection\\Generic\\Generic-SortedList\\",
   "Documents": [
     {
 <<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|f:\\asp.net-core-batch-30\\asp.netcore\\4.collections,exception \u0026 linq\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
 =======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "AbsoluteMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\collection\\generic\\generic-sortedlist\\generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
 =======
 <<<<<<< HEAD
@@ -40,7 +47,10 @@
 =======
 >>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
 >>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+<<<<<<< HEAD
+=======
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
       "RelativeMoniker": "D:0:0:{5CF02709-802F-4EFE-A0B7-7DF2A9C6801F}|Generic-SortedList\\Generic-SortedList.csproj|solutionrelative:generic-sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,6 +61,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
@@ -64,6 +76,7 @@
               "RelativeToolTip": "Generic-SortedList\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwA0AAAAkAAAAAAAAAA==",
 =======
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -113,9 +126,14 @@
 =======
 >>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
 >>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+<<<<<<< HEAD
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:57:23.996Z",
+=======
 >>>>>>> 8d50c968d18e03f45101935c2b91501b204d0c5d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T00:04:34.626Z",
+>>>>>>> c65346a8715ef5f84b526c46ede8030b3555f835
               "EditorCaption": ""
             }
           ]
