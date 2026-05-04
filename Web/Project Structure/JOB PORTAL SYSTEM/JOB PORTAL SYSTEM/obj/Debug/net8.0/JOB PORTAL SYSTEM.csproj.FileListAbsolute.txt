@@ -1,0 +1,35 @@
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\appsettings.Development.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\appsettings.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.staticwebassets.endpoints.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.exe
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.deps.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.runtimeconfig.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\JOB PORTAL SYSTEM.pdb
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.csproj.AssemblyReference.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.AssemblyInfoInputs.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.AssemblyInfo.cs
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.csproj.CoreCompileInputs.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\scopedcss\bundle\JOB PORTAL SYSTEM.styles.css
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\staticwebassets.build.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\staticwebassets.development.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORT.8886996C.Up2Date
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\refint\JOB PORTAL SYSTEM.dll
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.pdb
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\JOB PORTAL SYSTEM.genruntimeconfig.cache
+D:\c#\JOB PORTAL SYSTEM\JOB PORTAL SYSTEM\obj\Debug\net8.0\ref\JOB PORTAL SYSTEM.dll

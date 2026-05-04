@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\9.mvc\\workshop\\hiremenow\\hiremenow\\migrations\\20260318065439_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8746DD-4F4F-43D3-9405-750D40A8F930}|HireMeNow\\HireMeNow.csproj|solutionrelative:hiremenow\\migrations\\20260318065439_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\PublicService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\PublicService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\PublicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:38:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeDocumentMoniker": "HireMeNow\\appsettings.json",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\appsettings.json",
+              "RelativeToolTip": "HireMeNow\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T06:52:58.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostJob.cshtml",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\JobProvider\\PostJob.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T05:56:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\Login.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T05:53:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "HireMeNow\\Controllers\\PublicController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:53:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Controllers\\JobProviderController.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Controllers\\JobProviderController.cs",
+              "RelativeToolTip": "HireMeNow\\Controllers\\JobProviderController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:57:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260318065439_inti.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20260318065439_inti.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Migrations\\20260318065439_inti.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Migrations\\20260318065439_inti.cs",
+              "RelativeToolTip": "HireMeNow\\Migrations\\20260318065439_inti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:54:39.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:33:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobProviderRegistration.cshtml",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeDocumentMoniker": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeToolTip": "HireMeNow\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T05:52:37.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "HireMeNow\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:03:31.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\User.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\User.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\User.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA+wDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:27:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Exceptions\\ServiceException.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Exceptions\\ServiceException.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Exceptions\\ServiceException.cs",
+              "RelativeToolTip": "HireMeNow\\Exceptions\\ServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:03:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Services\\JobService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Services\\JobService.cs",
+              "RelativeToolTip": "HireMeNow\\Services\\JobService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:52:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Enums\\Roles.cs",
+              "RelativeToolTip": "HireMeNow\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:03:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "HireMeNow\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:14:09.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPublicService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IPublicService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Interface\\IPublicService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IPublicService.cs",
+              "RelativeToolTip": "HireMeNow\\Interface\\IPublicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:13:39.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Interface\\IJobService.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Interface\\IJobService.cs",
+              "RelativeToolTip": "HireMeNow\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:13:12.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompanyMemberDto.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\CompanyMemberDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:59:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\JobDto.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\JobDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:57:58.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Dto\\UserDto.cs",
+              "RelativeToolTip": "HireMeNow\\Dto\\UserDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T03:54:20.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "HireMeNow\\Models\\Company.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\9.MVC\\WorkShop\\HireMeNow\\HireMeNow\\Models\\Company.cs",
+              "RelativeToolTip": "HireMeNow\\Models\\Company.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:01:47.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

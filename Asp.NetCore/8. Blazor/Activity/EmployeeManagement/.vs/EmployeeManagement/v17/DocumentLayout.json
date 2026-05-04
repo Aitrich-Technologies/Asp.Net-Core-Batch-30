@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\",
   "Documents": [
     {
@@ -21,6 +22,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|d:\\asp.net-core-batch-30\\asp.netcore\\8. blazor\\activity\\employeemanagement\\employeemanagement\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|d:\\aitrich bootcamp\\asp.net-core-batch-30\\asp.netcore\\8. blazor\\activity\\employeemanagement\\employeemanagement\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A1EE8D5-16AB-4602-BA4A-A534BF6E8BF4}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\pages\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 08a4a85b4eaabd3f574c03f8c354a796c594d948
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -99,6 +108,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-24T05:36:25.188Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.razor",
+              "DocumentMoniker": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\List.razor",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Pages\\List.razor",
+              "ToolTip": "D:\\Aitrich Bootcamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\8. Blazor\\Activity\\EmployeeManagement\\EmployeeManagement\\Pages\\List.razor",
+              "RelativeToolTip": "EmployeeManagement\\Pages\\List.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T05:21:17.037Z",
+>>>>>>> 08a4a85b4eaabd3f574c03f8c354a796c594d948
               "EditorCaption": ""
             }
           ]

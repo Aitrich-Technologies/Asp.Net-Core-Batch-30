@@ -1,0 +1,11 @@
+D:\c#\JOB PORTAL SYSTEM\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\c#\JOB PORTAL SYSTEM\Domain\bin\Debug\net8.0\Domain.dll
+D:\c#\JOB PORTAL SYSTEM\Domain\bin\Debug\net8.0\Domain.pdb
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.dll
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\Domain.pdb
+D:\c#\JOB PORTAL SYSTEM\Domain\obj\Debug\net8.0\ref\Domain.dll

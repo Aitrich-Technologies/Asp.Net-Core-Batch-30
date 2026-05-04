@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\JOB PORTAL SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\platformadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\platformadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\companymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|d:\\c#\\job portal system\\domain\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEDE2A3-006C-4D92-BD52-116814890103}|Domain\\Domain.csproj|solutionrelative:domain\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:744209699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavedJob.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\SavedJob.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SavedJob.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\SavedJob.cs",
+              "RelativeToolTip": "Domain\\Models\\SavedJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:21:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Qualification.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Qualification.cs",
+              "RelativeToolTip": "Domain\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:01:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Skill.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Skill.cs",
+              "RelativeToolTip": "Domain\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:00:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Experience.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Experience.cs",
+              "RelativeToolTip": "Domain\\Models\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:00:08.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Resume.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Resume.cs",
+              "RelativeToolTip": "Domain\\Models\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:59:05.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:58:38.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Application.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Application.cs",
+              "RelativeToolTip": "Domain\\Models\\Application.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:04:44.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\AuthUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:42:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Job.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Job.cs",
+              "RelativeToolTip": "Domain\\Models\\Job.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:06:13.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Interview.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Interview.cs",
+              "RelativeToolTip": "Domain\\Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:03:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyMember.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\CompanyMember.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CompanyMember.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\CompanyMember.cs",
+              "RelativeToolTip": "Domain\\Models\\CompanyMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:06:53.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Company.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\Company.cs",
+              "RelativeToolTip": "Domain\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:07:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatformAdmin.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\PlatformAdmin.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\PlatformAdmin.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\PlatformAdmin.cs",
+              "RelativeToolTip": "Domain\\Models\\PlatformAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:22:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\JobSeeker.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Domain\\Models\\JobSeeker.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:50:05.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\SystemUser.cs",
+              "ToolTip": "D:\\c#\\JOB PORTAL SYSTEM\\Domain\\Models\\SystemUser.cs",
+              "RelativeToolTip": "Domain\\Models\\SystemUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T03:44:17.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
