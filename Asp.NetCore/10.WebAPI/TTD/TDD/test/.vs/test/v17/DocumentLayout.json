@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\10.WebAPI\\TTD\\TDD\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877D7F75-1694-4E79-B6C3-01D554CE69BC}|..\\TDDtest\\TDDtest.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\10.webapi\\ttd\\tdd\\tddtest\\controllers\\addcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C33EB8-0486-4AD0-A58E-2C5F31B25546}|test.csproj|c:\\bootcamp\\asp.net-core-batch-30\\asp.netcore\\10.webapi\\ttd\\tdd\\test\\controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C33EB8-0486-4AD0-A58E-2C5F31B25546}|test.csproj|solutionrelative:controllers\\addcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddControllerTests.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\10.WebAPI\\TTD\\TDD\\TDDtest\\Controllers\\AddControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TDDtest\\Controllers\\AddControllerTests.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\10.WebAPI\\TTD\\TDD\\TDDtest\\Controllers\\AddControllerTests.cs*",
+              "RelativeToolTip": "..\\TDDtest\\Controllers\\AddControllerTests.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:58:15.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddController.cs",
+              "DocumentMoniker": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\10.WebAPI\\TTD\\TDD\\test\\Controllers\\AddController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddController.cs",
+              "ToolTip": "C:\\BootCamp\\Asp.Net-Core-Batch-30\\Asp.NetCore\\10.WebAPI\\TTD\\TDD\\test\\Controllers\\AddController.cs*",
+              "RelativeToolTip": "Controllers\\AddController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:38:40.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

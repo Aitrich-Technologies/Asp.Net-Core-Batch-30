@@ -1,0 +1,15 @@
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.dll
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.pdb
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.dll
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.pdb
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\BootCamp\Asp.Net-Core-Batch-30\Asp.NetCore\10.WebAPI\Activity\JobCRUD\Domain\obj\Debug\net8.0\ref\Domain.dll
